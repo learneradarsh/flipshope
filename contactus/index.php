@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	
-<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/site-map.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:00 GMT -->
+<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:00 GMT -->
 <head>
 		<!-- Basic -->
 		<meta charset="utf-8">
@@ -27,6 +27,7 @@
 		<!-- Head Libs -->
 		<!-- Modernizr -->
 		<script src="external/modernizr/modernizr.js"></script>
+
 	</head>
 	<body>
 		<div id="loader-wrapper">
@@ -51,12 +52,12 @@
 					<li>
 						<span class="name">
 							<span class="expander">-</span>
-							<a href="index.html"><span class="act-underline">LAYOUT</span></a>
+							<a href="index.php"><span class="act-underline">LAYOUT</span></a>
 						</span>
 						<ul class="dropdown-menu megamenu image-links-layout" role="menu">												
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index.html">
+								<a href="index.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 1 (Default)</span>
 								</a>
@@ -64,7 +65,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-02.html">
+								<a href="index-02.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 2</span>
 								</a>
@@ -72,7 +73,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-03.html">
+								<a href="index-03.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 3</span>
 								</a>
@@ -80,7 +81,7 @@
 							</li>												
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-04.html">
+								<a href="index-04.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 4</span>
 								</a>
@@ -88,7 +89,7 @@
 							</li>												
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-05.html">
+								<a href="index-05.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 5</span>
 								</a>
@@ -96,7 +97,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-06.html">
+								<a href="index-06.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 6</span>
 								</a>
@@ -104,7 +105,7 @@
 							</li>												
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-07.html">
+								<a href="index-07.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 7</span>
 								</a>
@@ -112,7 +113,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-08.html">
+								<a href="index-08.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 8</span>
 								</a>
@@ -120,7 +121,7 @@
 							</li>												
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-09.html">
+								<a href="index-09.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 9</span>
 								</a>
@@ -128,7 +129,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-10.html">
+								<a href="index-10.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 10</span>
 								</a>
@@ -136,7 +137,7 @@
 							</li>												
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-11.html">
+								<a href="index-11.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 11</span>
 								</a>
@@ -144,7 +145,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="index-12.html">
+								<a href="index-12.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 12</span>
 								</a>
@@ -155,12 +156,12 @@
 					<li>
 						<span class="name">
 							<span class="expander">-</span>
-							<a href="listing.html"><span class="act-underline">LISTING</span></a>
+							<a href="listing.php"><span class="act-underline">LISTING</span></a>
 						</span>						
 						<ul class="dropdown-menu megamenu image-links" role="menu">							
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="listing.html">
+								<a href="listing.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left column</span>
 								</a>
@@ -168,7 +169,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="listing-left-right-col.html">
+								<a href="listing-left-right-col.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left, right column</span>
 								</a>
@@ -176,7 +177,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="listing-col-right_03.html">
+								<a href="listing-col-right_03.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">right column</span>
 								</a>
@@ -184,7 +185,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="listing-without-col-04.html">
+								<a href="listing-without-col-04.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-4.png" alt=""/></span>
 								<span class="figcaption text-uppercase">without columns</span>
 								</a>
@@ -192,7 +193,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="listing-col-left-without-without-static-block_05.html">
+								<a href="listing-col-left-without-without-static-block_05.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-5.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left column,<br> without Static block</span>
 								</a>
@@ -200,7 +201,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="listing-without-col-without-static-block_06.html">
+								<a href="listing-without-col-without-static-block_06.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-6.png" alt=""/></span>
 								<span class="figcaption text-uppercase">without columns,<br> without Static block</span>
 								</a>
@@ -208,7 +209,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="listing-without-col-without-static-block_small_07.html">
+								<a href="listing-without-col-without-static-block_small_07.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-7.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Small</span>
 								</a>
@@ -216,7 +217,7 @@
 							</li>
 							<li class="col-one-fourth">
 								<span class="image-link">
-								<a href="listing-without-col-without-static-block_big_08.html">
+								<a href="listing-without-col-without-static-block_big_08.php">
 								<span class="figure"><img class="img-responsive img-border" src="images/custom/listing-img-8.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Big</span>
 								</a>
@@ -227,12 +228,12 @@
 					<li>
 						<span class="name">
 							<span class="expander">-</span>
-							<a href="product.html"><span class="act-underline"><span class="act-underline">PRODUCT</span></span></a>
+							<a href="product.php"><span class="act-underline"><span class="act-underline">PRODUCT</span></span></a>
 						</span>
 						<ul class="dropdown-menu megamenu image-links" role="menu">							
 							<li class="col-one-third">
 								<span class="image-link">
-								<a href="product-small.html">
+								<a href="product-small.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - small</span>
 								</a>
@@ -240,7 +241,7 @@
 							</li>
 							<li class="col-one-third">
 								<span class="image-link">
-								<a href="product.html">
+								<a href="product.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - medium</span>
 								</a>
@@ -248,7 +249,7 @@
 							</li>
 							<li class="col-one-third">
 								<span class="image-link">
-								<a href="product-big.html">
+								<a href="product-big.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - big</span>
 								</a>
@@ -259,12 +260,12 @@
 					<li>
 						<span class="name">
 							<span class="expander">-</span>
-							<a href="blog-layout-1.html"><span class="act-underline">BLOG</span></a>
+							<a href="blog-layout-1.php"><span class="act-underline">BLOG</span></a>
 						</span>
 						<ul class="dropdown-menu megamenu image-links" role="menu">							
 							<li class="col-one-third">
 								<span class="image-link">
-								<a href="blog-layout-1.html">
+								<a href="blog-layout-1.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 1</span>
 								</a>
@@ -272,7 +273,7 @@
 							</li>
 							<li class="col-one-third">
 								<span class="image-link">
-								<a href="blog-layout-2.html">
+								<a href="blog-layout-2.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 2</span>
 								</a>
@@ -280,7 +281,7 @@
 							</li>
 							<li class="col-one-third">
 								<span class="image-link">
-								<a href="blog-layout-3.html">
+								<a href="blog-layout-3.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 3</span>
 								</a>
@@ -291,12 +292,12 @@
 					<li>
 						<span class="name">
 							<span class="expander">-</span>
-							<a href="gallery-layout-1.html"><span class="act-underline">GALLERY</span></a>
+							<a href="gallery-layout-1.php"><span class="act-underline">GALLERY</span></a>
 						</span>
 						<ul class="dropdown-menu megamenu image-links" role="menu">							
 							<li class="col-one-fifth">
 								<span class="image-link">
-								<a href="gallery-layout-1.html">
+								<a href="gallery-layout-1.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 1</span>
 								</a>
@@ -304,7 +305,7 @@
 							</li>
 							<li class="col-one-fifth">
 								<span class="image-link">
-								<a href="gallery-layout-2.html">
+								<a href="gallery-layout-2.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 2</span>
 								</a>
@@ -312,7 +313,7 @@
 							</li>
 							<li class="col-one-fifth">
 								<span class="image-link">
-								<a href="gallery-layout-3.html">
+								<a href="gallery-layout-3.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 3</span>
 								</a>
@@ -320,7 +321,7 @@
 							</li>
 							<li class="col-one-fifth">
 								<span class="image-link">
-								<a href="gallery-layout-4.html">
+								<a href="gallery-layout-4.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-4.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 4</span>
 								</a>
@@ -328,7 +329,7 @@
 							</li>
 							<li class="col-one-fifth">
 								<span class="image-link">
-								<a href="gallery-layout-5.html">
+								<a href="gallery-layout-5.php">
 								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-5.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 5</span>
 								</a>
@@ -338,103 +339,103 @@
 					</li>					
 					<li>
 						<span class="name"><span class="expander">-</span>
-							<a href="about.html"><span class="act-underline">PAGES</span></a>
+							<a href="about.php"><span class="act-underline">PAGES</span></a>
 						</span>						
 						<ul class="multicolumn">
-							<li><a href="about.html">About</a></li>
-							<li><a href="support-24.html">Support 24/7 page</a></li>
-							<li><a href="services.html">Services</a></li>	
-							<li><a href="faq.html">FAQs</a></li>													
-							<li><a href="contact.html">Contact</a></li>
-							<li><a href="under-construction.html">Under Construction</a></li>
-							<li><a href="warranty.html">Warranty Page</a></li>
-							<li><a href="site-map.html">Site Map</a></li>												
-							<li><a href="delivery-page.html">Delivery Page</a></li>
-							<li><a href="payment-page.html">Payment page</a></li>													
-							<li><a href="typography.html">Typography</a></li>	
-							<li><a href="page-404.html">Page 404</a></li>
-							<li><a href="checkout-one-page.html">Checkout one page</a></li>
-							<li><a href="checkout-step.html">Checkout step</a></li>			
-							<li><a href="_newsletter-template/newsletter-template.html">Newsletter template</a></li>											
+							<li><a href="about.php">About</a></li>
+							<li><a href="support-24.php">Support 24/7 page</a></li>
+							<li><a href="services.php">Services</a></li>	
+							<li><a href="faq.php">FAQs</a></li>													
+							<li><a href="contact.php">Contact</a></li>
+							<li><a href="under-construction.php">Under Construction</a></li>
+							<li><a href="warranty.php">Warranty Page</a></li>
+							<li><a href="site-map.php">Site Map</a></li>												
+							<li><a href="delivery-page.php">Delivery Page</a></li>
+							<li><a href="payment-page.php">Payment page</a></li>													
+							<li><a href="typography.php">Typography</a></li>	
+							<li><a href="page-404.php">Page 404</a></li>
+							<li><a href="checkout-one-page.php">Checkout one page</a></li>
+							<li><a href="checkout-step.php">Checkout step</a></li>			
+							<li><a href="_newsletter-template/newsletter-template.php">Newsletter template</a></li>											
 						</ul>
 					</li>
 					<li>
 						<span class="name">
 							<span class="expander">-</span>
-							<a href="listing.html"><span class="act-underline">WOMEN’s<span class="badge badge--menu">NEW</span></span></a>
+							<a href="listing.php"><span class="act-underline">WOMEN’s<span class="badge badge--menu">NEW</span></span></a>
 						</span>
 						<ul class="multicolumn-level">
 							<li>
 								<span class="name">
 									<span class="expander">-</span>
-									<a class="megamenu__subtitle" href="listing.html">										
+									<a class="megamenu__subtitle" href="listing.php">										
 										<span>TOPS</span>
 									</a>
 								</span>
 								<ul class="image-links-level-3 megamenu__submenu">									
-									<li class="level3"><a href="listing.html">Blouses & Shirts</a></li>									
+									<li class="level3"><a href="listing.php">Blouses & Shirts</a></li>									
 									<li class="level3">										
 										<span class="name">
 											<span class="expander">-</span>
-											<a href="listing.html"><span class="act-underline">Dresses</span></a>
+											<a href="listing.php"><span class="act-underline">Dresses</span></a>
 										</span>
 										<ul class="image-links-level-4 megamenu__submenu">
-											<li class="level4"><a href="listing.html">Bodycon Dresses</a></li>
+											<li class="level4"><a href="listing.php">Bodycon Dresses</a></li>
 											<li class="level4">												
 												<span class="name">
 													<span class="expander">-</span>
-													<a href="listing.html"><span class="act-underline">Midi Dresses</span></a>
+													<a href="listing.php"><span class="act-underline">Midi Dresses</span></a>
 												</span>
 												<ul class="image-links-level-5 megamenu__submenu">
-													<li class="level5"><a href="listing.html">Occasion & Cocktail</a></li>
-													<li class="level5"><a href="listing.html">Casual Everyday</a></li>
-													<li class="level5"><a href="listing.html">Going Out & Party Dresses</a></li>
+													<li class="level5"><a href="listing.php">Occasion & Cocktail</a></li>
+													<li class="level5"><a href="listing.php">Casual Everyday</a></li>
+													<li class="level5"><a href="listing.php">Going Out & Party Dresses</a></li>
 												</ul>
 											</li>
-											<li class="level4"><a href="listing.html">Fit & Flare</a></li>
-											<li class="level4"><a href="listing.html">Shift Dresses</a></li>											
-											<li class="level4"><a href="listing.html">Slip Dresses</a></li>
-											<li class="level4"><a href="listing.html">Tunic Dresses</a></li>
+											<li class="level4"><a href="listing.php">Fit & Flare</a></li>
+											<li class="level4"><a href="listing.php">Shift Dresses</a></li>											
+											<li class="level4"><a href="listing.php">Slip Dresses</a></li>
+											<li class="level4"><a href="listing.php">Tunic Dresses</a></li>
 										</ul>
 									</li>
-									<li class="level3"><a href="listing.html">Tops & T-shirts</a></li>
-									<li class="level3"><a href="listing.html">Sleeveless Tops</a></li>									
-									<li class="level3"><a href="listing.html">Sweaters & Cardigans</a></li>
-									<li class="level3"><a href="listing.html">Jackets</a></li>
-									<li class="level3"><a href="listing.html">Outerwear</a></li>
+									<li class="level3"><a href="listing.php">Tops & T-shirts</a></li>
+									<li class="level3"><a href="listing.php">Sleeveless Tops</a></li>									
+									<li class="level3"><a href="listing.php">Sweaters & Cardigans</a></li>
+									<li class="level3"><a href="listing.php">Jackets</a></li>
+									<li class="level3"><a href="listing.php">Outerwear</a></li>
 								</ul>
 							</li>
 							<li>
 								<span class="name">
 									<span class="expander">-</span>
-									<a class="megamenu__subtitle" href="listing.html">										
+									<a class="megamenu__subtitle" href="listing.php">										
 										<span>BOTTOMS</span>
 									</a>
 								</span>
 								<ul class="image-links-level-3 megamenu__submenu">									
-									<li class="level3"><a href="listing.html">Trousers</a></li>
-									<li class="level3"><a href="listing.html">Jeans</a></li>
-									<li class="level3"><a href="listing.html">Leggings</a></li>
-									<li class="level3"><a href="listing.html">Jumpsuit & shorts</a></li>
-									<li class="level3"><a href="listing.html">Skirts</a></li>
-									<li class="level3"><a href="listing.html">Tights</a></li>								
+									<li class="level3"><a href="listing.php">Trousers</a></li>
+									<li class="level3"><a href="listing.php">Jeans</a></li>
+									<li class="level3"><a href="listing.php">Leggings</a></li>
+									<li class="level3"><a href="listing.php">Jumpsuit & shorts</a></li>
+									<li class="level3"><a href="listing.php">Skirts</a></li>
+									<li class="level3"><a href="listing.php">Tights</a></li>								
 								</ul>
 							</li>
 							<li>
 								<span class="name">
 									<span class="expander">-</span>
-									<a class="megamenu__subtitle" href="listing.html">										
+									<a class="megamenu__subtitle" href="listing.php">										
 										<span>ACCESSORIES</span>
 									</a>
 								</span>
 								<ul class="image-links-level-3 megamenu__submenu">									
-									<li class="level3"><a href="listing.html">Jewellery</a></li>
-									<li class="level3"><a href="listing.html">Hats</a></li>
-									<li class="level3"><a href="listing.html">Scarves & snoods</a></li>
-									<li class="level3"><a href="listing.html">Belts</a></li>
-									<li class="level3"><a href="listing.html">Bags</a></li>
-									<li class="level3"><a href="listing.html">Shoes</a></li>
-									<li class="level3"><a href="listing.html">Sunglasses</a></li>																	
+									<li class="level3"><a href="listing.php">Jewellery</a></li>
+									<li class="level3"><a href="listing.php">Hats</a></li>
+									<li class="level3"><a href="listing.php">Scarves & snoods</a></li>
+									<li class="level3"><a href="listing.php">Belts</a></li>
+									<li class="level3"><a href="listing.php">Bags</a></li>
+									<li class="level3"><a href="listing.php">Shoes</a></li>
+									<li class="level3"><a href="listing.php">Sunglasses</a></li>																	
 								</ul>
 							</li>
 						</ul>
@@ -442,48 +443,48 @@
 					<li>
 						<span class="name">
 							<span class="expander">-</span>
-							<a href="listing.html"><span class="act-underline">MEN’s<span class="badge badge--menu badge--color">SALE</span></span></a>
+							<a href="listing.php"><span class="act-underline">MEN’s<span class="badge badge--menu badge--color">SALE</span></span></a>
 						</span>
 						<ul class="multicolumn-level">
 							<li>
 								<span class="name">
 									<span class="expander">-</span>
-									<a class="megamenu__subtitle" href="listing.html">										
+									<a class="megamenu__subtitle" href="listing.php">										
 										<span>TOPS</span>
 									</a>
 								</span>
 								<ul class="image-links-level-3 megamenu__submenu">									
-									<li class="level3"><a href="listing.html">Jackets</a></li>									
-									<li class="level3"><a href="listing.html">Shirts</a></li>
-									<li class="level3"><a href="listing.html">Sweaters & Cardigans</a></li>
-									<li class="level3"><a href="listing.html">T-shirts</a></li>									
+									<li class="level3"><a href="listing.php">Jackets</a></li>									
+									<li class="level3"><a href="listing.php">Shirts</a></li>
+									<li class="level3"><a href="listing.php">Sweaters & Cardigans</a></li>
+									<li class="level3"><a href="listing.php">T-shirts</a></li>									
 								</ul>
 							</li>
 							<li>
 								<span class="name">
 									<span class="expander">-</span>
-									<a class="megamenu__subtitle" href="listing.html">										
+									<a class="megamenu__subtitle" href="listing.php">										
 										<span>BOTTOMS</span>
 									</a>
 								</span>
 								<ul class="image-links-level-3 megamenu__submenu">									
-									<li class="level3"><a href="listing.html">Trousers</a></li>									
-									<li class="level3"><a href="listing.html">Jeans</a></li>
-									<li class="level3"><a href="listing.html">Skirts</a></li>
-									<li class="level3"><a href="listing.html">Swimwear</a></li>									
+									<li class="level3"><a href="listing.php">Trousers</a></li>									
+									<li class="level3"><a href="listing.php">Jeans</a></li>
+									<li class="level3"><a href="listing.php">Skirts</a></li>
+									<li class="level3"><a href="listing.php">Swimwear</a></li>									
 								</ul>
 							</li>
 							<li>
 								<span class="name">
 									<span class="expander">-</span>
-									<a class="megamenu__subtitle" href="listing.html">										
+									<a class="megamenu__subtitle" href="listing.php">										
 										<span>ACCESSORIES</span>
 									</a>
 								</span>
 								<ul class="image-links-level-3 megamenu__submenu">									
-									<li class="level3"><a href="listing.html">Bags</a></li>									
-									<li class="level3"><a href="listing.html">Shoes</a></li>
-									<li class="level3"><a href="listing.html">Sunglasses</a></li>																		
+									<li class="level3"><a href="listing.php">Bags</a></li>									
+									<li class="level3"><a href="listing.php">Shoes</a></li>
+									<li class="level3"><a href="listing.php">Sunglasses</a></li>																		
 								</ul>
 							</li>
 						</ul>
@@ -500,7 +501,7 @@
 					<div class="row">
 						<div class="col-sm-4 col-md-4 col-lg-6 col-xl-7">
 							<!-- logo start --> 
-							<a href="index.html"><img class="logo replace-2x img-responsive" src="images/logo.png" alt=""/> </a> 
+							<a href="index.php"><img class="logo replace-2x img-responsive" src="images/logo.png" alt=""/> </a> 
 							<!-- logo end --> 
 						</div>
 						<div class="col-sm-8 col-md-8 col-lg-6 col-xl-5 text-right">
@@ -561,11 +562,11 @@
 										<ul class="nav navbar-nav">
 											<li class="dl-close"><a href="#"><span class="icon icon-close"></span>close</a></li>										
 											<li class="dropdown dropdown-mega-menu">											
-												<a href="index.html" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">LAYOUT</span></a>
+												<a href="index.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">LAYOUT</span></a>
 												<ul class="dropdown-menu megamenu image-links-layout" role="menu">												
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index.html">
+														<a href="index.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 1 (Default)</span>
 														</a>
@@ -573,7 +574,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-02.html">
+														<a href="index-02.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 2</span>
 														</a>
@@ -581,7 +582,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-03.html">
+														<a href="index-03.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 3</span>
 														</a>
@@ -589,7 +590,7 @@
 													</li>												
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-04.html">
+														<a href="index-04.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 4</span>
 														</a>
@@ -597,7 +598,7 @@
 													</li>												
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-05.html">
+														<a href="index-05.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 5</span>
 														</a>
@@ -605,7 +606,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-06.html">
+														<a href="index-06.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 6</span>
 														</a>
@@ -613,7 +614,7 @@
 													</li>												
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-07.html">
+														<a href="index-07.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 7</span>
 														</a>
@@ -621,7 +622,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-08.html">
+														<a href="index-08.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 8</span>
 														</a>
@@ -629,7 +630,7 @@
 													</li>												
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-09.html">
+														<a href="index-09.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 9</span>
 														</a>
@@ -637,7 +638,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-10.html">
+														<a href="index-10.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 10</span>
 														</a>
@@ -645,7 +646,7 @@
 													</li>												
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-11.html">
+														<a href="index-11.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 11</span>
 														</a>
@@ -653,7 +654,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="index-12.html">
+														<a href="index-12.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 12</span>
 														</a>
@@ -663,12 +664,12 @@
 											</li>											
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="listing.html" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">LISTING</span></a>
+												<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">LISTING</span></a>
 												<ul class="dropdown-menu megamenu image-links" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="listing.html">
+														<a href="listing.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left column</span>
 														</a>
@@ -676,7 +677,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="listing-left-right-col.html">
+														<a href="listing-left-right-col.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left, right column</span>
 														</a>
@@ -684,7 +685,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="listing-col-right_03.html">
+														<a href="listing-col-right_03.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">right column</span>
 														</a>
@@ -692,7 +693,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="listing-without-col-04.html">
+														<a href="listing-without-col-04.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-4.png" alt=""/></span>
 														<span class="figcaption text-uppercase">without columns</span>
 														</a>
@@ -700,7 +701,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="listing-col-left-without-without-static-block_05.html">
+														<a href="listing-col-left-without-without-static-block_05.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-5.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left column,<br> without Static block</span>
 														</a>
@@ -708,7 +709,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="listing-without-col-without-static-block_06.html">
+														<a href="listing-without-col-without-static-block_06.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-6.png" alt=""/></span>
 														<span class="figcaption text-uppercase">without columns,<br> without Static block</span>
 														</a>
@@ -716,7 +717,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="listing-without-col-without-static-block_small_07.html">
+														<a href="listing-without-col-without-static-block_small_07.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-7.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Small</span>
 														</a>
@@ -724,7 +725,7 @@
 													</li>
 													<li class="col-one-fourth">
 														<span class="image-link">
-														<a href="listing-without-col-without-static-block_big_08.html">
+														<a href="listing-without-col-without-static-block_big_08.php">
 														<span class="figure"><img class="img-responsive img-border" src="images/custom/listing-img-8.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Big</span>
 														</a>
@@ -734,12 +735,12 @@
 											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="product.html" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">PRODUCT</span></a>
+												<a href="product.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">PRODUCT</span></a>
 												<ul class="dropdown-menu megamenu image-links" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="col-one-third">
 														<span class="image-link">
-														<a href="product-small.html">
+														<a href="product-small.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - small</span>
 														</a>
@@ -747,7 +748,7 @@
 													</li>
 													<li class="col-one-third">
 														<span class="image-link">
-														<a href="product.html">
+														<a href="product.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - medium</span>
 														</a>
@@ -755,7 +756,7 @@
 													</li>
 													<li class="col-one-third">
 														<span class="image-link">
-														<a href="product-big.html">
+														<a href="product-big.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - big</span>
 														</a>
@@ -765,12 +766,12 @@
 											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="blog-layout-1.html" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">BLOG</span></a>
+												<a href="blog-layout-1.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">BLOG</span></a>
 												<ul class="dropdown-menu megamenu image-links" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="col-one-third">
 														<span class="image-link">
-														<a href="blog-layout-1.html">
+														<a href="blog-layout-1.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 1</span>
 														</a>
@@ -778,7 +779,7 @@
 													</li>
 													<li class="col-one-third">
 														<span class="image-link">
-														<a href="blog-layout-2.html">
+														<a href="blog-layout-2.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 2</span>
 														</a>
@@ -786,7 +787,7 @@
 													</li>
 													<li class="col-one-third">
 														<span class="image-link">
-														<a href="blog-layout-3.html">
+														<a href="blog-layout-3.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 3</span>
 														</a>
@@ -796,12 +797,12 @@
 											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="gallery-layout-1.html" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">GALLERY</span></a>
+												<a href="gallery-layout-1.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">GALLERY</span></a>
 												<ul class="dropdown-menu megamenu image-links" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="col-one-fifth">
 														<span class="image-link">
-														<a href="gallery-layout-1.html">
+														<a href="gallery-layout-1.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 1</span>
 														</a>
@@ -809,7 +810,7 @@
 													</li>
 													<li class="col-one-fifth">
 														<span class="image-link">
-														<a href="gallery-layout-2.html">
+														<a href="gallery-layout-2.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 2</span>
 														</a>
@@ -817,7 +818,7 @@
 													</li>
 													<li class="col-one-fifth">
 														<span class="image-link">
-														<a href="gallery-layout-3.html">
+														<a href="gallery-layout-3.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 3</span>
 														</a>
@@ -825,7 +826,7 @@
 													</li>
 													<li class="col-one-fifth">
 														<span class="image-link">
-														<a href="gallery-layout-4.html">
+														<a href="gallery-layout-4.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-4.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 4</span>
 														</a>
@@ -833,7 +834,7 @@
 													</li>
 													<li class="col-one-fifth">
 														<span class="image-link">
-														<a href="gallery-layout-5.html">
+														<a href="gallery-layout-5.php">
 														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-5.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 5</span>
 														</a>
@@ -843,91 +844,91 @@
 											</li>
 											<li class="dropdown dropdown-mega-menu dropdown-two-col">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="about.html" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">PAGES</span></a>
+												<a href="about.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">PAGES</span></a>
 												<ul class="dropdown-menu multicolumn two-col" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>													
-													<li><a href="about.html">About</a></li>
-													<li><a href="support-24.html">Support 24/7 page</a></li>
-													<li><a href="services.html">Services</a></li>	
-													<li><a href="faq.html">FAQs</a></li>													
-													<li><a href="contact.html">Contact</a></li>
-													<li><a href="under-construction.html">Under Construction</a></li>
-													<li><a href="warranty.html">Warranty Page</a></li>
-													<li><a href="site-map.html">Site Map</a></li>												
-													<li><a href="delivery-page.html">Delivery Page</a></li>
-													<li><a href="payment-page.html">Payment page</a></li>													
-													<li><a href="typography.html">Typography</a></li>	
-													<li><a href="page-404.html">Page 404</a></li>		
-													<li><a href="checkout-one-page.html">Checkout one page</a></li>
-													<li><a href="_newsletter-template/newsletter-template.html">Newsletter template</a></li>													
-													<li><a href="checkout-step.html">Checkout step</a></li>
+													<li><a href="about.php">About</a></li>
+													<li><a href="support-24.php">Support 24/7 page</a></li>
+													<li><a href="services.php">Services</a></li>	
+													<li><a href="faq.php">FAQs</a></li>													
+													<li><a href="contact.php">Contact</a></li>
+													<li><a href="under-construction.php">Under Construction</a></li>
+													<li><a href="warranty.php">Warranty Page</a></li>
+													<li><a href="site-map.php">Site Map</a></li>												
+													<li><a href="delivery-page.php">Delivery Page</a></li>
+													<li><a href="payment-page.php">Payment page</a></li>													
+													<li><a href="typography.php">Typography</a></li>	
+													<li><a href="page-404.php">Page 404</a></li>		
+													<li><a href="checkout-one-page.php">Checkout one page</a></li>
+													<li><a href="_newsletter-template/newsletter-template.php">Newsletter template</a></li>													
+													<li><a href="checkout-step.php">Checkout step</a></li>
 												</ul>
 											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="listing.html" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">WOMEN’s<span class="badge badge--menu">NEW</span></span></a>
+												<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">WOMEN’s<span class="badge badge--menu">NEW</span></span></a>
 												<ul class="dropdown-menu megamenu" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="col-sm-3">
-														<a href="listing.html" class="megamenu__subtitle"><span>TOPS</span></a>
+														<a href="listing.php" class="megamenu__subtitle"><span>TOPS</span></a>
 														<ul class="megamenu__submenu">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-															<li class="level2"><a href="listing.html">Blouses & Shirts</a></li>
+															<li class="level2"><a href="listing.php">Blouses & Shirts</a></li>
 															<li class="level2">
-																<a href="listing.html">Dresses</a>
+																<a href="listing.php">Dresses</a>
 																<ul class="megamenu__submenu">
 																	<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-																	<li class="level3"><a href="listing.html">Bodycon Dresses</a></li>
+																	<li class="level3"><a href="listing.php">Bodycon Dresses</a></li>
 																	<li class="level3">
-																		<a href="listing.html">Midi Dresses</a>
+																		<a href="listing.php">Midi Dresses</a>
 																		<ul class="megamenu__submenu">
-																			<li class="dl-back"><a href="listing.html"><span class="icon icon-chevron_left"></span>back</a></li>
-																			<li class="level4"><a href="listing.html">Occasion & Cocktail</a></li>
-																			<li class="level4"><a href="listing.html">Casual Everyday</a></li>
-																			<li class="level4"><a href="listing.html">Going Out & Party Dresses</a></li>
+																			<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+																			<li class="level4"><a href="listing.php">Occasion & Cocktail</a></li>
+																			<li class="level4"><a href="listing.php">Casual Everyday</a></li>
+																			<li class="level4"><a href="listing.php">Going Out & Party Dresses</a></li>
 																		</ul>
 																	</li>
-																	<li class="level3"><a href="listing.html">Fit & Flare</a></li>
-																	<li class="level3"><a href="listing.html">Shift Dresses</a></li>
-																	<li class="level3"><a href="listing.html">Shirt Dresses</a></li>
-																	<li class="level3"><a href="listing.html">Slip Dresses</a></li>
-																	<li class="level3"><a href="listing.html">Tunic Dresses</a></li>
+																	<li class="level3"><a href="listing.php">Fit & Flare</a></li>
+																	<li class="level3"><a href="listing.php">Shift Dresses</a></li>
+																	<li class="level3"><a href="listing.php">Shirt Dresses</a></li>
+																	<li class="level3"><a href="listing.php">Slip Dresses</a></li>
+																	<li class="level3"><a href="listing.php">Tunic Dresses</a></li>
 																</ul>
 															</li>
-															<li class="level2"><a href="listing.html">Tops & T-shirts</a></li>
-															<li class="level2"><a href="listing.html">Sleeveless Tops</a></li>
-															<li class="level2"><a href="listing.html">Sweaters & Cardigans</a></li>
-															<li class="level2"><a href="listing.html">Jackets</a></li>
-															<li class="level2"><a href="listing.html">Outerwear</a></li>
+															<li class="level2"><a href="listing.php">Tops & T-shirts</a></li>
+															<li class="level2"><a href="listing.php">Sleeveless Tops</a></li>
+															<li class="level2"><a href="listing.php">Sweaters & Cardigans</a></li>
+															<li class="level2"><a href="listing.php">Jackets</a></li>
+															<li class="level2"><a href="listing.php">Outerwear</a></li>
 														</ul>
 													</li>
 													<li class="col-sm-3">
-														<a href="listing.html" class="megamenu__subtitle"><span>BOTTOMS</span></a>
+														<a href="listing.php" class="megamenu__subtitle"><span>BOTTOMS</span></a>
 														<ul class="megamenu__submenu">
-															<li class="dl-back"><a href="listing.html"><span class="icon icon-chevron_left"></span>back</a></li>
-															<li class="level2"><a href="listing.html">Trousers</a></li>
-															<li class="level2"><a href="listing.html">Jeans</a></li>
-															<li class="level2"><a href="listing.html">Leggings</a></li>
-															<li class="level2"><a href="listing.html">Jumpsuit & shorts</a></li>
-															<li class="level2"><a href="listing.html">Skirts</a></li>
-															<li class="level2"><a href="listing.html">Tights</a></li>
+															<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+															<li class="level2"><a href="listing.php">Trousers</a></li>
+															<li class="level2"><a href="listing.php">Jeans</a></li>
+															<li class="level2"><a href="listing.php">Leggings</a></li>
+															<li class="level2"><a href="listing.php">Jumpsuit & shorts</a></li>
+															<li class="level2"><a href="listing.php">Skirts</a></li>
+															<li class="level2"><a href="listing.php">Tights</a></li>
 														</ul>
 													</li>
 													<li class="col-sm-3">
-														<a href="listing.html" class="megamenu__subtitle"><span>ACCESSORIES</span></a>
+														<a href="listing.php" class="megamenu__subtitle"><span>ACCESSORIES</span></a>
 														<ul class="megamenu__submenu">
-															<li class="dl-back"><a href="listing.html"><span class="icon icon-chevron_left"></span>back</a></li>
-															<li class="level2"><a href="listing.html">Jewellery</a></li>
-															<li class="level2"><a href="listing.html">Hats</a></li>
-															<li class="level2"><a href="listing.html">Scarves & snoods</a></li>
-															<li class="level2"><a href="listing.html">Belts</a></li>
-															<li class="level2"><a href="listing.html">Bags</a></li>
-															<li class="level2"><a href="listing.html">Shoes</a></li>
-															<li class="level2"><a href="listing.html">Sunglasses</a></li>
+															<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+															<li class="level2"><a href="listing.php">Jewellery</a></li>
+															<li class="level2"><a href="listing.php">Hats</a></li>
+															<li class="level2"><a href="listing.php">Scarves & snoods</a></li>
+															<li class="level2"><a href="listing.php">Belts</a></li>
+															<li class="level2"><a href="listing.php">Bags</a></li>
+															<li class="level2"><a href="listing.php">Shoes</a></li>
+															<li class="level2"><a href="listing.php">Sunglasses</a></li>
 														</ul>
 													</li>
 													<li class="col-sm-3 hidden-xs">
-														<a href="listing.html" class="megamenu__subtitle"><span>FEATURED</span></a>
+														<a href="listing.php" class="megamenu__subtitle"><span>FEATURED</span></a>
 														<!-- carousel -->
 															<div class="carousel-products" id="megaMenuCarousel1">
 																<div>
@@ -936,12 +937,12 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.html"> <img src="images/product/product-20.jpg" alt=""> </a> 																	
+																				<a href="product.php"> <img src="images/product/product-20.jpg" alt=""> </a> 																	
 																			</div>
 																			<!-- /product image --> 
 																			<!-- product name -->
 																			<div class="product__inside__name">
-																				<h2><a href="product.html">Mauris lacinia lectus</a></h2>
+																				<h2><a href="product.php">Mauris lacinia lectus</a></h2>
 																			</div>
 																			<!-- /product name --> 
 																			<!-- product price -->
@@ -957,12 +958,12 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.html"> <img src="images/product/product-2.jpg" alt=""> </a> 																		
+																				<a href="product.php"> <img src="images/product/product-2.jpg" alt=""> </a> 																		
 																			</div>
 																			<!-- /product image --> 
 																			<!-- product name -->
 																			<div class="product__inside__name">
-																				<h2><a href="product.html">Mauris lacinia lectus</a></h2>
+																				<h2><a href="product.php">Mauris lacinia lectus</a></h2>
 																			</div>
 																			<!-- /product name --> 
 																			<!-- product price -->
@@ -978,13 +979,13 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.html"> <img src="images/product/product-4.jpg" alt=""> </a>
+																				<a href="product.php"> <img src="images/product/product-4.jpg" alt=""> </a>
 																				
 																			</div>
 																			<!-- /product image --> 
 																			<!-- product name -->
 																			<div class="product__inside__name">
-																				<h2><a href="product.html">Mauris lacinia lectus</a></h2>
+																				<h2><a href="product.php">Mauris lacinia lectus</a></h2>
 																			</div>
 																			<!-- /product name --> 
 																			<!-- product price -->
@@ -1007,33 +1008,33 @@
 											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="listing.html" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">MEN’s<span class="badge badge--menu badge--color">SALE</span></span></a>
+												<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">MEN’s<span class="badge badge--menu badge--color">SALE</span></span></a>
 												<ul class="dropdown-menu megamenu" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="col-sm-3">												
-														<a href="listing.html" class="megamenu__subtitle">
+														<a href="listing.php" class="megamenu__subtitle">
 															<span>TOPS</span>
 															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-1.jpg" alt=""/></span>
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-															<li class="level2"><a href="listing.html">Jackets</a></li>
-															<li class="level2"><a href="listing.html">Shirts</a></li>
-															<li class="level2"><a href="listing.html">Sweaters & Cardigans</a></li>
-															<li class="level2"><a href="listing.html">T-shirts</a></li>
+															<li class="level2"><a href="listing.php">Jackets</a></li>
+															<li class="level2"><a href="listing.php">Shirts</a></li>
+															<li class="level2"><a href="listing.php">Sweaters & Cardigans</a></li>
+															<li class="level2"><a href="listing.php">T-shirts</a></li>
 														</ul>
 													</li>
 													<li class="col-sm-3">
-														<a href="listing.html" class="megamenu__subtitle">
+														<a href="listing.php" class="megamenu__subtitle">
 															<span>BOTTOMS</span>
 															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-2.jpg" alt=""/></span>
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-															<li class="level2"><a href="listing.html">Trousers</a></li>
-															<li class="level2"><a href="listing.html">Jeans</a></li>
-															<li class="level2"><a href="listing.html">Skirts</a></li>
-															<li class="level2"><a href="listing.html">Swimwear</a></li>
+															<li class="level2"><a href="listing.php">Trousers</a></li>
+															<li class="level2"><a href="listing.php">Jeans</a></li>
+															<li class="level2"><a href="listing.php">Skirts</a></li>
+															<li class="level2"><a href="listing.php">Swimwear</a></li>
 														</ul>
 													</li>
 													<li class="col-sm-3">
@@ -1043,27 +1044,27 @@
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-															<li class="level2"><a href="listing.html">Bags</a></li>
-															<li class="level2"><a href="listing.html">Shoes</a></li>
-															<li class="level2"><a href="listing.html">Sunglasses</a></li>
+															<li class="level2"><a href="listing.php">Bags</a></li>
+															<li class="level2"><a href="listing.php">Shoes</a></li>
+															<li class="level2"><a href="listing.php">Sunglasses</a></li>
 														</ul>
 													</li>
 													<li class="col-sm-3 hidden-xs">
-														<a href="listing.html" class="megamenu__subtitle"><span>Specials</span></a>
+														<a href="listing.php" class="megamenu__subtitle"><span>Specials</span></a>
 														<div class="vertical-carousel vertical-carousel-1 special-carousel">
 															<div class="vertical-carousel__item">
-																<div class="vertical-carousel__item__image pull-left"><a href="product.html"><img src="images/product/product-120x150-1.jpg" alt=""></a></div>
+																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="images/product/product-120x150-1.jpg" alt=""></a></div>
 																<div class="product__label product__label--sale"> <span>Sale</span></div>
 																<div class="vertical-carousel__item__title">
-																	<h2><a href="product.html">Mauris lacinia lectus</a></h2>
+																	<h2><a href="product.php">Mauris lacinia lectus</a></h2>
 																</div>
 																<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
 															</div>
 															<div class="vertical-carousel__item">
-																<div class="vertical-carousel__item__image pull-left"><a href="product.html"><img src="images/product/product-120x150-2.jpg" alt=""></a></div>
+																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="images/product/product-120x150-2.jpg" alt=""></a></div>
 																<div class="product__label product__label--sale"> <span>Sale</span></div>
 																<div class="vertical-carousel__item__title">
-																	<h2><a href="product.html">Incididunt ut labore et dolore magna aliqua</a></h2>
+																	<h2><a href="product.php">Incididunt ut labore et dolore magna aliqua</a></h2>
 																</div>
 																<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
 															</div>
@@ -1114,12 +1115,12 @@
 											<span class="icon icon-person "></span>
 											</a>
 											<ul class="dropdown-menu dropdown-menu--xs-full">
-												<li><a href="login_form.html"><span class="icon icon-person"></span>My Account</a></li>
-												<li><a href="wishlist.html"><span class="icon icon-favorite_border"></span>My Wishlist</a></li>
-												<li><a href="compare.html"><span class="icon icon-sort"></span>Compare</a></li>
-												<li><a href="checkout-step.html"><span class="icon icon-done_all"></span>Checkout</a></li>
+												<li><a href="login_form.php"><span class="icon icon-person"></span>My Account</a></li>
+												<li><a href="wishlist.php"><span class="icon icon-favorite_border"></span>My Wishlist</a></li>
+												<li><a href="compare.php"><span class="icon icon-sort"></span>Compare</a></li>
+												<li><a href="checkout-step.php"><span class="icon icon-done_all"></span>Checkout</a></li>
 												<li><a href="#"  data-toggle="modal" data-target="#modalLoginForm"><span class="icon icon-lock"></span>Log In</a></li>
-												<li><a href="login_form.html"><span class="icon icon-person_add"></span>Create an account</a></li>
+												<li><a href="login_form.php"><span class="icon icon-person_add"></span>Create an account</a></li>
 												<li class="dropdown-menu__close"><a href="#"><span class="icon icon-close"></span>close</a></li>
 											</ul>
 										</div>
@@ -1200,178 +1201,97 @@
 		<div class="breadcrumbs">
 			<div class="container">
 				<ol class="breadcrumb breadcrumb--ys pull-left">
-					<li class="home-link"><a href="index.html" class="icon icon-home"></a></li>					
-					<li class="active">Site Map</li>
+					<li class="home-link"><a href="index.php" class="icon icon-home"></a></li>										
+					<li class="active">Contact</li>
 				</ol>
 			</div>
 		</div>
 		<!-- /breadcrumbs --> 
 		<!-- CONTENT section -->
+		
 		<div id="pageContent">
-			<div class="container">				
-				<!-- title -->
-				<div class="title-box">
-					<h1 class="text-center text-uppercase title-under">Site Map</h1>
-				</div>
-				<!-- /title -->				
-				<!-- masonry-css -->
-				<div class="masonry-css">
-				    <!-- -->
-				    <div class="item">
-				      <h2 class="font22 color title-bottom-sm1">Layout</h2>
-						<ul class="simple-list-underline">
-							<li><a href="index-2.html">Home page - Layout 1 (Default)</a></li>
-							<li><a href="index-3.html">Home page - Layout 2</a></li>
-							<li><a href="index-4.html">Home page - Layout 3</a></li>
-							<li><a href="index-5.html">Home page - Layout 4</a></li>
-							<li><a href="index-6.html">Home page - Layout 5</a></li>
-							<li><a href="index-7.html">Home page - Layout 6</a></li>
-							<li><a href="index-8.html">Home page - Layout 7</a></li>
-							<li><a href="index-9.html">Home page - Layout 8</a></li>
-							<li><a href="index-13.html">Home page - Layout 9</a></li>
-							<li><a href="index-14.html">Home page - Layout 10</a></li>
-							<li><a href="index-15.html">Home page - Layout 11</a></li>
-							<li><a href="index-16.html">Home page - Layout 12</a></li>
-						</ul>
-						<h2 class="font22 color title-bottom-sm1">Prototypes </h2>
-						<ul class="simple-list-underline">
-							<li><a href="#">1770 px</a></li>
-							<li><a href="#">1170 px</a></li>							
-						</ul>
-				    </div>				   
-				    <!-- / -->
-				    <!-- -->
-				    <div class="item">
-				      <h2 class="font22 color title-bottom-sm1">Listing</h2>
-						<ul class="simple-list-underline">
-							<li><a href="listing.html">Left column</a></li>
-							<li><a href="listing-left-right-col.html">Left, right column</a></li>
-							<li><a href="listing-col-right_03.html">Right column</a></li>
-							<li><a href="listing-without-col-04.html">Without columns</a></li>
-							<li><a href="listing-col-left-without-without-static-block_05.html">Left column, without  Static block</a></li>
-							<li><a href="listing-without-col-without-static-block_06.html">Without columns, without  Static block</a></li>
-							<li><a href="listing-without-col-without-static-block_small_07.html">Small</a></li>
-							<li><a href="listing-without-col-without-static-block_big_08.html">Big</a></li>
-						</ul>
-						<h2 class="font22 color title-bottom-sm1">Product</h2>
-						<ul class="simple-list-underline">
-							<li><a href="product-small.html">Image size  - Small</a></li>
-							<li><a href="product.html">Image size  - Medium</a></li>
-							<li><a href="product-big.html">Image size  - Big</a></li>
-						</ul>
-						<h2 class="font22 color title-bottom-sm1">Blog</h2>
-						<ul class="simple-list-underline">
-							<li><a href="blog-layout-1.html">Blog - Layout 1</a></li>
-							<li><a href="blog-layout-2.html">Blog - Layout 2</a></li>
-							<li><a href="blog-layout-3.html">Blog - Layout 3</a></li>
-						</ul>
-				    </div>				   
-				    <!-- / -->
-				    <!-- -->
-				    <div class="item">
-				      <h2 class="font22 color title-bottom-sm1">Gallery</h2>
-						<ul class="simple-list-underline">
-							<li><a href="gallery-layout-1.html">Gallery - Layout 1</a></li>
-							<li><a href="gallery-layout-2.html">Gallery - Layout 2</a></li>
-							<li><a href="gallery-layout-3.html">Gallery - Layout 3</a></li>
-							<li><a href="gallery-layout-4.html">Gallery - Layout 4</a></li>
-							<li><a href="gallery-layout-5.html">Gallery - Layout 5</a></li>
-						</ul>
-						<h2 class="font22 color title-bottom-sm1">Pages</h2>
-						<ul class="simple-list-underline">
-							<li><a href="about.html">About</a></li>
-							<li><a href="services.html">Services</a></li>
-							<li><a href="contact.html">Contacts</a></li>
-							<li><a href="warranty.html">Warranty Page</a></li>
-							<li><a href="delivery-page.html">Delivery Page</a></li>
-							<li><a href="payment-page.html">Payment page</a></li>
-							<li><a href="support-24.html">Support 24/7 page</a></li>
-							<li><a href="faq.html">FAQs</a></li>
-							<li><a href="under-construction.html">Under Construction</a></li>
-							<li><a href="site-map.html">Site Map</a></li>
-							<li><a href="_newsletter-template/newsletter-template.html">Newsletter template</a></li>
-							<li><a href="page-404.html">Page 404</a></li>
-						</ul>
-				    </div>				   
-				    <!-- / -->
-				    <!-- -->
-				    <div class="item">
-				      <h2 class="font22 color title-bottom-sm1">Women’s</h2>
-						<ul class="simple-list-underline">
+			<!-- map -->
+			<div class="content-bottom">
+				<div id="map"></div>
+			</div>				
+			<!-- /map -->
+			<section class="container">				
+				<div class="row">
+					<div class="col-md-3 col-sm-12">
+						<h2 class="text-uppercase title-bottom">CONTACTs</h2>
+						<ul class="list-icon">
 							<li>
-								<a href="listing.html"><strong>Tops</strong></a>
-								<ul>
-									<li><a href="listing.html">Blouses & Shirts</a></li>
-									<li><a href="listing.html">Dresses</a></li>
-									<li><a href="listing.html">Tops & T-shirts</a></li>
-									<li><a href="listing.html">Sleeveless Tops</a></li>
-									<li><a href="listing.html">Sweaters & Cardigans</a></li>
-									<li><a href="listing.html">Jackets</a></li>
-									<li><a href="listing.html">Outerwear</a></li>
-								</ul>
+								<span class="icon icon-home"></span>
+								<strong>Address :</strong> 7563 St. Vicent Place, Glasgow
 							</li>
 							<li>
-								<a href="listing.html"><strong>Bottoms</strong></a>
-								<ul>
-									<li><a href="listing.html">Trousers</a></li>
-									<li><a href="listing.html">Jeans</a></li>
-									<li><a href="listing.html">Leggings</a></li>
-									<li><a href="listing.html">Jumpsuit & shorts</a></li>
-									<li><a href="listing.html">Skirts</a></li>
-									<li><a href="listing.html">Tights</a></li>
-								</ul>
+								<span class="icon icon-call"></span>
+								<strong>Phone:</strong> +777 2345 7885
 							</li>
 							<li>
-								<a href="listing.html"><strong>Accessories</strong></a>
-								<ul>
-									<li><a href="listing.html">Jewellery</a></li>
-									<li><a href="listing.html">Hats</a></li>
-									<li><a href="listing.html">Scarves & snoods</a></li>
-									<li><a href="listing.html">Belts</a></li>
-									<li><a href="listing.html">Bags</a></li>
-									<li><a href="listing.html">Shoes</a></li>
-									<li><a href="listing.html">Sunglasses</a></li>
-								</ul>
+								<span class="fa fa-fax"></span>
+								<strong>Fax:</strong> +777 2345 7886
+							</li>
+							<li>
+								<span class="icon icon-schedule"></span>
+								<strong>Hours:</strong> 7 Days a week from  10:00 am to 6:00 pm
+							</li>
+							<li>
+								<span class="icon icon-mail"></span>
+								<strong>E-mail:</strong> <a class="color" href="mailto:info@mydomain.com">info@mydomain.com</a>
 							</li>
 						</ul>
-				    </div>				   
-				    <!-- / -->
-				    <!-- -->
-				    <div class="item">
-				      <h2 class="font22 color title-bottom-sm1">Men’s</h2>
-						<ul class="simple-list-underline">
-							<li>
-								<a href="listing.html"><strong>Tops</strong></a>
-								<ul>
-									<li><a href="listing.html">Jackets</a></li>
-									<li><a href="listing.html">Shirts</a></li>
-									<li><a href="listing.html">Sweaters & Cardigans</a></li>
-									<li><a href="listing.html">T-shirts</a></li>
-								</ul>
-							</li>
-							<li>
-								<a href="listing.html"><strong>Bottoms</strong></a>
-								<ul>
-									<li><a href="listing.html">Trousers</a></li>
-									<li><a href="listing.html">Jeans</a></li>
-									<li><a href="listing.html">Skirts</a></li>
-									<li><a href="listing.html">Swimwear</a></li>
-								</ul>
-							</li>
-							<li>
-								<a href="listing.html"><strong>Accessories</strong></a>
-								<ul>
-									<li><a href="listing.html">Bags</a></li>
-									<li><a href="listing.html">Shoes</a></li>
-									<li><a href="listing.html">Sunglasses</a></li>
-								</ul>
-							</li>
-						</ul>
-				    </div>				   
-				    <!-- / -->				    
-				</div>
-				<!-- /end masonry-css -->
-			</div>
+						<div class="divider divider--sm"></div>
+						<div class="social-links social-links--large">
+							<ul>
+								<li><a class="icon fa fa-facebook" href="http://www.facebook.com/"></a></li>
+								<li><a class="icon fa fa-twitter" href="http://www.twitter.com/"></a></li>
+								<li><a class="icon fa fa-google-plus" href="http://www.google.com/"></a></li>
+								<li><a class="icon fa fa-instagram" href="https://instagram.com/"></a></li>
+								<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/"></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-9  col-sm-12">
+						<div class="divider divider--lg visible-xs"></div>
+						<h2 class="text-uppercase title-bottom">GET IN TOUCH WITH US</h2>
+						<form action="#" class="contact-form">
+							<!-- input -->
+							<div class="row">
+								<div class="col-md-4">
+									<div class="form-group">
+									    <label for="inputName">Name <sup>*</sup></label>
+									    <input type="text" class="form-control" id="inputName">
+									  </div>
+								</div>
+								<div class="col-md-4">
+									<div class="form-group">
+									    <label for="inputEmail">Email <sup>*</sup></label>
+									    <input type="email" class="form-control" id="inputEmail">
+									  </div>
+								</div>
+								<div class="col-md-4">
+									<div class="form-group">
+									    <label for="inputPhone">Phone </label>
+									    <input type="text" class="form-control" id="inputPhone">
+									  </div>
+								</div>
+							</div>
+							<!-- /input -->
+							<!-- textarea -->
+							<div class="form-group">
+							    <label for="textareaMessage">Message <sup>*</sup></label>
+							    <textarea  class="form-control" rows="12"  id="textareaMessage"></textarea>
+						   </div>
+						   <!-- /textarea -->
+						   <!-- button -->
+						   <div class="pull-right note">* Required Fields</div>
+						   <button class="btn btn--ys btn--xl btn-top" type="submit">Send message</button>
+						   <!-- /button -->						   
+						</form>						
+					</div>
+				</div>					
+			</section>
 		</div>
 		<!-- End CONTENT section --> 
 		<!-- FOOTER section -->
@@ -1382,7 +1302,7 @@
 					<div class="col-sm-12 col-md-5 col-lg-6 border-sep-right">
 						<div class="footer-logo hidden-xs">
 							<!--  Logo  --> 
-							<a class="logo" href="index.html"> <img class="replace-2x" src="images/logo.png"  alt="YOURStore"> </a> 
+							<a class="logo" href="index.php"> <img class="replace-2x" src="images/logo.png"  alt="YOURStore"> </a> 
 							<!-- /Logo --> 
 						</div>
 						<div class="box-about">
@@ -1414,14 +1334,14 @@
 									<h4 class="text-left  title-under  mobile-collapse__title">INFORMATION</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="about.html">About Us</a></li>
-											<li><a href="support-24.html">Customer Service</a></li>
-											<li><a href="faq.html">Privacy Policy</a></li>
-											<li><a href="site-map.html">Site Map</a></li>
-											<li><a href="typography.html">Search Terms</a></li>
-											<li><a href="warranty.html">Advanced Search</a></li>
-											<li><a href="delivery-page.html">Orders and Returns</a></li>
-											<li><a href="contact.html">Contact Us</a></li>
+											<li><a href="about.php">About Us</a></li>
+											<li><a href="support-24.php">Customer Service</a></li>
+											<li><a href="faq.php">Privacy Policy</a></li>
+											<li><a href="site-map.php">Site Map</a></li>
+											<li><a href="typography.php">Search Terms</a></li>
+											<li><a href="warranty.php">Advanced Search</a></li>
+											<li><a href="delivery-page.php">Orders and Returns</a></li>
+											<li><a href="contact.php">Contact Us</a></li>
 										</ul>
 									</div>
 								</div>
@@ -1431,11 +1351,11 @@
 									<h4 class="text-left  title-under  mobile-collapse__title">WHY BUY FROM US</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="warranty.html">Shipping &amp; Returns</a></li>
-											<li><a href="typography.html">Secure Shopping</a></li>
-											<li><a href="about.html">International Shipping</a></li>
-											<li><a href="delivery-page.html">Affiliates</a></li>
-											<li><a href="support-24.html">Group Sales</a></li>
+											<li><a href="warranty.php">Shipping &amp; Returns</a></li>
+											<li><a href="typography.php">Secure Shopping</a></li>
+											<li><a href="about.php">International Shipping</a></li>
+											<li><a href="delivery-page.php">Affiliates</a></li>
+											<li><a href="support-24.php">Group Sales</a></li>
 										</ul>
 									</div>
 								</div>
@@ -1445,11 +1365,11 @@
 									<h4 class="text-left  title-under  mobile-collapse__title">MY ACCOUNT</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="login_form.html">Sign In</a></li>
-											<li><a href="shopping_cart.html">View Cart</a></li>
-											<li><a href="wishlist.html">My Wishlist</a></li>
-											<li><a href="support-24.html">Track My Order</a></li>
-											<li><a href="faq.html">Help</a></li>
+											<li><a href="login_form.php">Sign In</a></li>
+											<li><a href="shopping_cart.php">View Cart</a></li>
+											<li><a href="wishlist.php">My Wishlist</a></li>
+											<li><a href="support-24.php">Track My Order</a></li>
+											<li><a href="faq.php">Help</a></li>
 										</ul>
 									</div>
 								</div>
@@ -1480,7 +1400,7 @@
 			<!-- footer-copyright -->
 			<div class="container footer-copyright">
 				<div class="row">
-					<div class="col-lg-12"> <a href="index.html"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
+					<div class="col-lg-12"> <a href="index.php"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
 				</div>
 			</div>
 			<!-- /footer-copyright --> 
@@ -1496,13 +1416,13 @@
 		<script src="external/slick/slick.min.js"></script>
 		<script src="external/bootstrap-select/bootstrap-select.min.js"></script>  
 		<script src="external/countdown/jquery.plugin.min.js"></script> 
-		<script src="external/countdown/jquery.countdown.min.js"></script> 	
+		<script src="external/countdown/jquery.countdown.min.js"></script> 		
 		<script src="external/instafeed/instafeed.min.js"></script> 
 		<script src="external/magnific-popup/jquery.magnific-popup.min.js"></script> 
 		<script src="external/nouislider/nouislider.min.js"></script>
 		<script src="external/isotope/isotope.pkgd.min.js"></script> 
 		<script src="external/imagesloaded/imagesloaded.pkgd.min.js"></script>
-		<script src="external/colorbox/jquery.colorbox-min.js"></script>
+        <script src="external/colorbox/jquery.colorbox-min.js"></script>
 		<!-- Custom --> 
 		<script src="js/custom.js"></script> 
 		<script>
@@ -1522,7 +1442,47 @@
 			
 			})
 		</script>
+
+		<!-- Google map -->
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript">
+// When the window has finished loading create our google map below
+google.maps.event.addDomListener(window, 'load', init);
+
+function init() {
+	// Basic options for a simple Google Map
+	// For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+	var mapOptions = {
+		// How zoomed in you want the map to start at (always required)
+		zoom: 11,
+
+		// The latitude and longitude to center the map (always required)
+		center: new google.maps.LatLng(40.6700, -73.9400), // New York
+
+		// How you would like to style the map. 
+		// This is where you would paste any style found on Snazzy Maps.
+		styles: [{"featureType":"water","elementType":"geometry.fill","stylers":[{"color":"#d1d1d1"}]},{"featureType":"transit","stylers":[{"color":"#808080"},{"visibility":"off"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"visibility":"on"},{"color":"#d1d1d1"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#d1d1d1"}]},{"featureType":"road.local","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#ffffff"},{"weight":1.8}]},{"featureType":"road.local","elementType":"geometry.stroke","stylers":[{"color":"#d7d7d7"}]},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#ebebeb"}]},{"featureType":"administrative","elementType":"geometry","stylers":[{"color":"#d1d1d1"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.arterial","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"landscape","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#fafafa"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#d6d6d6"}]},{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"visibility":"on"},{"color":"#bfbfbf"}]},{"featureType":"poi","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"geometry.stroke","stylers":[{"color":"#d6d6d6"}]},{"featureType":"road","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{},{"featureType":"poi","elementType":"geometry.fill","stylers":[{"color":"#f1f1f1"}]}]
+	};
+
+	// Get the HTML DOM element that will contain your map 
+	// We are using a div with id="map" seen below in the <body>
+	var mapElement = document.getElementById('map');
+
+	// Create the Google Map using our element and options defined above
+	var map = new google.maps.Map(mapElement, mapOptions);
+
+	var image = 'images/custom/beachflag.png';
+	
+	 var marker = new google.maps.Marker({
+            position: new google.maps.LatLng(40.6700, -73.9400),
+            map: map,           
+            icon : image,
+            title: 'Snazzy!'
+        });
+}
+</script>
+
 	</body>
 
-<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/site-map.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:03 GMT -->
+<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:00 GMT -->
 </html>

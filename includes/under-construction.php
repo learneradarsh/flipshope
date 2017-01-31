@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	
-<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/under-construction.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:00 GMT -->
+<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/under-construction.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:00 GMT -->
 <head>
 		<!-- Basic -->
 		<meta charset="utf-8">
@@ -50,7 +50,7 @@
 				<div class="row">
 					<div class="col-sm-12 text-center">
 						<!-- logo start --> 
-						<a href="index.html"><img class="logo replace-2x img-responsive1" src="images/logo.png" alt=""/></a> 
+						<a href="index.php"><img class="logo replace-2x img-responsive1" src="images/logo.png" alt=""/></a> 
 						<!-- logo end --> 
 					</div>					
 				</div>
@@ -107,7 +107,7 @@
 			<!-- footer-copyright -->
 			<div class="container footer-copyright text-center">
 				<div class="row">
-					<div class="col-lg-12"> <a href="index.html"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
+					<div class="col-lg-12"> <a href="index.php"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
 				</div>
 			</div>
 			<!-- /footer-copyright --> 
@@ -147,5 +147,5 @@
 		</script>
 	</body>
 
-<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/under-construction.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:00 GMT -->
+<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/under-construction.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:00 GMT -->
 </html>
