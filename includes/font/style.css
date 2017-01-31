@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Material Icons';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 200;
     src: url(fonts/MaterialIcons-Regular.eot);
     src: local('Material Icons'),
     local('MaterialIcons-Regular'),
@@ -13,7 +13,7 @@
 .icon-ico,
 [class*="icon-"]:before {
     font-family: 'Material Icons';
-    font-weight: 400;
+    font-weight: 200;
     font-style: normal;
     font-size: inherit;
 
