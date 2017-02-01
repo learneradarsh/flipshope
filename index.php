@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
-	
-
 <head>
 		<!-- Basic -->
 		<meta charset="utf-8">
 		<title>Flipshope</title>
 		<meta name="keywords" content="HTML5 Template" />
-		<meta name="description" content="Flipshope - Responsive HTML5 Template">
-		<meta name="author" content="etheme.com">
+		<meta name="description" content="Flipshope">
+		<meta name="author" content="">
 		<link rel="shortcut icon" href="favicon.ico">
 		<!-- Mobile Specific Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -24,6 +22,8 @@
 		<link rel="stylesheet" href="css/style.css">
 		<!-- Icon Fonts  -->
 		<link rel="stylesheet" href="font/style.css">
+		<link rel="stylesheet" href="font/fonts/fontawesome-webfont93e3.ttf">
+		<link rel="stylesheet" href="font/fonts/MaterialIcons-Regular.ttf">
 		<!-- Head Libs -->	
 		<!-- Modernizr -->
 		<script src="external/modernizr/modernizr.js"></script>
@@ -55,7 +55,7 @@
 									<li class="dl-close"><a href="#"><span class="icon icon-close"></span>close</a></li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="index.php" class="dropdown-toggle" data-toggle="dropdown">
-											LAYOUT
+											Deals &amp; Offers
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links-layout" role="menu">												
@@ -160,7 +160,7 @@
 									
 									<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
-											LISTING
+											Mobile , Tablets &amp; Accessories
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links" role="menu">
@@ -233,7 +233,7 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="product.php" class="dropdown-toggle" data-toggle="dropdown">
-											PRODUCT
+											Laptops &amp; Accessories
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links image-links-listing" role="menu">
@@ -266,7 +266,7 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="blog-layout-1.php" class="dropdown-toggle" data-toggle="dropdown">
-											BLOG
+											Mens Fashions
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links image-links-listing" role="menu">
@@ -299,7 +299,7 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="gallery-layout-1.php" class="dropdown-toggle" data-toggle="dropdown">
-											GALLERY
+											Women's Fashion
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links image-links-listing" role="menu">
@@ -346,35 +346,11 @@
 											</li>
 										</ul>
 									</li>
-									<li class="dropdown dropdown-mega-menu dropdown-two-col">
-										<a href="about.php" class="dropdown-toggle" data-toggle="dropdown">
-											PAGES
-											<span class="icon icon-navigate_next pull-right"></span>
-										</a>
-										<ul class="dropdown-menu multicolumn two-col" role="menu">
-											<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-											<li><a href="about.php">About</a></li>
-											<li><a href="support-24.php">Support 24/7 page</a></li>
-											<li><a href="services.php">Services</a></li>	
-											<li><a href="faq.php">FAQs</a></li>													
-											<li><a href="contact.php">Contact</a></li>
-											<li><a href="under-construction.php">Under Construction</a></li>
-											<li><a href="warranty.php">Warranty Page</a></li>
-											<li><a href="site-map.php">Site Map</a></li>												
-											<li><a href="delivery-page.php">Delivery Page</a></li>
-											<li><a href="payment-page.php">Payment page</a></li>													
-											<li><a href="typography.php">Typography</a></li>	
-											<li><a href="page-404.php">Page 404</a></li>		
-											<li><a href="checkout-one-page.php">Checkout one page</a></li>
-											<li><a href="_newsletter-template/newsletter-template.php">Newsletter template</a></li>                                                    
-											<li><a href="checkout-step.php">Checkout step</a></li>
-										</ul>
-									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
-											WOMEN’s
+											TV &amp; Entertainment
 											<span class="icon icon-navigate_next pull-right"></span>
-											<span class="badge badge--menu  pull-right">NEW</span>
+											
 										</a>
 										<ul class="dropdown-menu megamenu" role="menu">
 												<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
@@ -382,7 +358,7 @@
 													<a href="listing.php" class="megamenu__subtitle"><span>TOPS</span></a>
 													<ul class="megamenu__submenu">
 														<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-														<li class="level2"><a href="listing.php">Blouses & Shirts</a></li>
+														<li class="level2"><a href="listing.php">Blouses &amp; Shirts</a></li>
 														<li class="level2">
 															<a href="#">Dresses</a>
 															<ul class="megamenu__submenu">
@@ -517,7 +493,7 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
-											MEN’s											
+											Coupons &amp; Discounts											
 											<span class="icon icon-navigate_next pull-right"></span>
 											<span class="badge badge--menu badge--color  pull-right">SALE</span>
 										</a>
@@ -532,7 +508,7 @@
 													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="level2"><a href="listing.php">Jackets</a></li>
 													<li class="level2"><a href="listing.php">Shirts</a></li>
-													<li class="level2"><a href="listing.php">Sweaters & Cardigans</a></li>
+													<li class="level2"><a href="listing.php">Sweaters &amp; Cardigans</a></li>
 													<li class="level2"><a href="listing.php">T-shirts</a></li>
 												</ul>
 											</li>
@@ -599,6 +575,92 @@
 											</li>
 										</ul>
 									</li>
+									<!-- home & kitchen appliances -->
+										<li class="dropdown dropdown-mega-menu">
+										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
+										Health &amp; Beauty											
+											<span class="icon icon-navigate_next pull-right"></span>
+											<span class="badge badge--menu badge--color  pull-right">SALE</span>
+										</a>
+										<ul class="dropdown-menu megamenu" role="menu">
+											<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
+											<li class="col-lg-3 col-md-4">												
+												<a href="listing.php" class="megamenu__subtitle">
+													<span>TOPS</span>
+													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-1.jpg" alt=""/></span>
+												</a>
+												<ul class="megamenu__submenu megamenu__submenu--marked">
+													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+													<li class="level2"><a href="listing.php">Jackets</a></li>
+													<li class="level2"><a href="listing.php">Shirts</a></li>
+													<li class="level2"><a href="listing.php">Sweaters &amp; Cardigans</a></li>
+													<li class="level2"><a href="listing.php">T-shirts</a></li>
+												</ul>
+											</li>
+											<li class="col-lg-3 col-md-4">
+												<a href="#" class="megamenu__subtitle">
+													<span>BOTTOMS</span>
+													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-2.jpg" alt=""/></span>
+												</a>
+												<ul class="megamenu__submenu megamenu__submenu--marked">
+													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+													<li class="level2"><a href="listing.php">Trousers</a></li>
+													<li class="level2"><a href="listing.php">Jeans</a></li>
+													<li class="level2"><a href="listing.php">Skirts</a></li>
+													<li class="level2"><a href="listing.php">Swimwear</a></li>
+												</ul>
+											</li>
+											<li class="col-lg-3 col-md-4">
+												<a href="listing.php" class="megamenu__subtitle">
+													<span>ACCESSORIES</span>
+													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-3.jpg" alt=""/></span>
+												</a>
+												<ul class="megamenu__submenu megamenu__submenu--marked">
+													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+													<li class="level2"><a href="listing.php">Bags</a></li>
+													<li class="level2"><a href="listing.php">Shoes</a></li>
+													<li class="level2"><a href="listing.php">Sunglasses</a></li>
+												</ul>
+											</li>
+											<li class="col-lg-3 col-md-4 hidden-md">
+												<a href="listing.php" class="megamenu__subtitle"><span>Specials</span></a>
+												<div class="vertical-carousel vertical-carousel-1 special-carousel">
+													<div class="vertical-carousel__item">
+														<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="images/product/product-120x150-1.jpg" alt=""></a></div>
+														<div class="product__label product__label--sale"> <span>Sale</span></div>
+														<div class="vertical-carousel__item__title">
+															<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+														</div>
+														<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
+													</div>
+													<div class="vertical-carousel__item">
+														<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="images/product/product-120x150-2.jpg" alt=""></a></div>
+														<div class="product__label product__label--sale"> <span>Sale</span></div>
+														<div class="vertical-carousel__item__title">
+															<h2><a href="product.php">Incididunt ut labore et dolore magna aliqua</a></h2>
+														</div>
+														<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
+													</div>
+												</div>
+											</li>
+											<li class="col-sm-12 hidden-xs">
+												<div class="hor-line"></div>
+												<ul class="list-inline brands-list">
+													<li><a href="#"><img src="images/custom/brand-01.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-03.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-02.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-05.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-04.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-06.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-07.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-08.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-09.png" alt=""></a></li>
+													<li><a href="#"><img src="images/custom/brand-10.png" alt=""></a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<!-- home & kitchen appleances end -->
 								</ul>
 							</div>
 						</nav>

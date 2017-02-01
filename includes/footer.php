@@ -13,7 +13,7 @@
 							<div class="mobile-collapse">
 								<h4 class="mobile-collapse__title visible-xs">ABOUT US</h4>
 								<div class="mobile-collapse__content">
-									<p> No more need to look for other ecommerce themes. We provide huge number of different layouts. Flipshope comes packed with free and useful features developed to make your website creation easier. Innovative clean design, advanced functionality, UI made for humans, extensive documenta- tion and support i continue this list infinitely... </p>
+									<p> Flipshope is way more than just an extension. Started with an idea of serving the online marketing community at large, from a hostel room of IIT Kharagpur, the extension today has spread its roots throughout the nation. At Flipshope, we strive hard to enhance the user experience during online shopping. Our collaboration with almost all the shopping sites and rewarding people heavily for all their online shopping is a testimony to this effort. We provide all this at no extra trouble to the user. One of the fastest growing extensions in its domain, we believe that we have set a new benchmark for all others ! </p>
 									<!-- address -->
 									<address class="box-address">
 										<span class="icon icon-home"></span> 7563 St. Vincent Place, Glasgow <br>
