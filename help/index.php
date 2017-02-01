@@ -21,15 +21,17 @@
 		<!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
 		<link rel="stylesheet" type="text/css" href="external/rs-plugin/css/settings.css" media="screen" />
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="../css/style.css">
 		<!-- Icon Fonts  -->
-		<link rel="stylesheet" href="font/style.css">
+		<link rel="stylesheet" href="../font/style.css">
 		<!-- Head Libs -->	
 		<!-- Modernizr -->
-		<script src="external/modernizr/modernizr.js"></script>
+		<script src=".includes/external/modernizr/modernizr.js"></script>
 	</head>
 	<body>
-		<div id="loader-wrapper">
+		s="image-link">
+								<a href="listing-without-col-04.php">
+								<span class<div id="loader-wrapper">
 			<div id="loader">
 				<div class="dot"></div>
 				<div class="dot"></div>
@@ -183,9 +185,7 @@
 								</span>											
 							</li>
 							<li class="col-one-fourth">
-								<span class="image-link">
-								<a href="listing-without-col-04.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-4.png" alt=""/></span>
+								<span clas="figure"><img class="img-responsive" src="images/custom/listing-img-4.png" alt=""/></span>
 								<span class="figcaption text-uppercase">without columns</span>
 								</a>
 								</span>

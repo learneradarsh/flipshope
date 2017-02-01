@@ -13,13 +13,13 @@
 		<!-- Mobile Specific Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- External Plugins CSS -->
-		<link rel="stylesheet" href="external/slick/slick.css">
-		<link rel="stylesheet" href="external/slick/slick-theme.css">
-		<link rel="stylesheet" href="external/magnific-popup/magnific-popup.css">
-		<link rel="stylesheet" href="external/nouislider/nouislider.css">
-		<link rel="stylesheet" href="external/bootstrap-select/bootstrap-select.css">
+		<link rel="stylesheet" href="includes/external/slick/slick.css">
+		<link rel="stylesheet" href="includes/external/slick/slick-theme.css">
+		<link rel="stylesheet" href="includes/external/magnific-popup/magnific-popup.css">
+		<link rel="stylesheet" href="includes/external/nouislider/nouislider.css">
+		<link rel="stylesheet" href="includes/external/bootstrap-select/bootstrap-select.css">
 		<!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
-		<link rel="stylesheet" type="text/css" href="external/rs-plugin/css/settings.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="includes/external/rs-plugin/css/settings.css" media="screen" />
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="css/style.css">
 		<!-- Icon Fonts  -->
@@ -29,9 +29,7 @@
 		<script src="external/modernizr/modernizr.js"></script>
 	</head>
 	<body>
-		
-		
-		
+		<?php include_once 'includes/header.php'; ?>
 		<!-- CONTENT section -->
 		<div id="pageContent">
 			<div class="container">
@@ -2002,7 +2000,7 @@
 			</div>
 		</div>
 		<!-- End CONTENT section --> 
-		
+		<?php include_once 'includes/footer.php'; ?>
 	</body>
 
 <!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/index-02.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 10:47:57 GMT -->

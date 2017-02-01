@@ -6,7 +6,7 @@
 					<div class="col-sm-12 col-md-5 col-lg-6 border-sep-right">
 						<div class="footer-logo hidden-xs">
 							<!--  Logo  --> 
-							<a class="logo" href="index.php"> <img class="replace-2x" src="images/logo.png" alt="Flipshope"> </a> 
+							<a class="logo" href="index.php"> <img class="replace-2x" src="img/logo.png" alt="Flipshope"> </a> 
 							<!-- /Logo --> 
 						</div>
 						<div class="box-about">
@@ -356,24 +356,24 @@
 		<!--================== /modal ==================-->
 				<!-- External JS --> 
 		<!-- jQuery 1.10.1--> 
-		<script src="external/jquery/jquery-2.1.4.min.js"></script> 
+		<script src="includes/external/jquery/jquery-2.1.4.min.js"></script> 
 		<!-- Bootstrap 3--> 
-		<script src="external/bootstrap/bootstrap.min.js"></script> 
+		<script src="includes/external/bootstrap/bootstrap.min.js"></script> 
 		<!-- Specific Page External Plugins --> 
-		<script src="external/slick/slick.min.js"></script>
-		<script src="external/bootstrap-select/bootstrap-select.min.js"></script>  
-		<script src="external/countdown/jquery.plugin.min.js"></script> 
-		<script src="external/countdown/jquery.countdown.min.js"></script>				
-		<script src="external/instafeed/instafeed.min.js"></script>  		
-		<script src="external/magnific-popup/jquery.magnific-popup.min.js"></script>  		
-		<script src="external/isotope/isotope.pkgd.min.js"></script> 
-		<script src="external/imagesloaded/imagesloaded.pkgd.min.js"></script>
-		<script src="external/colorbox/jquery.colorbox-min.js"></script> 
+		<script src="includes/external/slick/slick.min.js"></script>
+		<script src="includes/external/bootstrap-select/bootstrap-select.min.js"></script>  
+		<script src="includes/external/countdown/jquery.plugin.min.js"></script> 
+		<script src="includes/external/countdown/jquery.countdown.min.js"></script>				
+		<script src="includes/external/instafeed/instafeed.min.js"></script>  		
+		<script src="includes/external/magnific-popup/jquery.magnific-popup.min.js"></script>  		
+		<script src="includes/external/isotope/isotope.pkgd.min.js"></script> 
+		<script src="includes/external/imagesloaded/imagesloaded.pkgd.min.js"></script>
+		<script src="includes/external/colorbox/jquery.colorbox-min.js"></script> 
 		<!-- SLIDER REVOLUTION 4.x SCRIPTS  --> 
-		<script type="text/javascript" src="external/rs-plugin/js/jquery.themepunch.tools.min.js"></script> 
-		<script type="text/javascript" src="external/rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
+		<script type="text/javascript" src="includes/external/rs-plugin/js/jquery.themepunch.tools.min.js"></script> 
+		<script type="text/javascript" src="includes/external/rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
 		<!-- Custom --> 
-		<script src="js/custom.js"></script>			
+		<script src="includes/js/custom.js"></script>			
 		<script>
 			$j(document).ready(function() {
 			
