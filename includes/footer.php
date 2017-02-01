@@ -13,13 +13,13 @@
 							<div class="mobile-collapse">
 								<h4 class="mobile-collapse__title visible-xs">ABOUT US</h4>
 								<div class="mobile-collapse__content">
-									<p> No more need to look for other ecommerce themes. We provide huge number of different layouts. Flipshope comes packed with free and useful features developed to make your website creation easier. Innovative clean design, advanced functionality, UI made for humans, extensive documenta- tion and support i continue this list infinitely... </p>
+									<p> Flipshope.com is India's leading search and comparison website that helps users find what they need at lowest prices,Started with an idea of serving the online marketing community at large, from a hostel room of IIT Kharagpur, the extension today has spread its roots throughout the nation. At Flipshope, we empowers the users with maximum information about the products to provide a convenient experience. It has detailed product specifications, features, reviews & ratings,Price Graph to enable online shoppers take informed buying decisions.</p>
 									<!-- address -->
 									<address class="box-address">
-										<span class="icon icon-home"></span> 7563 St. Vincent Place, Glasgow <br>
-										<span class="icon icon-call"></span> <b class="color-dark">+777 2345 7885 </b><br>
+										<span class="icon icon-home"></span> Samuruddi 108, 2-a main road,Adugodi,Bengaluru<br>
+										<span class="icon icon-call"></span> <b class="color-dark">+91-7501012322 </b><br>
 										<span class="icon icon-access_time"></span> 7 Days a week from  10:00 am to 6:00 pm<br>
-										<span class="icon icon-markunread"></span> <a class="color" href="mailto:info@mydomain.com">info@mydomain.com</a>
+										<span class="icon icon-markunread"></span> <a class="color" href="mailto:cs@flipshope.com">cs@flipshope.com</a>
 									</address>
 									<!-- /address -->
 									<!-- social-icon -->

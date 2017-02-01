@@ -15,7 +15,7 @@
 		<!-- External Plugins CSS -->
 		<link rel="stylesheet" href="includes/external/slick/slick.css">
 		<link rel="stylesheet" href="includes/external/slick/slick-theme.css">
-		<link rel="stylesheet" href="includes/external/magnific-popup/magnific-popup.css">
+		<!-- <link rel="stylesheet" href="includes/external/magnific-popup/magnific-popup.css"> -->
 		<link rel="stylesheet" href="includes/external/nouislider/nouislider.css">
 		<link rel="stylesheet" href="includes/external/bootstrap-select/bootstrap-select.css">
 		<!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
@@ -59,15 +59,11 @@
 						<ul class="list-icon">
 							<li>
 								<span class="icon icon-home"></span>
-								<strong>Address :</strong> 7563 St. Vicent Place, Glasgow
+								<strong>Address :</strong> Samuruddi 108, 2-a main road,Adugodi,Bengaluru
 							</li>
 							<li>
 								<span class="icon icon-call"></span>
-								<strong>Phone:</strong> +777 2345 7885
-							</li>
-							<li>
-								<span class="fa fa-fax"></span>
-								<strong>Fax:</strong> +777 2345 7886
+								<strong>Phone:</strong> +91-7501012322
 							</li>
 							<li>
 								<span class="icon icon-schedule"></span>
@@ -75,7 +71,7 @@
 							</li>
 							<li>
 								<span class="icon icon-mail"></span>
-								<strong>E-mail:</strong> <a class="color" href="mailto:info@mydomain.com">info@mydomain.com</a>
+								<strong>E-mail:</strong> <a class="color" href="mailto:cs@flipshope.com">cs@flipshope.com</a>
 							</li>
 						</ul>
 						<div class="divider divider--sm"></div>
