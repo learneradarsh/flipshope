@@ -7619,7 +7619,7 @@ hr.hr-lg {
   }
 }
 .content--parallax {
-  background: url(../images/custom/parallax-img-01.jpg) 50% 50% no-repeat;
+  background: url(../img/custom/parallax-img-01.jpg) 50% 50% no-repeat;
   height: 717px;
   background-size: cover;
   -webkit-background-size: cover;
@@ -11342,24 +11342,24 @@ footer.layout-7 .footer-copyright .row {
 .product-main-image img {
   width: 100%;
 }
-.product-images-carousel {
+.product-img-carousel {
   padding: 0;
   margin: 30px 0 40px;
   width: 100%;
   position: relative;
 }
-.product-images-carousel ul {
+.product-img-carousel ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
-.product-images-carousel ul li {
+.product-img-carousel ul li {
   margin: 0 25px 0 0;
 }
-.product-images-carousel ul .slick-list {
+.product-img-carousel ul .slick-list {
   margin-right: -25px;
 }
-.product-images-carousel img {
+.product-img-carousel img {
   width: 100%;
 }
 #mobileGallery {
@@ -11938,7 +11938,7 @@ table .input-counter .plus-btn:before {
 *****************************************/
 /* Carousel content */
 .slick-loading .slick-list {
-  background: #fff url('../images/ajax-loader.gif') center center no-repeat;
+  background: #fff url('../img/ajax-loader.gif') center center no-repeat;
 }
 .slickArrow {
   display: block;
@@ -12715,7 +12715,7 @@ table .input-counter .plus-btn:before {
 * blog carousel  
 *****************************************/
 .content-bg-1 {
-  background: url(../images/custom/content-bg-1.jpg) center center no-repeat;
+  background: url(../img/custom/content-bg-1.jpg) center center no-repeat;
   padding: 100px 0 35px;
 }
 @media (max-width: 991px) {
@@ -12724,7 +12724,7 @@ table .input-counter .plus-btn:before {
   }
 }
 .slider-fluid-bg1 {
-  background: url(../images/slider-fluid-bg1.php) center center fixed no-repeat #fafafa;
+  background: url(../img/slider-fluid-bg1.php) center center fixed no-repeat #fafafa;
   z-index: 1;
   position: relative;
   padding-bottom: 3.9em;
@@ -14911,7 +14911,7 @@ aside .recent-post-box {
     right: 0px;
     color: #ccc;
   }
-  /*        #cboxLoadingGraphic{background:url(images/loading.gif) no-repeat center center;}
+  /*        #cboxLoadingGraphic{background:url(img/loading.gif) no-repeat center center;}
 */
   /* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */
   #cboxPrevious,
@@ -26119,19 +26119,19 @@ input[type=text],
 .product-info-outer .fill-bg {
   background-color: #1c1c1c;
 }
-.product-images-carousel .slick-arrow {
+.product-img-carousel .slick-arrow {
   background-color: #000;
 }
-.product-images-carousel .slick-arrow:before {
+.product-img-carousel .slick-arrow:before {
   color: #fff;
 }
-.product-images-carousel .slick-arrow:hover {
+.product-img-carousel .slick-arrow:hover {
   background-color: #333333;
 }
-.product-images-carousel .tags-list li a {
+.product-img-carousel .tags-list li a {
   background-color: #1c1c1c;
 }
-.product-images-carousel .tags-list li a:hover {
+.product-img-carousel .tags-list li a:hover {
   background-color: #333333;
 }
 /* / end product-layout10.php

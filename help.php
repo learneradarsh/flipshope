@@ -112,7 +112,7 @@
 							<div class="collapse-block__content">
 								<div class="media media-content-img-left">
 								  <a class="pull-left" href="#">
-								    <img class="img-responsive" src="images/custom/faw_img-01.jpg" alt=""/>
+								    <img class="img-responsive" src="img/custom/faw_img-01.jpg" alt=""/>
 								  </a>
 								  <div class="media-body">
 								   <p>

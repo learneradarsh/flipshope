@@ -56,7 +56,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 1 (Default)</span>
 								</a>
 								</span>
@@ -64,7 +64,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-02.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 2</span>
 								</a>
 								</span>
@@ -72,7 +72,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-03.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 3</span>
 								</a>
 								</span>
@@ -80,7 +80,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-04.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 4</span>
 								</a>
 								</span>
@@ -88,7 +88,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-05.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 5</span>
 								</a>
 								</span>
@@ -96,7 +96,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-06.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 6</span>
 								</a>
 								</span>											
@@ -104,7 +104,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-07.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 7</span>
 								</a>
 								</span>
@@ -112,7 +112,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-08.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 8</span>
 								</a>
 								</span>
@@ -120,7 +120,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-09.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 9</span>
 								</a>
 								</span>
@@ -128,7 +128,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-10.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 10</span>
 								</a>
 								</span>
@@ -136,7 +136,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-11.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 11</span>
 								</a>
 								</span>
@@ -144,7 +144,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-12.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 12</span>
 								</a>
 								</span>
@@ -160,7 +160,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-1.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left column</span>
 								</a>
 								</span>
@@ -168,7 +168,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-left-right-col.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-2.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left, right column</span>
 								</a>
 								</span>
@@ -176,7 +176,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-col-right_03.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-3.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">right column</span>
 								</a>
 								</span>											
@@ -184,7 +184,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-without-col-04.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-4.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-4.png" alt=""/></span>
 								<span class="figcaption text-uppercase">without columns</span>
 								</a>
 								</span>
@@ -192,7 +192,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-col-left-without-without-static-block_05.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-5.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-5.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left column,<br> without Static block</span>
 								</a>
 								</span>
@@ -200,7 +200,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-without-col-without-static-block_06.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-6.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-6.png" alt=""/></span>
 								<span class="figcaption text-uppercase">without columns,<br> without Static block</span>
 								</a>
 								</span>											
@@ -208,7 +208,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-without-col-without-static-block_small_07.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-7.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-7.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Small</span>
 								</a>
 								</span>
@@ -216,7 +216,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-without-col-without-static-block_big_08.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/listing-img-8.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/listing-img-8.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Big</span>
 								</a>
 								</span>
@@ -232,7 +232,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="product-small.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-1.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - small</span>
 								</a>
 								</span>
@@ -240,7 +240,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="product.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-2.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - medium</span>
 								</a>
 								</span>
@@ -248,7 +248,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="product-big.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-3.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - big</span>
 								</a>
 								</span>											
@@ -264,7 +264,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="blog-layout-1.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-1.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 1</span>
 								</a>
 								</span>
@@ -272,7 +272,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="blog-layout-2.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-2.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 2</span>
 								</a>
 								</span>
@@ -280,7 +280,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="blog-layout-3.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-3.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 3</span>
 								</a>
 								</span>											
@@ -296,7 +296,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-1.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-1.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 1</span>
 								</a>
 								</span>
@@ -304,7 +304,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-2.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-2.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 2</span>
 								</a>
 								</span>
@@ -312,7 +312,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-3.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-3.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 3</span>
 								</a>
 								</span>											
@@ -320,7 +320,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-4.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-4.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-4.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 4</span>
 								</a>
 								</span>											
@@ -328,7 +328,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-5.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-5.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-5.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 5</span>
 								</a>
 								</span>											
@@ -499,7 +499,7 @@
 					<div class="row">
 						<div class="col-sm-4 col-md-4 col-lg-6 col-xl-7">
 							<!-- logo start --> 
-							<a href="index.php"><img class="logo replace-2x img-responsive" src="images/logo.png" alt=""/> </a> 
+							<a href="index.php"><img class="logo replace-2x img-responsive" src="img/logo.png" alt=""/> </a> 
 							<!-- logo end --> 
 						</div>
 						<div class="col-sm-8 col-md-8 col-lg-6 col-xl-5 text-right">
@@ -565,7 +565,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 1 (Default)</span>
 														</a>
 														</span>
@@ -573,7 +573,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-02.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 2</span>
 														</a>
 														</span>
@@ -581,7 +581,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-03.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 3</span>
 														</a>
 														</span>
@@ -589,7 +589,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-04.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 4</span>
 														</a>
 														</span>
@@ -597,7 +597,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-05.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 5</span>
 														</a>
 														</span>
@@ -605,7 +605,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-06.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 6</span>
 														</a>
 														</span>											
@@ -613,7 +613,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-07.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 7</span>
 														</a>
 														</span>
@@ -621,7 +621,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-08.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 8</span>
 														</a>
 														</span>
@@ -629,7 +629,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-09.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 9</span>
 														</a>
 														</span>
@@ -637,7 +637,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-10.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 10</span>
 														</a>
 														</span>
@@ -645,7 +645,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-11.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 11</span>
 														</a>
 														</span>
@@ -653,7 +653,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-12.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 12</span>
 														</a>
 														</span>
@@ -668,7 +668,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-1.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left column</span>
 														</a>
 														</span>
@@ -676,7 +676,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-left-right-col.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-2.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left, right column</span>
 														</a>
 														</span>
@@ -684,7 +684,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-col-right_03.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-3.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">right column</span>
 														</a>
 														</span>											
@@ -692,7 +692,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-without-col-04.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-4.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-4.png" alt=""/></span>
 														<span class="figcaption text-uppercase">without columns</span>
 														</a>
 														</span>
@@ -700,7 +700,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-col-left-without-without-static-block_05.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-5.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-5.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left column,<br> without Static block</span>
 														</a>
 														</span>
@@ -708,7 +708,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-without-col-without-static-block_06.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-6.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-6.png" alt=""/></span>
 														<span class="figcaption text-uppercase">without columns,<br> without Static block</span>
 														</a>
 														</span>											
@@ -716,7 +716,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-without-col-without-static-block_small_07.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-7.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-7.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Small</span>
 														</a>
 														</span>
@@ -724,7 +724,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-without-col-without-static-block_big_08.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/listing-img-8.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/listing-img-8.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Big</span>
 														</a>
 														</span>
@@ -739,7 +739,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="product-small.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-1.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - small</span>
 														</a>
 														</span>
@@ -747,7 +747,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="product.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-2.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - medium</span>
 														</a>
 														</span>
@@ -755,7 +755,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="product-big.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-3.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - big</span>
 														</a>
 														</span>											
@@ -770,7 +770,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="blog-layout-1.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-1.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 1</span>
 														</a>
 														</span>
@@ -778,7 +778,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="blog-layout-2.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-2.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 2</span>
 														</a>
 														</span>
@@ -786,7 +786,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="blog-layout-3.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-3.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 3</span>
 														</a>
 														</span>											
@@ -801,7 +801,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-1.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-1.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 1</span>
 														</a>
 														</span>
@@ -809,7 +809,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-2.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-2.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 2</span>
 														</a>
 														</span>
@@ -817,7 +817,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-3.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-3.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 3</span>
 														</a>
 														</span>											
@@ -825,7 +825,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-4.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-4.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-4.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 4</span>
 														</a>
 														</span>											
@@ -833,7 +833,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-5.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-5.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-5.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 5</span>
 														</a>
 														</span>											
@@ -935,7 +935,7 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.php"> <img src="images/product/product-20.jpg" alt=""> </a> 																	
+																				<a href="product.php"> <img src="img/product/product-20.jpg" alt=""> </a> 																	
 																			</div>
 																			<!-- /product image --> 
 																			<!-- product name -->
@@ -956,7 +956,7 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.php"> <img src="images/product/product-2.jpg" alt=""> </a> 																		
+																				<a href="product.php"> <img src="img/product/product-2.jpg" alt=""> </a> 																		
 																			</div>
 																			<!-- /product image --> 
 																			<!-- product name -->
@@ -977,7 +977,7 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.php"> <img src="images/product/product-4.jpg" alt=""> </a>
+																				<a href="product.php"> <img src="img/product/product-4.jpg" alt=""> </a>
 																				
 																			</div>
 																			<!-- /product image --> 
@@ -998,8 +998,8 @@
 													</li>
 													<li class="col-sm-12 hidden-xs">
 														<div class="row">
-															<div class="col-sm-6"> <a href="#" class="discolor-hover"><img class="img-responsive" src="images/custom/banner-megamenu-01.jpg" alt=""/></a> </div>
-															<div class="col-sm-6"> <a href="#" class="discolor-hover"><img class="img-responsive" src="images/custom/banner-megamenu-02.jpg" alt=""/></a> </div>
+															<div class="col-sm-6"> <a href="#" class="discolor-hover"><img class="img-responsive" src="img/custom/banner-megamenu-01.jpg" alt=""/></a> </div>
+															<div class="col-sm-6"> <a href="#" class="discolor-hover"><img class="img-responsive" src="img/custom/banner-megamenu-02.jpg" alt=""/></a> </div>
 														</div>
 													</li>
 												</ul>
@@ -1012,7 +1012,7 @@
 													<li class="col-sm-3">												
 														<a href="listing.php" class="megamenu__subtitle">
 															<span>TOPS</span>
-															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-1.jpg" alt=""/></span>
+															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-1.jpg" alt=""/></span>
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
@@ -1025,7 +1025,7 @@
 													<li class="col-sm-3">
 														<a href="listing.php" class="megamenu__subtitle">
 															<span>BOTTOMS</span>
-															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-2.jpg" alt=""/></span>
+															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-2.jpg" alt=""/></span>
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
@@ -1038,7 +1038,7 @@
 													<li class="col-sm-3">
 														<a href="#" class="megamenu__subtitle">
 															<span>ACCESSORIES</span>
-															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-3.jpg" alt=""/></span>
+															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-3.jpg" alt=""/></span>
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
@@ -1051,7 +1051,7 @@
 														<a href="listing.php" class="megamenu__subtitle"><span>Specials</span></a>
 														<div class="vertical-carousel vertical-carousel-1 special-carousel">
 															<div class="vertical-carousel__item">
-																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="images/product/product-120x150-1.jpg" alt=""></a></div>
+																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="img/product/product-120x150-1.jpg" alt=""></a></div>
 																<div class="product__label product__label--sale"> <span>Sale</span></div>
 																<div class="vertical-carousel__item__title">
 																	<h2><a href="product.php">Mauris lacinia lectus</a></h2>
@@ -1059,7 +1059,7 @@
 																<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
 															</div>
 															<div class="vertical-carousel__item">
-																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="images/product/product-120x150-2.jpg" alt=""></a></div>
+																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="img/product/product-120x150-2.jpg" alt=""></a></div>
 																<div class="product__label product__label--sale"> <span>Sale</span></div>
 																<div class="vertical-carousel__item__title">
 																	<h2><a href="product.php">Incididunt ut labore et dolore magna aliqua</a></h2>
@@ -1071,16 +1071,16 @@
 													<li class="col-sm-12 hidden-xs">
 														<div class="hor-line"></div>
 														<ul class="list-inline brands-list">
-															<li><a href="#"><img src="images/custom/brand-01.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-03.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-02.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-05.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-04.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-06.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-07.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-08.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-09.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-10.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-01.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-03.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-02.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-05.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-04.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-06.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-07.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-08.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-09.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-10.png" alt=""></a></li>
 														</ul>
 													</li>
 												</ul>
@@ -1137,7 +1137,7 @@
 													<a href="#" class="icon icon-close cart__close"><span>CLOSE</span></a>
 													<ul>
 														<li class="cart__item">
-															<div class="cart__item__image pull-left"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
+															<div class="cart__item__image pull-left"><a href="#"><img src="img/product/product-1.jpg" alt=""/></a></div>
 															<div class="cart__item__control">
 																<div class="cart__item__delete"><a href="#" class="icon icon-delete"><span>Delete</span></a></div>
 																<div class="cart__item__edit"><a href="#" class="icon icon-edit"><span>Edit</span></a></div>
@@ -1163,7 +1163,7 @@
 															</div>
 														</li>
 														<li class="cart__item">
-															<div class="cart__item__image pull-left"><a href="#"><img src="images/product/product-2.jpg" alt=""/></a></div>
+															<div class="cart__item__image pull-left"><a href="#"><img src="img/product/product-2.jpg" alt=""/></a></div>
 															<div class="cart__item__control">
 																<div class="cart__item__delete"><a href="#" class="icon icon-delete"><span>Delete</span></a></div>
 																<div class="cart__item__edit"><a href="#" class="icon icon-edit"><span>Edit</span></a></div>
@@ -1209,7 +1209,7 @@
 		<!-- CONTENT section -->
 		<div id="pageContent">			
 			<!-- parallax-img -->
-			<section class="content--parallax content--parallax-sm offset-top-0" data-image="images/custom/parallax-img-07.jpg">
+			<section class="content--parallax content--parallax-sm offset-top-0" data-image="img/custom/parallax-img-07.jpg">
 				<div class="content  offset-top-0">
 					<div class="container">
 						<div class="parallax-text">
@@ -1286,7 +1286,7 @@
 					<div class="row">
 						<div class="col-sm-12 col-md-6 col-sm-center">
 							<div class="divider divider--lg hidden-xl"></div>
-							<img src="images/custom/image-bg-img-01.png" class="img-responsive" alt="">
+							<img src="img/custom/image-bg-img-01.png" class="img-responsive" alt="">
 						</div>
 						<div class="col-md-12 col-md-6 col-sm-center">
 							<div class="divider divider--xl-2 visible-xl"></div>
@@ -1312,7 +1312,7 @@
 					<!-- /title -->
 					<div class="row">
 						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/img-content-01.jpg" class="img-responsive" alt=""></a>							
+							<a class="link-img-hover1" href="#"><img src="img/custom/img-content-01.jpg" class="img-responsive" alt=""></a>							
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
@@ -1322,7 +1322,7 @@
 							<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </p>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/img-content-02.jpg" class="img-responsive" alt=""></a>
+							<a class="link-img-hover1" href="#"><img src="img/custom/img-content-02.jpg" class="img-responsive" alt=""></a>
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
@@ -1333,7 +1333,7 @@
 						</div>
 						<div class="divider divider--lg visible-sm visible-xs"></div>
 						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/img-content-03.jpg" class="img-responsive" alt=""></a>
+							<a class="link-img-hover1" href="#"><img src="img/custom/img-content-03.jpg" class="img-responsive" alt=""></a>
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
@@ -1343,7 +1343,7 @@
 							<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </p>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/img-content-04.jpg" class="img-responsive" alt=""></a>
+							<a class="link-img-hover1" href="#"><img src="img/custom/img-content-04.jpg" class="img-responsive" alt=""></a>
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
@@ -1364,7 +1364,7 @@
 						<!-- banner -->
 						<a href="listing.php" class="banner zoom-in">
 							<span class="figure">
-								<img src="images/custom/banner-24.jpg" alt=""/>
+								<img src="img/custom/banner-24.jpg" alt=""/>
 								<span class="figcaption text-left">
 									<span class="block-table">
 										<span class="block-table-cell">
@@ -1389,7 +1389,7 @@
 						<!-- banner -->
 						<a href="listing.php" class="banner zoom-in">
 							<span class="figure">
-								<img src="images/custom/banner-25.jpg" alt=""/>
+								<img src="img/custom/banner-25.jpg" alt=""/>
 								<span class="figcaption text-left">
 									<span class="block-table">
 										<span class="block-table-cell">
@@ -1422,7 +1422,7 @@
 					<div class="col-sm-12 col-md-5 col-lg-6 border-sep-right">
 						<div class="footer-logo hidden-xs">
 							<!--  Logo  --> 
-							<a class="logo" href="index.php"> <img class="replace-2x" src="images/logo.png"  alt="YOURStore"> </a> 
+							<a class="logo" href="index.php"> <img class="replace-2x" src="img/logo.png"  alt="YOURStore"> </a> 
 							<!-- /Logo --> 
 						</div>
 						<div class="box-about">
@@ -1543,7 +1543,7 @@
 		<script src="external/instafeed/instafeed.min.js"></script>  		
 		<script src="external/magnific-popup/jquery.magnific-popup.min.js"></script>  		
 		<script src="external/isotope/isotope.pkgd.min.js"></script> 
-		<script src="external/imagesloaded/imagesloaded.pkgd.min.js"></script>
+		<script src="external/imgloaded/imgloaded.pkgd.min.js"></script>
 		<script src="external/colorbox/jquery.colorbox-min.js"></script>
 		<script src="external/parallax/jquery.parallax-1.1.3.js"></script>		
 		<!-- Custom --> 

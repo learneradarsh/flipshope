@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	
-<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/listing-without-col-04.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 10:59:15 GMT -->
+<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/listing-without-col-without-static-block_small_07.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 10:59:15 GMT -->
 <head>
 		<!-- Basic -->
 		<meta charset="utf-8">
@@ -57,7 +57,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 1 (Default)</span>
 								</a>
 								</span>
@@ -65,7 +65,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-02.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 2</span>
 								</a>
 								</span>
@@ -73,7 +73,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-03.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 3</span>
 								</a>
 								</span>
@@ -81,7 +81,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-04.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 4</span>
 								</a>
 								</span>
@@ -89,7 +89,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-05.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 5</span>
 								</a>
 								</span>
@@ -97,7 +97,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-06.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 6</span>
 								</a>
 								</span>											
@@ -105,7 +105,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-07.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 7</span>
 								</a>
 								</span>
@@ -113,7 +113,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-08.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 8</span>
 								</a>
 								</span>
@@ -121,7 +121,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-09.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 9</span>
 								</a>
 								</span>
@@ -129,7 +129,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-10.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 10</span>
 								</a>
 								</span>
@@ -137,7 +137,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-11.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 11</span>
 								</a>
 								</span>
@@ -145,7 +145,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="index-12.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 								<span class="figcaption">Home page - Layout 12</span>
 								</a>
 								</span>
@@ -161,7 +161,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-1.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left column</span>
 								</a>
 								</span>
@@ -169,7 +169,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-left-right-col.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-2.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left, right column</span>
 								</a>
 								</span>
@@ -177,7 +177,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-col-right_03.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-3.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">right column</span>
 								</a>
 								</span>											
@@ -185,7 +185,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-without-col-04.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-4.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-4.png" alt=""/></span>
 								<span class="figcaption text-uppercase">without columns</span>
 								</a>
 								</span>
@@ -193,7 +193,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-col-left-without-without-static-block_05.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-5.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-5.png" alt=""/></span>
 								<span class="figcaption text-uppercase">left column,<br> without Static block</span>
 								</a>
 								</span>
@@ -201,7 +201,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-without-col-without-static-block_06.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-6.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-6.png" alt=""/></span>
 								<span class="figcaption text-uppercase">without columns,<br> without Static block</span>
 								</a>
 								</span>											
@@ -209,7 +209,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-without-col-without-static-block_small_07.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/listing-img-7.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/listing-img-7.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Small</span>
 								</a>
 								</span>
@@ -217,7 +217,7 @@
 							<li class="col-one-fourth">
 								<span class="image-link">
 								<a href="listing-without-col-without-static-block_big_08.php">
-								<span class="figure"><img class="img-responsive img-border" src="images/custom/listing-img-8.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive img-border" src="img/custom/listing-img-8.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Big</span>
 								</a>
 								</span>
@@ -233,7 +233,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="product-small.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-1.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - small</span>
 								</a>
 								</span>
@@ -241,7 +241,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="product.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-2.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - medium</span>
 								</a>
 								</span>
@@ -249,7 +249,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="product-big.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-3.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">image size  - big</span>
 								</a>
 								</span>											
@@ -265,7 +265,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="blog-layout-1.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-1.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 1</span>
 								</a>
 								</span>
@@ -273,7 +273,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="blog-layout-2.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-2.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 2</span>
 								</a>
 								</span>
@@ -281,7 +281,7 @@
 							<li class="col-one-third">
 								<span class="image-link">
 								<a href="blog-layout-3.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-3.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">blog - Layout 3</span>
 								</a>
 								</span>											
@@ -297,7 +297,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-1.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-1.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-1.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 1</span>
 								</a>
 								</span>
@@ -305,7 +305,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-2.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-2.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-2.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 2</span>
 								</a>
 								</span>
@@ -313,7 +313,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-3.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-3.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-3.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 3</span>
 								</a>
 								</span>											
@@ -321,7 +321,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-4.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-4.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-4.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 4</span>
 								</a>
 								</span>											
@@ -329,7 +329,7 @@
 							<li class="col-one-fifth">
 								<span class="image-link">
 								<a href="gallery-layout-5.php">
-								<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-5.png" alt=""/></span>
+								<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-5.png" alt=""/></span>
 								<span class="figcaption text-uppercase">Gallery - Layout 5</span>
 								</a>
 								</span>											
@@ -500,7 +500,7 @@
 					<div class="row">
 						<div class="col-sm-4 col-md-4 col-lg-6 col-xl-7">
 							<!-- logo start --> 
-							<a href="index.php"><img class="logo replace-2x img-responsive" src="images/logo.png" alt=""/> </a> 
+							<a href="index.php"><img class="logo replace-2x img-responsive" src="img/logo.png" alt=""/> </a> 
 							<!-- logo end --> 
 						</div>
 						<div class="col-sm-8 col-md-8 col-lg-6 col-xl-5 text-right">
@@ -566,7 +566,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 1 (Default)</span>
 														</a>
 														</span>
@@ -574,7 +574,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-02.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 2</span>
 														</a>
 														</span>
@@ -582,7 +582,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-03.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-3.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 3</span>
 														</a>
 														</span>
@@ -590,7 +590,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-04.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-4.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 4</span>
 														</a>
 														</span>
@@ -598,7 +598,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-05.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-5.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 5</span>
 														</a>
 														</span>
@@ -606,7 +606,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-06.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-6.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 6</span>
 														</a>
 														</span>											
@@ -614,7 +614,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-07.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-7.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 7</span>
 														</a>
 														</span>
@@ -622,7 +622,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-08.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-8.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 8</span>
 														</a>
 														</span>
@@ -630,7 +630,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-09.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-9.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 9</span>
 														</a>
 														</span>
@@ -638,7 +638,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-10.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-10.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 10</span>
 														</a>
 														</span>
@@ -646,7 +646,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-11.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-11.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 11</span>
 														</a>
 														</span>
@@ -654,7 +654,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="index-12.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-12.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
 														<span class="figcaption">Home page - Layout 12</span>
 														</a>
 														</span>
@@ -669,7 +669,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-1.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left column</span>
 														</a>
 														</span>
@@ -677,7 +677,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-left-right-col.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-2.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left, right column</span>
 														</a>
 														</span>
@@ -685,7 +685,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-col-right_03.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-3.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">right column</span>
 														</a>
 														</span>											
@@ -693,7 +693,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-without-col-04.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-4.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-4.png" alt=""/></span>
 														<span class="figcaption text-uppercase">without columns</span>
 														</a>
 														</span>
@@ -701,7 +701,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-col-left-without-without-static-block_05.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-5.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-5.png" alt=""/></span>
 														<span class="figcaption text-uppercase">left column,<br> without Static block</span>
 														</a>
 														</span>
@@ -709,7 +709,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-without-col-without-static-block_06.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-6.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-6.png" alt=""/></span>
 														<span class="figcaption text-uppercase">without columns,<br> without Static block</span>
 														</a>
 														</span>											
@@ -717,7 +717,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-without-col-without-static-block_small_07.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/listing-img-7.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/listing-img-7.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Small</span>
 														</a>
 														</span>
@@ -725,7 +725,7 @@
 													<li class="col-one-fourth">
 														<span class="image-link">
 														<a href="listing-without-col-without-static-block_big_08.php">
-														<span class="figure"><img class="img-responsive img-border" src="images/custom/listing-img-8.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive img-border" src="img/custom/listing-img-8.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Big</span>
 														</a>
 														</span>
@@ -740,7 +740,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="product-small.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-1.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - small</span>
 														</a>
 														</span>
@@ -748,7 +748,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="product.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-2.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - medium</span>
 														</a>
 														</span>
@@ -756,7 +756,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="product-big.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/product-menu-img-3.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">image size  - big</span>
 														</a>
 														</span>											
@@ -771,7 +771,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="blog-layout-1.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-1.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 1</span>
 														</a>
 														</span>
@@ -779,7 +779,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="blog-layout-2.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-2.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 2</span>
 														</a>
 														</span>
@@ -787,7 +787,7 @@
 													<li class="col-one-third">
 														<span class="image-link">
 														<a href="blog-layout-3.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/blog-menu-img-3.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">blog - Layout 3</span>
 														</a>
 														</span>											
@@ -802,7 +802,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-1.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-1.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-1.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 1</span>
 														</a>
 														</span>
@@ -810,7 +810,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-2.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-2.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-2.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 2</span>
 														</a>
 														</span>
@@ -818,7 +818,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-3.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-3.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-3.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 3</span>
 														</a>
 														</span>											
@@ -826,7 +826,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-4.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-4.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-4.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 4</span>
 														</a>
 														</span>											
@@ -834,7 +834,7 @@
 													<li class="col-one-fifth">
 														<span class="image-link">
 														<a href="gallery-layout-5.php">
-														<span class="figure"><img class="img-responsive" src="images/custom/gallery-menu-img-5.png" alt=""/></span>
+														<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-5.png" alt=""/></span>
 														<span class="figcaption text-uppercase">Gallery - Layout 5</span>
 														</a>
 														</span>											
@@ -936,7 +936,7 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.php"> <img src="images/product/product-20.jpg" alt=""> </a> 																	
+																				<a href="product.php"> <img src="img/product/product-20.jpg" alt=""> </a> 																	
 																			</div>
 																			<!-- /product image --> 
 																			<!-- product name -->
@@ -957,7 +957,7 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.php"> <img src="images/product/product-2.jpg" alt=""> </a> 																		
+																				<a href="product.php"> <img src="img/product/product-2.jpg" alt=""> </a> 																		
 																			</div>
 																			<!-- /product image --> 
 																			<!-- product name -->
@@ -978,7 +978,7 @@
 																		<div class="product__inside">
 																			<!-- product image -->
 																			<div class="product__inside__image">
-																				<a href="product.php"> <img src="images/product/product-4.jpg" alt=""> </a>
+																				<a href="product.php"> <img src="img/product/product-4.jpg" alt=""> </a>
 																				
 																			</div>
 																			<!-- /product image --> 
@@ -999,8 +999,8 @@
 													</li>
 													<li class="col-sm-12 hidden-xs">
 														<div class="row">
-															<div class="col-sm-6"> <a href="#" class="discolor-hover"><img class="img-responsive" src="images/custom/banner-megamenu-01.jpg" alt=""/></a> </div>
-															<div class="col-sm-6"> <a href="#" class="discolor-hover"><img class="img-responsive" src="images/custom/banner-megamenu-02.jpg" alt=""/></a> </div>
+															<div class="col-sm-6"> <a href="#" class="discolor-hover"><img class="img-responsive" src="img/custom/banner-megamenu-01.jpg" alt=""/></a> </div>
+															<div class="col-sm-6"> <a href="#" class="discolor-hover"><img class="img-responsive" src="img/custom/banner-megamenu-02.jpg" alt=""/></a> </div>
 														</div>
 													</li>
 												</ul>
@@ -1013,7 +1013,7 @@
 													<li class="col-sm-3">												
 														<a href="listing.php" class="megamenu__subtitle">
 															<span>TOPS</span>
-															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-1.jpg" alt=""/></span>
+															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-1.jpg" alt=""/></span>
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
@@ -1026,7 +1026,7 @@
 													<li class="col-sm-3">
 														<a href="listing.php" class="megamenu__subtitle">
 															<span>BOTTOMS</span>
-															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-2.jpg" alt=""/></span>
+															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-2.jpg" alt=""/></span>
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
@@ -1039,7 +1039,7 @@
 													<li class="col-sm-3">
 														<a href="#" class="megamenu__subtitle">
 															<span>ACCESSORIES</span>
-															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="images/custom/mens-category-3.jpg" alt=""/></span>
+															<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-3.jpg" alt=""/></span>
 														</a>
 														<ul class="megamenu__submenu megamenu__submenu--marked">
 															<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
@@ -1052,7 +1052,7 @@
 														<a href="listing.php" class="megamenu__subtitle"><span>Specials</span></a>
 														<div class="vertical-carousel vertical-carousel-1 special-carousel">
 															<div class="vertical-carousel__item">
-																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="images/product/product-120x150-1.jpg" alt=""></a></div>
+																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="img/product/product-120x150-1.jpg" alt=""></a></div>
 																<div class="product__label product__label--sale"> <span>Sale</span></div>
 																<div class="vertical-carousel__item__title">
 																	<h2><a href="product.php">Mauris lacinia lectus</a></h2>
@@ -1060,7 +1060,7 @@
 																<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
 															</div>
 															<div class="vertical-carousel__item">
-																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="images/product/product-120x150-2.jpg" alt=""></a></div>
+																<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="img/product/product-120x150-2.jpg" alt=""></a></div>
 																<div class="product__label product__label--sale"> <span>Sale</span></div>
 																<div class="vertical-carousel__item__title">
 																	<h2><a href="product.php">Incididunt ut labore et dolore magna aliqua</a></h2>
@@ -1072,16 +1072,16 @@
 													<li class="col-sm-12 hidden-xs">
 														<div class="hor-line"></div>
 														<ul class="list-inline brands-list">
-															<li><a href="#"><img src="images/custom/brand-01.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-03.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-02.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-05.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-04.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-06.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-07.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-08.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-09.png" alt=""></a></li>
-															<li><a href="#"><img src="images/custom/brand-10.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-01.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-03.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-02.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-05.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-04.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-06.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-07.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-08.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-09.png" alt=""></a></li>
+															<li><a href="#"><img src="img/custom/brand-10.png" alt=""></a></li>
 														</ul>
 													</li>
 												</ul>
@@ -1138,7 +1138,7 @@
 													<a href="#" class="icon icon-close cart__close"><span>CLOSE</span></a>
 													<ul>
 														<li class="cart__item">
-															<div class="cart__item__image pull-left"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
+															<div class="cart__item__image pull-left"><a href="#"><img src="img/product/product-1.jpg" alt=""/></a></div>
 															<div class="cart__item__control">
 																<div class="cart__item__delete"><a href="#" class="icon icon-delete"><span>Delete</span></a></div>
 																<div class="cart__item__edit"><a href="#" class="icon icon-edit"><span>Edit</span></a></div>
@@ -1164,7 +1164,7 @@
 															</div>
 														</li>
 														<li class="cart__item">
-															<div class="cart__item__image pull-left"><a href="#"><img src="images/product/product-2.jpg" alt=""/></a></div>
+															<div class="cart__item__image pull-left"><a href="#"><img src="img/product/product-2.jpg" alt=""/></a></div>
 															<div class="cart__item__control">
 																<div class="cart__item__delete"><a href="#" class="icon icon-delete"><span>Delete</span></a></div>
 																<div class="cart__item__edit"><a href="#" class="icon icon-edit"><span>Edit</span></a></div>
@@ -1213,8 +1213,8 @@
 				<!-- two columns -->
 				<div class="row">
 					<!-- left column -->
-					<aside class="col-md-4 col-lg-3 col-xl-2 visible-xs visible-sm" id="leftColumn">
-						<a href="#" class="slide-column-close visible-sm visible-xs"><span class="icon icon-chevron_left"></span>back</a>
+					<aside class="col-md-4 col-lg-3 col-xl-2 without-left-col" id="leftColumn">
+						<a href="#" class="slide-column-close"><span class="icon icon-chevron_left"></span>back</a>
 						<div class="filters-block visible-xs">
 							<div class="filters-row__select">
 								<label>Sort by: </label>
@@ -1410,14 +1410,14 @@
 							<div class="collapse-block__content">
 								<div class="compare">
 									<div class="compare__item">
-										<div class="compare__item__image pull-left"><a href="#"><img src="images/product/product-80x100-1.jpg" alt=""></a></div>
+										<div class="compare__item__image pull-left"><a href="#"><img src="img/product/product-80x100-1.jpg" alt=""></a></div>
 										<div class="compare__item__delete"><a href="#" class="icon icon-close"></a></div>
 										<div class="compare__item__title">
 											<h2><a href="#">Quis nostrud exercit ation ullamco</a></h2>
 										</div>
 									</div>
 									<div class="compare__item">
-										<div class="compare__item__image pull-left"><a href="#"><img src="images/product/product-80x100-2.jpg" alt=""></a></div>
+										<div class="compare__item__image pull-left"><a href="#"><img src="img/product/product-80x100-2.jpg" alt=""></a></div>
 										<div class="compare__item__delete"><a href="#" class="icon icon-close"></a></div>
 										<div class="compare__item__title">
 											<h2><a href="#">Quis nostrud exercit ation ullamco</a></h2>
@@ -1471,7 +1471,7 @@
 								
 									<div class="vertical-carousel vertical-carousel-2 offset-top-10">
 										<div class="vertical-carousel__item">
-											<div class="vertical-carousel__item__image pull-left"><a href="#"><img src="images/product/product-80x100-1.jpg" alt=""></a>
+											<div class="vertical-carousel__item__image pull-left"><a href="#"><img src="img/product/product-80x100-1.jpg" alt=""></a>
 											</div>
 											<div class="vertical-carousel__item__title">
 												<h2><a href="#">Quis nostrud exercit ation</a></h2>
@@ -1480,7 +1480,7 @@
 											<div class="rating"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
 										</div>
 										<div class="vertical-carousel__item">
-											<div class="vertical-carousel__item__image pull-left"><a href="#"><img src="images/product/product-80x100-2.jpg" alt=""></a>
+											<div class="vertical-carousel__item__image pull-left"><a href="#"><img src="img/product/product-80x100-2.jpg" alt=""></a>
 											</div>
 											<div class="vertical-carousel__item__title">
 												<h2><a href="#">Quis nostrud exercit ation</a></h2>
@@ -1489,7 +1489,7 @@
 											<div class="rating"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
 										</div>
 										<div class="vertical-carousel__item">
-											<div class="vertical-carousel__item__image pull-left"><a href="#"><img src="images/product/product-80x100-1.jpg" alt=""></a></div>
+											<div class="vertical-carousel__item__image pull-left"><a href="#"><img src="img/product/product-80x100-1.jpg" alt=""></a></div>
 											<div class="vertical-carousel__item__title">
 												<h2><a href="#">Quis nostrud exercit ation</a></h2>
 											</div>
@@ -1537,98 +1537,15 @@
 						<div class="title-box">
 							<h2 class="text-center text-uppercase title-under">women’s</h2>
 						</div>
-						<!-- /title -->
-						<div class="row">
-							<div class="col-sm-6 col-xs-12">
-								<a href="listing-without-col-without-static-block_06.php" class="banner banner--md link-img-hover">
-								<span class="figure">
-								<img src="images/custom/category-women-1.jpg" alt="" class="hidden-xl" /> <img src="images/custom/category-women-1-xl.jpg" alt="" class="visible-xl" />
-									<span class="figcaption">
-										<span class="block-table">
-											<span class="block-table-cell">
-												<span class="banner__title size1">New<br>collection</span>
-												<span class="text size2">OF FASHION CLOTHES</span>
-											</span>
-										</span>
-									</span>
-								</span>
-								</a>
-							</div>
-							<div class="divider divider-md visible-xs"></div>
-							<div class="col-sm-6 col-xs-12">
-								<a href="listing-without-col-without-static-block_06.php" class="banner banner--md link-img-hover">
-								<span class="figure">
-									<img src="images/custom/category-women-2.jpg" alt="" class="hidden-xl" /> <img src="images/custom/category-women-2-xl.jpg" alt="" class="visible-xl" />
-									<span class="figcaption">
-										<span class="block-table">
-											<span class="block-table-cell">
-												<span class="banner__title size2">15% OFF</span>
-												<span class="text size5"><em>on brand-new models</em></span>
-												<span class="btn btn--ys btn--xl">Shop now!</span> 
-											</span>
-										</span>
-									</span>
-								</span>
-								</a>
-							</div>
-						</div>
-						<div class="offset-top-20">
-							<p class="light-font">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqui.</p>
-						</div>
-						<div class="divider"></div>
-						<div class="row">
-							<div class="subcategory-item col-sm-4 col-xs-6 col-xl-one-fifth">
-								<a href="listing-without-col-without-static-block_06.php">
-									<span class="figure"> <img src="images/custom/subcategory-1.jpg" alt="" class="img-responsive" /> </span>
-									<h3 class="subcategory-item__title">Blouses & Shirts</h3>
-								</a>
-								
-							</div>
-							<div class="subcategory-item col-sm-4 col-xs-6 col-xl-one-fifth">
-								<a href="listing-without-col-without-static-block_06.php">
-									<span class="figure"> <img src="images/custom/subcategory-2.jpg" alt=""  class="img-responsive" /> </span>
-									<h3 class="subcategory-item__title">Dresses</h3>
-								</a>
-								
-							</div>
-							<div class="subcategory-item col-sm-4 col-xs-6 col-xl-one-fifth">
-								<a href="listing-without-col-without-static-block_06.php">
-								<span class="figure"> <img src="images/custom/subcategory-3.jpg" alt="" class="img-responsive" /> </span>
-								<h3 class="subcategory-item__title">Tops & T-shirts</h3>
-								</a>
-								
-							</div>
-							<div class="subcategory-item col-sm-4 col-xs-6 col-xl-one-fifth">
-								<a href="listing-without-col-without-static-block_06.php">
-								<span class="figure"> <img src="images/custom/subcategory-4.jpg" alt=""  class="img-responsive" /> </span>
-								<h3 class="subcategory-item__title">Sleeveless Tops</h3>
-								</a>
-								
-							</div>
-							<div class="subcategory-item col-sm-4 col-xs-6 col-xl-one-fifth">
-								<a href="listing-without-col-without-static-block_06.php">
-								<span class="figure"> <img src="images/custom/subcategory-5.jpg" alt="" class="img-responsive" /> </span>
-								<h3 class="subcategory-item__title">Jackets</h3>
-								</a>
-								
-							</div>
-							<div class="subcategory-item col-sm-4 col-xs-6 col-xl-one-fifth">
-								<a href="listing-without-col-without-static-block_06.php">
-								<span class="figure"> <img src="images/custom/subcategory-6.jpg" alt="" class="img-responsive" /> </span>
-								<h3 class="subcategory-item__title">Outerwear</h3>
-								</a>
-								
-							</div>
-						</div>
+						<!-- /title -->												
 						<!-- filters row -->
-						<div class="filters-row">
-							<div class="pull-left">
-								<div class="filters-row__mode">
-									<a href="#" class="btn btn--ys slide-column-open visible-xs visible-sm hidden-xl hidden-lg hidden-md">Filter</a> 
+						<div class="filters-row filters-row-layout border-top-none">							
+							<div class="pull-left col-xs-12 col-sm-12 col-md-5">
+								<div class="filters-row__mode">									
 									<a class="filters-row__view active link-grid-view btn-img btn-img-view_module"><span></span></a> 
 									<a class="filters-row__view link-row-view btn-img btn-img-view_list"><span></span></a> 
 								</div>
-								<div class="filters-row__select hidden-sm hidden-xs">
+								<div class="filters-row__select hidden-xs">
 									<label>Sort by: </label>
 									<div class="select-wrapper">
 										<select class="select--ys sort-position">
@@ -1640,7 +1557,10 @@
 									<a href="#" class="sort-direction icon icon-arrow_back"></a> 
 								</div>
 							</div>
-							<div class="pull-right">
+							<div class="col-sm-12 col-xs-12 col-md-2 text-center">
+								<a href="#" class="btn btn--ys slide-column-open">Filter</a> 
+							</div>
+							<div class="pull-right col-xs-12 col-sm-12 col-md-5 text-right">
 								<div class="filters-row__items hidden-sm hidden-xs">28 Item(s)</div>
 								<div class="filters-row__select hidden-sm hidden-xs">
 									<label>Show: </label>
@@ -1661,11 +1581,11 @@
 										<li><a href="#"><span class="icon icon-chevron_right"></span></a></li>
 									</ul>
 								</div>
-							</div>
+							</div>							
 						</div>
 						<!-- /filters row -->
 						<div class="product-listing row">
-							<div class="col-xs-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
 								<!-- product -->
 								<div class="product product--zoom">
 									<div class="product__inside">
@@ -1674,9 +1594,9 @@
 											<!-- product image carousel -->
 											<div class="product__inside__carousel slide" data-ride="carousel">
 												<div class="carousel-inner" role="listbox">
-													<div class="item active"> <a href="product.php"><img src="images/product/product-1.jpg" alt=""></a> </div>
-													<div class="item"> <a href="product.php"><img src="images/product/product-2.jpg" alt=""></a> </div>
-													<div class="item"> <a href="product.php"><img src="images/product/product-3.jpg" alt=""></a> </div>
+													<div class="item active"> <a href="product.php"><img src="img/product/product-1.jpg" alt=""></a> </div>
+													<div class="item"> <a href="product.php"><img src="img/product/product-2.jpg" alt=""></a> </div>
+													<div class="item"> <a href="product.php"><img src="img/product/product-3.jpg" alt=""></a> </div>
 												</div>
 												<!-- Controls --> 
 												<a class="carousel-control next"></a> <a class="carousel-control prev"></a> 
@@ -1743,13 +1663,13 @@
 								</div>
 								<!-- /product --> 
 							</div>
-							<div class="col-xs-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
 								<!-- product -->
 								<div class="product product--zoom">
 									<div class="product__inside">
 										<!-- product image -->
 										<div class="product__inside__image">
-											<a href="product.php"> <img src="images/product/product-2.jpg" alt=""> </a> 
+											<a href="product.php"> <img src="img/product/product-2.jpg" alt=""> </a> 
 											<!-- quick-view --> 
 											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
 											<!-- /quick-view --> 
@@ -1794,13 +1714,13 @@
 								</div>
 								<!-- /product --> 
 							</div>
-							<div class="col-xs-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
 								<!-- product -->
 								<div class="product product--zoom">
 									<div class="product__inside">
 										<!-- product image -->
 										<div class="product__inside__image">
-											<a href="product.php"> <img src="images/product/product-3.jpg" alt=""> </a> 
+											<a href="product.php"> <img src="img/product/product-3.jpg" alt=""> </a> 
 											<!-- quick-view --> 
 											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
 											<!-- /quick-view --> 
@@ -1826,8 +1746,8 @@
 											<!-- product info -->
 											<div class="product__inside__info">
 												<ul class="options-swatch options-swatch--color">
-													<li><a href="#"><span class="swatch-label"><img src="images/colors/blue.png"  alt=""/></span></a></li>
-													<li><a href="#"><span class="swatch-label"><img src="images/colors/yellow.png"  alt=""/></span></a></li>
+													<li><a href="#"><span class="swatch-label"><img src="img/colors/blue.png"  alt=""/></span></a></li>
+													<li><a href="#"><span class="swatch-label"><img src="img/colors/yellow.png"  alt=""/></span></a></li>
 												</ul>
 												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
 													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
@@ -1847,13 +1767,13 @@
 								</div>
 								<!-- /product --> 
 							</div>
-							<div class="col-xs-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
 								<!-- product -->
 								<div class="product product--zoom">
 									<div class="product__inside">
 										<!-- product image -->
 										<div class="product__inside__image">
-											<a href="product.php"> <img src="images/product/product-4.jpg" alt=""> </a> 
+											<a href="product.php"> <img src="img/product/product-4.jpg" alt=""> </a> 
 											<!-- quick-view --> 
 											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
 											<!-- /quick-view --> 
@@ -1896,13 +1816,13 @@
 								</div>
 								<!-- /product --> 
 							</div>
-							<div class="col-xs-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
 								<!-- product -->
 								<div class="product product--zoom">
 									<div class="product__inside">
 										<!-- product image -->
 										<div class="product__inside__image">
-											<a href="product.php"> <img src="images/product/product-5.jpg" alt=""> </a> 
+											<a href="product.php"> <img src="img/product/product-5.jpg" alt=""> </a> 
 											<!-- quick-view --> 
 											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
 											<!-- /quick-view --> 
@@ -1945,13 +1865,13 @@
 								</div>
 								<!-- /product --> 
 							</div>
-							<div class="col-xs-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
 								<!-- product -->
 								<div class="product product--zoom">
 									<div class="product__inside">
 										<!-- product image -->
 										<div class="product__inside__image">
-											<a href="product.php"> <img src="images/product/product-6.jpg" alt=""> </a> 
+											<a href="product.php"> <img src="img/product/product-6.jpg" alt=""> </a> 
 											<!-- quick-view --> 
 											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
 											<!-- /quick-view --> 
@@ -1994,13 +1914,13 @@
 								</div>
 								<!-- /product --> 
 							</div>
-							<div class="col-xs-6 col-sm-4 col-md-4 col-lg-3 col-xl-2">
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
 								<!-- product -->
 								<div class="product product--zoom sold-out">
 									<div class="product__inside">
 										<!-- product image -->
 										<div class="product__inside__image">
-											<a href="product.php"> <img src="images/product/product-7.jpg" alt=""> </a> 
+											<a href="product.php"> <img src="img/product/product-7.jpg" alt=""> </a> 
 											<!-- label sold-out -->
 											<div class="product__label--sold-out"> <span>sold<br>
 												out</span> 
@@ -2045,13 +1965,533 @@
 								</div>
 								<!-- /product --> 
 							</div>
-							<div class="col-xs-6 col-sm-4 col-md-4 col-lg-3 col-xl-one-fifth">
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
 								<!-- product -->
 								<div class="product product--zoom">
 									<div class="product__inside">
 										<!-- product image -->
 										<div class="product__inside__image">
-											<a href="product.php"> <img src="images/product/product-8.jpg" alt=""> </a> 
+											<a href="product.php"> <img src="img/product/product-8.jpg" alt=""> </a> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$73.00</div>
+										<!-- /product price -->                 <!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> <!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-8.jpg" alt=""> </a> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$73.00</div>
+										<!-- /product price -->                 <!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> <!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<!-- product image carousel -->
+											<div class="product__inside__carousel slide" data-ride="carousel">
+												<div class="carousel-inner" role="listbox">
+													<div class="item active"> <a href="product.php"><img src="img/product/product-1.jpg" alt=""></a> </div>
+													<div class="item"> <a href="product.php"><img src="img/product/product-2.jpg" alt=""></a> </div>
+													<div class="item"> <a href="product.php"><img src="img/product/product-3.jpg" alt=""></a> </div>
+												</div>
+												<!-- Controls --> 
+												<a class="carousel-control next"></a> <a class="carousel-control prev"></a> 
+											</div>
+											<!-- /product image carousel --> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 											
+										</div>
+										<!-- /product image --> 
+										<!-- label news -->
+										<div class="product__label product__label--right product__label--new"> <span>new</span> </div>
+										<!-- /label news --> 
+										<!-- label sale -->
+										<div class="product__label product__label--left product__label--sale"> <span>Sale<br>
+											-20%</span> 
+										</div>
+										<!-- /label sale --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name --> 
+										<!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description --> 
+										<!-- product price -->
+										<div class="product__inside__price price-box">$26.00<span class="price-box__old">$28.00</span></div>
+										<!-- /product price --> 
+										<!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> 
+											<!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-2.jpg" alt=""> </a> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$46.00</div>
+										<!-- /product price --> 
+										<!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> 
+											<!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-3.jpg" alt=""> </a> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$143.00</div>
+										<!-- /product price -->                 <!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<ul class="options-swatch options-swatch--color">
+													<li><a href="#"><span class="swatch-label"><img src="img/colors/blue.png"  alt=""/></span></a></li>
+													<li><a href="#"><span class="swatch-label"><img src="img/colors/yellow.png"  alt=""/></span></a></li>
+												</ul>
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> <!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-4.jpg" alt=""> </a> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php"> Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$587.00</div>
+										<!-- /product price -->                 <!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> <!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-5.jpg" alt=""> </a> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$54.00</div>
+										<!-- /product price -->                 <!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> <!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-6.jpg" alt=""> </a> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$66.00</div>
+										<!-- /product price -->                 <!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review -->
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> <!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom sold-out">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-7.jpg" alt=""> </a> 
+											<!-- label sold-out -->
+											<div class="product__label--sold-out"> <span>sold<br>
+												out</span> 
+											</div>
+											<!-- /label sold-out --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$73.00</div>
+										<!-- /product price -->                 <!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> <!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-8.jpg" alt=""> </a> 
+											<!-- quick-view --> 
+											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
+											<!-- /quick-view --> 
+										</div>
+										<!-- /product image --> 
+										<!-- product name -->
+										<div class="product__inside__name">
+											<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+										</div>
+										<!-- /product name -->                 <!-- product description --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__description row-mode-visible"> Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. </div>
+										<!-- /product description -->                 <!-- product price -->
+										<div class="product__inside__price price-box">$73.00</div>
+										<!-- /product price -->                 <!-- product review --> 
+										<!-- visible only in row-view mode -->
+										<div class="product__inside__review row-mode-visible">
+											<div class="rating row-mode-visible"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<a href="#">1 Review(s)</a> <a href="#">Add Your Review</a> 
+										</div>
+										<!-- /product review --> 
+										<div class="product__inside__hover">
+											<!-- product info -->
+											<div class="product__inside__info">
+												<div class="product__inside__info__btns"> <a href="#" class="btn btn--ys btn--xl"><span class="icon icon-shopping_basket"></span> Add to cart</a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-favorite_border"></span></a>
+													<a href="#" class="btn btn--ys btn--xl visible-xs"><span class="icon icon-sort"></span></a>
+													<a href="#" data-toggle="modal" data-target="#quickViewModal" class="btn btn--ys btn--xl  row-mode-visible hidden-xs"><span class="icon icon-visibility"></span> Quick view</a> 
+												</div>
+												<ul class="product__inside__info__link hidden-sm">
+													<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
+													<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#" class="compare-link"><span class="text">Add to compare</span></a></li>
+												</ul>
+											</div>
+											<!-- /product info --> <!-- product rating -->
+											<div class="rating row-mode-hide"> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star"></span> <span class="icon-star empty-star"></span> </div>
+											<!-- /product rating --> 
+										</div>
+									</div>
+								</div>
+								<!-- /product --> 
+							</div>
+							<div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 col-xl-one-nine">
+								<!-- product -->
+								<div class="product product--zoom">
+									<div class="product__inside">
+										<!-- product image -->
+										<div class="product__inside__image">
+											<a href="product.php"> <img src="img/product/product-8.jpg" alt=""> </a> 
 											<!-- quick-view --> 
 											<a href="#" data-toggle="modal" data-target="#quickViewModal" class="quick-view"><b><span class="icon icon-visibility"></span> Quick view</b> </a> 
 											<!-- /quick-view --> 
@@ -2096,14 +2536,13 @@
 							</div>
 						</div>
 						<!-- filters row -->
-						<div class="filters-row">
-							<div class="pull-left">
-								<div class="filters-row__mode">
-									<a href="#" class="btn btn--ys slide-column-open visible-xs visible-sm hidden-xl hidden-lg hidden-md">Filter</a> 
+						<div class="filters-row filters-row-layout border-top-none">							
+							<div class="pull-left col-xs-12 col-sm-12 col-md-5">
+								<div class="filters-row__mode">									
 									<a class="filters-row__view active link-grid-view btn-img btn-img-view_module"><span></span></a> 
 									<a class="filters-row__view link-row-view btn-img btn-img-view_list"><span></span></a> 
 								</div>
-								<div class="filters-row__select hidden-sm hidden-xs">
+								<div class="filters-row__select hidden-xs">
 									<label>Sort by: </label>
 									<div class="select-wrapper">
 										<select class="select--ys sort-position">
@@ -2115,7 +2554,10 @@
 									<a href="#" class="sort-direction icon icon-arrow_back"></a> 
 								</div>
 							</div>
-							<div class="pull-right">
+							<div class="col-sm-12 col-xs-12 col-md-2 text-center">
+								<a href="#" class="btn btn--ys slide-column-open">Filter</a> 
+							</div>
+							<div class="pull-right col-xs-12 col-sm-12 col-md-5 text-right">
 								<div class="filters-row__items hidden-sm hidden-xs">28 Item(s)</div>
 								<div class="filters-row__select hidden-sm hidden-xs">
 									<label>Show: </label>
@@ -2136,7 +2578,7 @@
 										<li><a href="#"><span class="icon icon-chevron_right"></span></a></li>
 									</ul>
 								</div>
-							</div>
+							</div>							
 						</div>
 						<!-- /filters row --> 
 					</aside>
@@ -2154,7 +2596,7 @@
 					<div class="col-sm-12 col-md-5 col-lg-6 border-sep-right">
 						<div class="footer-logo hidden-xs">
 							<!--  Logo  --> 
-							<a class="logo" href="index.php"> <img class="replace-2x" src="images/logo.png"  alt="YOURStore"> </a> 
+							<a class="logo" href="index.php"> <img class="replace-2x" src="img/logo.png"  alt="YOURStore"> </a> 
 							<!-- /Logo --> 
 						</div>
 						<div class="box-about">
@@ -2273,7 +2715,7 @@
 						<div class="row product-info-outer">
 							<div class="col-xs-12 col-sm-5 col-md-6 col-lg-6">
 								<div class="product-main-image">
-									<div class="product-main-image__item"><img src='images/product/product-big-1.jpg' alt="" /></div>
+									<div class="product-main-image__item"><img src='img/product/product-big-1.jpg' alt="" /></div>
 								</div>
 							</div>
 							<div class="product-info col-xs-12 col-sm-7 col-md-6 col-lg-6">
@@ -2287,7 +2729,7 @@
 								<div class="price-box product-info__price"><span class="price-box__new">$65.00</span> <span class="price-box__old">$84.00</span></div>
 								<div class="divider divider--xs product-info__divider"></div>
 								<div class="product-info__description">
-									<div class="product-info__description__brand"><img src="images/custom/brand.png" alt=""> </div>
+									<div class="product-info__description__brand"><img src="img/custom/brand.png" alt=""> </div>
 									<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 								</div>
 								<div class="divider divider--xs product-info__divider"></div>
@@ -2296,10 +2738,10 @@
 									<div class="pull-right required">* Required Fields</div>
 								</div>
 								<ul class="options-swatch options-swatch--color options-swatch--lg">
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/oldlace.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/dark-grey.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/grey.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/light-grey.png" alt=""/></span></a></li>
+									<li><a href="#"><span class="swatch-label"><img src="img/colors/oldlace.png" alt=""/></span></a></li>
+									<li><a href="#"><span class="swatch-label"><img src="img/colors/dark-grey.png" alt=""/></span></a></li>
+									<li><a href="#"><span class="swatch-label"><img src="img/colors/grey.png" alt=""/></span></a></li>
+									<li><a href="#"><span class="swatch-label"><img src="img/colors/light-grey.png" alt=""/></span></a></li>
 								</ul>						
 								<div class="wrapper">
 									<div class="pull-left"><span class="option-label">SIZE:</span></div>
@@ -2347,24 +2789,24 @@
 		<script src="external/magnific-popup/jquery.magnific-popup.min.js"></script> 
 		<script src="external/nouislider/nouislider.min.js"></script>
 		<script src="external/isotope/isotope.pkgd.min.js"></script> 
-		<script src="external/imagesloaded/imagesloaded.pkgd.min.js"></script>
+		<script src="external/imgloaded/imgloaded.pkgd.min.js"></script>
 		<script src="external/colorbox/jquery.colorbox-min.js"></script> 
 		<!-- Custom --> 
 		<script src="js/custom.js"></script> 
 		<script>
 			$j(document).ready(function() {
-		
-				
+			
+							
 				listingModeToggle();
 			
 				// Init All Carousel			
 				productCarousel($j('#megaMenuCarousel1'),1,1,1,1,1);
 				verticalCarousel($j('.vertical-carousel-1'),2);
-				verticalCarousel($j('.vertical-carousel-2'),2,2,2,2,2);
+		
 			
 			})
 		</script>
 	</body>
 
-<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/listing-without-col-04.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 10:59:15 GMT -->
+<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/listing-without-col-without-static-block_small_07.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 10:59:15 GMT -->
 </html>

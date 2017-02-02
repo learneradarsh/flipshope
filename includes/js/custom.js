@@ -781,7 +781,7 @@
 	function elevateZoom() {
 
 		var windowW = window.innerWidth || document.documentElement.clientWidth;
-		$j('.product-zoom').imagesLoaded(function() {
+		$j('.product-zoom').imgLoaded(function() {
 		if ($j('.product-zoom').length) {
 
 			   var zoomPosition
@@ -1270,8 +1270,8 @@
 				// complete: function() {
 					// setTimeout(function() {
 					// $j('#modalLoader-wrapper').fadeOut();
-						// $j('.product-images-carousel ul').on('init', function(e) {
-								// $j('.product-images-carousel').addClass('loaded');
+						// $j('.product-img-carousel ul').on('init', function(e) {
+								// $j('.product-img-carousel').addClass('loaded');
 							// })
 					// }, 1000);
 				// },
@@ -1756,7 +1756,7 @@ jQuery(function($j) {
 				    	var gallery = $j('.gallery-isotope');
 					
 					
-						gallery.imagesLoaded(function() {
+						gallery.imgLoaded(function() {
 							if (gallery.length) {
 								gallery.isotope({
 									itemSelector: '.gallery__item',

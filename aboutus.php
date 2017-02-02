@@ -42,7 +42,7 @@
 		<!-- CONTENT section -->
 		<div id="pageContent">			
 			<!-- parallax-img -->
-			<section class="content--parallax content--parallax-sm offset-top-0" data-image="images/custom/parallax-img-05.jpg">
+			<section class="content--parallax content--parallax-sm offset-top-0" data-image="img/custom/parallax-img-05.jpg">
 				<div class="content  offset-top-0">
 					<div class="container">
 						<div class="parallax-text">
@@ -132,18 +132,18 @@
 							<div class="divider divider--lg"></div>
 							<div class="brand-lg-list">
 								<div class="row-item">
-									<a href="#"><img src="images/custom/brand-lg-01.png" class="img-responsive" alt=""></a>
-									<a href="#"><img src="images/custom/brand-lg-02.png" class="img-responsive" alt=""></a>
-									<a href="#"><img src="images/custom/brand-lg-03.png" class="img-responsive" alt=""></a>
-									<a href="#"><img src="images/custom/brand-lg-04.png" class="img-responsive" alt=""></a>
-									<a href="#"><img src="images/custom/brand-lg-05.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-01.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-02.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-03.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-04.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-05.png" class="img-responsive" alt=""></a>
 								</div>
 								<div class="row-item">
-									<a href="#"><img src="images/custom/brand-lg-06.png" class="img-responsive" alt=""></a>
-									<a href="#"><img src="images/custom/brand-lg-07.png" class="img-responsive" alt=""></a>
-									<a href="#"><img src="images/custom/brand-lg-08.png" class="img-responsive" alt=""></a>
-									<a href="#"><img src="images/custom/brand-lg-09.png" class="img-responsive" alt=""></a>
-									<a href="#"><img src="images/custom/brand-lg-10.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-06.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-07.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-08.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-09.png" class="img-responsive" alt=""></a>
+									<a href="#"><img src="img/custom/brand-lg-10.png" class="img-responsive" alt=""></a>
 								</div>							
 							</div>
 						</div>
@@ -162,7 +162,7 @@
 			</section>
 			<!-- / -->
 			<!-- parallax-img -->
-			<section class="content--parallax content--parallax-sm offset-top-0" data-image="images/custom/parallax-img-06.jpg">
+			<section class="content--parallax content--parallax-sm offset-top-0" data-image="img/custom/parallax-img-06.jpg">
 				<div class="content">
 					<div class="container">
 						<div class="parallax-text">
@@ -190,7 +190,7 @@
 					<!-- /title -->
 					<div class="row">
 						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/team-img-01.jpg" class="img-responsive" alt=""></a>							
+							<a class="link-img-hover1" href="#"><img src="img/custom/team-img-01.jpg" class="img-responsive" alt=""></a>							
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
@@ -201,7 +201,7 @@
 							<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/team-img-02.jpg" class="img-responsive" alt=""></a>
+							<a class="link-img-hover1" href="#"><img src="img/custom/team-img-02.jpg" class="img-responsive" alt=""></a>
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
@@ -213,7 +213,7 @@
 						</div>
 						<div class="divider divider--lg visible-sm visible-xs"></div>
 						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/team-img-03.jpg" class="img-responsive" alt=""></a>
+							<a class="link-img-hover1" href="#"><img src="img/custom/team-img-03.jpg" class="img-responsive" alt=""></a>
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
@@ -224,7 +224,7 @@
 							<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
 						</div>
 						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/team-img-04.jpg" class="img-responsive" alt=""></a>
+							<a class="link-img-hover1" href="#"><img src="img/custom/team-img-04.jpg" class="img-responsive" alt=""></a>
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
@@ -249,7 +249,7 @@
 								<div class="slider-blog__item">
 									<div class="row">
 										<div class="col-xs-12 col-sm-2 col-sm-offset-3 box-foto">
-											<img src="images/custom/slider-blog-img01.jpg" alt="">
+											<img src="img/custom/slider-blog-img01.jpg" alt="">
 										</div>
 										<div class="col-xs-12 col-sm-5 col-xl-4 box-data">
 											<h6>Eleanor  <em>&nbsp;-&nbsp;  designer</em></h6>
@@ -266,7 +266,7 @@
 								<div class="slider-blog__item">
 									<div class="row">
 										<div class="col-xs-12 col-sm-2 col-sm-offset-3 box-foto">
-											<img src="images/custom/slider-blog-img02.jpg" alt="">
+											<img src="img/custom/slider-blog-img02.jpg" alt="">
 										</div>
 										<div class="col-xs-12 col-sm-5 box-data">
 											<h6>Piper  <em>&nbsp;-&nbsp;  designer</em></h6>
@@ -283,7 +283,7 @@
 								<div class="slider-blog__item">
 									<div class="row">
 										<div class="col-xs-12 col-sm-2 col-sm-offset-3 box-foto">
-											<img src="images/custom/slider-blog-img03.jpg" alt="">
+											<img src="img/custom/slider-blog-img03.jpg" alt="">
 										</div>
 										<div class="col-xs-12 col-sm-5 box-data">
 											<h6>MARK   <em>&nbsp;-&nbsp;  designer</em></h6>

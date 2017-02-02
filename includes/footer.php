@@ -132,32 +132,32 @@
 				<div class="compared-product-row">
 					<div class="compared-product">
 						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
+						<div class="compared-product__image"><a href="#"><img src="img/product/product-1.jpg" alt=""/></a></div>
 						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
 					</div>
 					<div class="compared-product">
 						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
+						<div class="compared-product__image"><a href="#"><img src="img/product/product-1.jpg" alt=""/></a></div>
 						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
 					</div>
 					<div class="compared-product">
 						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
+						<div class="compared-product__image"><a href="#"><img src="img/product/product-1.jpg" alt=""/></a></div>
 						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
 					</div>
 					<div class="compared-product">
 						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
+						<div class="compared-product__image"><a href="#"><img src="img/product/product-1.jpg" alt=""/></a></div>
 						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
 					</div>
 					<div class="compared-product">
 						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
+						<div class="compared-product__image"><a href="#"><img src="img/product/product-1.jpg" alt=""/></a></div>
 						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
 					</div>
 					<div class="compared-product">
 						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
+						<div class="compared-product__image"><a href="#"><img src="img/product/product-1.jpg" alt=""/></a></div>
 						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
 					</div>
 				</div>
@@ -254,7 +254,7 @@
 						<div class="row product-info-outer">
 							<div class="col-xs-12 col-sm-5 col-md-6 col-lg-6">
 								<div class="product-main-image">
-									<div class="product-main-image__item"><img src='images/product/product-big-1.jpg' alt="" /></div>
+									<div class="product-main-image__item"><img src='img/product/product-big-1.jpg' alt="" /></div>
 								</div>
 							</div>
 							<div class="product-info col-xs-12 col-sm-7 col-md-6 col-lg-6">
@@ -268,7 +268,7 @@
 								<div class="price-box product-info__price"><span class="price-box__new">$65.00</span> <span class="price-box__old">$84.00</span></div>
 								<div class="divider divider--xs product-info__divider"></div>
 								<div class="product-info__description">
-									<div class="product-info__description__brand"><img src="images/custom/brand.png" alt=""> </div>
+									<div class="product-info__description__brand"><img src="img/custom/brand.png" alt=""> </div>
 									<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 								</div>
 								<div class="divider divider--xs product-info__divider"></div>
@@ -277,10 +277,10 @@
 									<div class="pull-right required">* Required Fields</div>
 								</div>
 								<ul class="options-swatch options-swatch--color options-swatch--lg">
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/oldlace.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/dark-grey.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/grey.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/light-grey.png" alt=""/></span></a></li>
+									<li><a href="#"><span class="swatch-label"><img src="img/colors/oldlace.png" alt=""/></span></a></li>
+									<li><a href="#"><span class="swatch-label"><img src="img/colors/dark-grey.png" alt=""/></span></a></li>
+									<li><a href="#"><span class="swatch-label"><img src="img/colors/grey.png" alt=""/></span></a></li>
+									<li><a href="#"><span class="swatch-label"><img src="img/colors/light-grey.png" alt=""/></span></a></li>
 								</ul>						
 								<div class="wrapper">
 									<div class="pull-left"><span class="option-label">SIZE:</span></div>
@@ -319,14 +319,14 @@
 		  <div class="modal-dialog white-modal">
 		    <div class="modal-content modal-md">
 		      <div class="modal-bg-image bottom-right"> 
-			      <img  src="images/custom/newsletter-bg.png" alt="" class="img-responsive"> 
+			      <img  src="img/custom/newsletter-bg.png" alt="" class="img-responsive"> 
 			  </div>
 		      <div class="modal-block">
 			      <div class="modal-header">
 			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button>
 			      </div>
 			      <div class="modal-newsletter text-center">
-			      	    <img class="logo replace-2x img-responsive1" src="images/logo.png" alt=""/>
+			      	    <img class="logo replace-2x img-responsive1" src="img/logo.png" alt=""/>
 			            <h2 class="text-uppercase modal-title">JOIN US NOW!</h2>
 			            <p class="color-dark">And get hot news about the theme</p>
 			            <p class="color font24 custom-font font-lighter">
@@ -367,7 +367,7 @@
 		<script src="includes/external/instafeed/instafeed.min.js"></script>  		
 		<script src="includes/external/magnific-popup/jquery.magnific-popup.min.js"></script>  		
 		<script src="includes/external/isotope/isotope.pkgd.min.js"></script> 
-		<script src="includes/external/imagesloaded/imagesloaded.pkgd.min.js"></script>
+		<script src="includes/external/imgloaded/imgloaded.pkgd.min.js"></script>
 		<script src="includes/external/colorbox/jquery.colorbox-min.js"></script> 
 		<!-- SLIDER REVOLUTION 4.x SCRIPTS  --> 
 		<script type="text/javascript" src="includes/external/rs-plugin/js/jquery.themepunch.tools.min.js"></script> 

@@ -50,7 +50,7 @@
 				<div class="row">
 					<div class="col-sm-12 text-center">
 						<!-- logo start --> 
-						<a href="index.php"><img class="logo replace-2x img-responsive1" src="images/logo.png" alt=""/></a> 
+						<a href="index.php"><img class="logo replace-2x img-responsive1" src="img/logo.png" alt=""/></a> 
 						<!-- logo end --> 
 					</div>					
 				</div>
@@ -59,7 +59,7 @@
 		<!-- End HEADER section -->		
 		<!-- CONTENT section -->
 		<div id="pageContent">
-			<section class="container-fluid under-construction image-bg" data-image="images/custom/under-construction-img.jpg">
+			<section class="container-fluid under-construction image-bg" data-image="img/custom/under-construction-img.jpg">
 				<div class="text-center color-white">
 				    <div class="divider divider--xl-1"></div>
 					<h1 class="font50 color-white title-bottom-md">WE'RE COMING SOON</h1>
@@ -128,7 +128,7 @@
 		<script src="external/magnific-popup/jquery.magnific-popup.min.js"></script> 
 		<script src="external/nouislider/nouislider.min.js"></script>
 		<script src="external/isotope/isotope.pkgd.min.js"></script> 
-		<script src="external/imagesloaded/imagesloaded.pkgd.min.js"></script>
+		<script src="external/imgloaded/imgloaded.pkgd.min.js"></script>
 		<script src="external/colorbox/jquery.colorbox-min.js"></script>
 		<!-- Custom --> 
 		<script src="js/custom.js"></script> 
