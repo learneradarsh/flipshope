@@ -30,8 +30,8 @@
 	    
 	<?php include_once 'includes/header.php'; ?>
 	<div class="container" align="center">
-
-	<form>
+	<form method="post" action="">
+	<h3>Forgot Password</h3>
 		<div class="form-group panel">
 			<input type="email" class="form-control" placeholder="Email" />
 		</div>

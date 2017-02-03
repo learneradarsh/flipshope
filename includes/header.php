@@ -22,6 +22,7 @@
 								</span>
 							</li>
 							<li class="col-one-fourth">
+								
 								<span class="image-link">
 								<a href="index-02.php">
 								<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-2.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>

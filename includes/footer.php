@@ -13,7 +13,7 @@
 							<div class="mobile-collapse">
 								<h4 class="mobile-collapse__title visible-xs">ABOUT US</h4>
 								<div class="mobile-collapse__content">
-									<p> Flipshope.com is India's leading search and comparison website that helps users find what they need at lowest prices,Started with an idea of serving the online marketing community at large, from a hostel room of IIT Kharagpur, the extension today has spread its roots throughout the nation. At Flipshope, we empowers the users with maximum information about the products to provide a convenient experience. It has detailed product specifications, features, reviews & ratings,Price Graph to enable online shoppers take informed buying decisions.</p>
+									<p> Flipshope.com is India's leading search and comparison website that helps users find what they need at lowest prices,Started with an idea of serving the online marketing community at large, from a hostel room of IIT Kharagpur, the extension today has spread its roots throughout the nation. At Flipshope, we empowers the users with maximum information about the products to provide a convenient experience. It has detailed product specifications, features, reviews &amp; ratings,Price Graph to enable online shoppers take informed buying decisions.</p>
 									<!-- address -->
 									<address class="box-address">
 										<span class="icon icon-home"></span> Samuruddi 108, 2-a main road,Adugodi,Bengaluru<br>
@@ -58,41 +58,33 @@
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
 											<li><a href="about.php">About Us</a></li>
-											<li><a href="support-24.php">Customer Service</a></li>
 											<li><a href="faq.php">Privacy Policy</a></li>
 											<li><a href="site-map.php">Site Map</a></li>
-											<li><a href="typography.php">Search Terms</a></li>
-											<li><a href="warranty.php">Advanced Search</a></li>
-											<li><a href="delivery-page.php">Orders and Returns</a></li>
 											<li><a href="contact.php">Contact Us</a></li>
+											<li><a href="#">Careers</a></li>
 										</ul>
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-4">
 								<div class="mobile-collapse">
-									<h4 class="text-left  title-under  mobile-collapse__title">WHY BUY FROM US</h4>
+									<h4 class="text-left  title-under  mobile-collapse__title">Important Links</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="warranty.php">Shipping &amp; Returns</a></li>
-											<li><a href="typography.php">Secure Shopping</a></li>
-											<li><a href="about.php">International Shipping</a></li>
-											<li><a href="delivery-page.php">Affiliates</a></li>
-											<li><a href="support-24.php">Group Sales</a></li>
+											<li><a href="http://couponzilla.com" target="_blank">Couponzilla</a></li>
+											<li><a href="http://flashsaletricks.in" target="_blank">Flashsaletricks</a></li>
+											<li><a href="http://flipshope.com/blog" target="_blank">Blog</a></li>
 										</ul>
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-4">
 								<div class="mobile-collapse">
-									<h4 class="text-left  title-under  mobile-collapse__title">MY ACCOUNT</h4>
+									<h4 class="text-left  title-under  mobile-collapse__title">Latest Blogs</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="login_form.php">Sign In</a></li>
-											<li><a href="shopping_cart.php">View Cart</a></li>
-											<li><a href="wishlist.php">My Wishlist</a></li>
-											<li><a href="support-24.php">Track My Order</a></li>
-											<li><a href="faq.php">Help</a></li>
+											<li><a href="#"><img src="" class="img-responsive" width="" height=""/></a></li>
+											<li><a href="#"><img src="" class="img-responsive" width="" height=""/></a></li>
 										</ul>
 									</div>
 								</div>
@@ -107,7 +99,7 @@
 			<!-- footer-copyright -->
 			<div class="container footer-copyright">
 				<div class="row">
-					<div class="col-lg-12"> <a href="index.php"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
+					<div class="col-lg-12"> <a href="index.php"><span>Flipshope.com</span></a> &copy; <?php echo date('Y'); ?> . All Rights Reserved. </div>
 				</div>
 			</div>
 			<!-- /footer-copyright --> 
@@ -326,26 +318,49 @@
 			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button>
 			      </div>
 			      <div class="modal-newsletter text-center">
-			      	    <img class="logo replace-2x img-responsive1" src="img/logo.png" alt=""/>
-			            <h2 class="text-uppercase modal-title">JOIN US NOW!</h2>
-			            <p class="color-dark">And get hot news about the theme</p>
-			            <p class="color font24 custom-font font-lighter">
-			            	Flipshope 
-			            </p>
-			            <form  method="post" name="mc-embedded-subscribe-form" target="_blank" class="subscribe-form">
-			           		<div class="row-subscibe">			           				            		 
-								<input  type="text" name="subscribe"   placeholder="Your E-mail">
-								<button type="submit" class="btn btn--ys btn--xl">SUBSCRIBE</button>
-			           		</div>
-							<div class="checkbox-group form-group-top clearfix">
-			                  <input type="checkbox" id="checkBox1">
-			                  <label for="checkBox1"> 
-			                  	<span class="check"></span>
-			                  	<span class="box"></span>
-			                  	&nbsp;&nbsp;DON&#39;T SHOW THIS POPUP AGAIN
-			                  </label>
-			                </div>			               			                
-			                
+			      	    <img class="logo replace-2x img-responsive1" src="img/logo.png" alt="Logo"/>
+			            	<!-- slider part start -->
+			            		<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="img_chania.jpg" alt="Chania">
+    </div>
+
+    <div class="item">
+      <img src="img_chania2.jpg" alt="Chania">
+    </div>
+
+    <div class="item">
+      <img src="img_flower.jpg" alt="Flower">
+    </div>
+
+    <div class="item">
+      <img src="img_flower2.jpg" alt="Flower">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+			            	<!-- slider part end -->
+			            	<br/>
+			            	<div><a href="" class="btn btn-success">Add to Chrome</a></div>   
 			            </form>
 			      </div>
 		      </div>
