@@ -25,7 +25,7 @@
 		<!-- Head Libs -->	
 		<!-- Modernizr -->
 		<script src="external/modernizr/modernizr.js"></script>
-	</head>
+</head>
 	<body>
 		<?php include_once 'includes/header.php' ?>	
 		<!-- CONTENT section -->
