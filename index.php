@@ -35,22 +35,22 @@
 				<div class="row">
 					<!--====================================== left column ======================================-->
 					<aside class="col-xs-12 col-sm-12 col-md-4 col-lg-3 col-xl-2 ">				
-						<?php include_once 'mega_backup/includes/sidebar.php'; ?>
+						<?php include_once 'includes/sidebar.php'; ?>
 						<!--======= banner-asid =======-->						
 						<div class="bannerAsid nav-dot hidden-sm  hidden-xs">
 							<!-- slide-->
 							<div class="text-center">
-								<a href="listing.html"><img class="img-responsive-inline" src="images/custom/banner-aside-01.jpg" alt=""></a>									
+								<a href="listing.php"><img class="img-responsive-inline" src="images/custom/banner-aside-01.jpg" alt=""></a>									
 							</div>
 							<!-- /slide-->
 							<!-- slide-->
 							<div class="text-center">
-								<a href="listing.html"><img class="img-responsive-inline" src="images/custom/banner-aside-02.jpg" alt=""></a>
+								<a href="listing.php"><img class="img-responsive-inline" src="images/custom/banner-aside-02.jpg" alt=""></a>
 							</div>
 							<!-- /slide-->
 							<!-- slide-->
 							<div class="text-center">
-								<a href="listing.html"><img class="img-responsive-inline" src="images/custom/banner-aside-03.jpg" alt=""></a>
+								<a href="listing.php"><img class="img-responsive-inline" src="images/custom/banner-aside-03.jpg" alt=""></a>
 							</div>
 							<!-- /slide-->
 						</div>						
@@ -68,7 +68,7 @@
 							<h4 class="text-center text-uppercase color-white mega">testimonials</h4>							
 							<div class="testimonialsAsid nav-dot nav-dot-invert">
 								<!-- slide-->
-								<a href="blog-post-right-column.html" class="link-hover-block">
+								<a href="blog-post-right-column.php" class="link-hover-block">
 									<div class="text-center">
 										<img class="img-responsive-inline" src="images/custom/slider-blog-img01.jpg" alt="">
 										<p>
@@ -82,7 +82,7 @@
 								</a>
 								<!-- /slide-->
 								<!-- slide-->
-								<a href="blog-post-right-column.html" class="link-hover-block">
+								<a href="blog-post-right-column.php" class="link-hover-block">
 									<div class="text-center">
 										<img class="img-responsive-inline" src="images/custom/slider-blog-img02.jpg" alt="">
 										<p>
@@ -96,7 +96,7 @@
 								</a>
 								<!-- /slide-->
 								<!-- slide-->
-								<a href="blog-post-right-column.html" class="link-hover-block">
+								<a href="blog-post-right-column.php" class="link-hover-block">
 									<div class="text-center">
 										<img class="img-responsive-inline" src="images/custom/slider-blog-img03.jpg" alt="">
 										<p>
@@ -123,7 +123,7 @@
 								<!--  -->
 								<div class="recent-post-box">
 									<div class="col-lg-12 col-xl-12">
-										<a href="blog-post-right-column.html">
+										<a href="blog-post-right-column.php">
 										<span class="figure">
 										<img src="images/custom/recent-posts-01.jpg" alt="">
 										<span class="figcaption label-top-left">
@@ -137,12 +137,12 @@
 									</div>
 									<div class="col-lg-12 col-xl-12">
 										<div class="recent-post-box__text">
-											<h4><a href="blog-post-right-column.html">Mauris lacinia lectus</a></h4>
+											<h4><a href="blog-post-right-column.php">Mauris lacinia lectus</a></h4>
 											<div class="author">by <b>Admin</b></div>
 											<p>
 												Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet.
 											</p>
-											<a class="link-commet" href="blog-post-right-column.html"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
+											<a class="link-commet" href="blog-post-right-column.php"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
 										</div>
 									</div>
 								</div>
@@ -154,7 +154,7 @@
 								<!--  -->
 								<div class="recent-post-box">
 									<div class="col-lg-12 col-xl-12">
-										<a href="blog-post-right-column.html">
+										<a href="blog-post-right-column.php">
 										<span class="figure">
 										<img src="images/custom/recent-posts-02.jpg" alt="">
 										<span class="figcaption label-top-left">
@@ -168,12 +168,12 @@
 									</div>
 									<div class="col-lg-12 col-xl-12">
 										<div class="recent-post-box__text">
-											<h4><a href="blog-post-right-column.html">Lorem ipsum dolor</a> </h4>
+											<h4><a href="blog-post-right-column.php">Lorem ipsum dolor</a> </h4>
 											<div class="author">by <b>Admin</b></div>
 											<p>
 												Dolor sit amet, consectetuer adipiscing elit. Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet.
 											</p>
-											<a class="link-commet" href="blog-post-right-column.html"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
+											<a class="link-commet" href="blog-post-right-column.php"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
 										</div>
 									</div>
 								</div>
@@ -185,7 +185,7 @@
 								<!--  -->
 								<div class="recent-post-box">
 									<div class="col-lg-12 col-xl-12">
-										<a href="blog-post-right-column.html">
+										<a href="blog-post-right-column.php">
 										<span class="figure">
 										<img src="images/custom/recent-posts-03.jpg" alt="">
 										<span class="figcaption label-top-left">
@@ -199,12 +199,12 @@
 									</div>
 									<div class="col-lg-12 col-xl-12">
 										<div class="recent-post-box__text">
-											<h4><a href="blog-post-right-column.html">dolore magna aliqua</a></h4>
+											<h4><a href="blog-post-right-column.php">dolore magna aliqua</a></h4>
 											<div class="author">by <b>Admin</b></div>
 											<p>
 												Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet.
 											</p>
-											<a class="link-commet" href="blog-post-right-column.html"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
+											<a class="link-commet" href="blog-post-right-column.php"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
 										</div>
 									</div>
 								</div>
@@ -216,7 +216,7 @@
 								<!--  -->
 								<div class="recent-post-box">
 									<div class="col-lg-12 col-xl-12">
-										<a href="blog-post-right-column.html">
+										<a href="blog-post-right-column.php">
 										<span class="figure">
 										<img src="images/custom/recent-posts-01.jpg" alt="">
 										<span class="figcaption label-top-left">
@@ -230,12 +230,12 @@
 									</div>
 									<div class="col-lg-12 col-xl-12">
 										<div class="recent-post-box__text">
-											<h4><a href="blog-post-right-column.html">Mauris lacinia lectus</a></h4>
+											<h4><a href="blog-post-right-column.php">Mauris lacinia lectus</a></h4>
 											<div class="author">by <b>Admin</b></div>
 											<p>
 												Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet.
 											</p>
-											<a class="link-commet" href="blog-post-right-column.html"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
+											<a class="link-commet" href="blog-post-right-column.php"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
 										</div>
 									</div>
 								</div>
@@ -247,7 +247,7 @@
 								<!--  -->
 								<div class="recent-post-box">
 									<div class="col-lg-12 col-xl-12">
-										<a href="blog-post-right-column.html">
+										<a href="blog-post-right-column.php">
 										<span class="figure">
 										<img src="images/custom/recent-posts-02.jpg" alt="">
 										<span class="figcaption label-top-left">
@@ -261,12 +261,12 @@
 									</div>
 									<div class="col-lg-12 col-xl-12">
 										<div class="recent-post-box__text">
-											<h4><a href="blog-post-right-column.html">Lorem ipsum dolor</a> </h4>
+											<h4><a href="blog-post-right-column.php">Lorem ipsum dolor</a> </h4>
 											<div class="author">by <b>Admin</b></div>
 											<p>
 												Dolor sit amet, consectetuer adipiscing elit. Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet.
 											</p>
-											<a class="link-commet" href="blog-post-right-column.html"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
+											<a class="link-commet" href="blog-post-right-column.php"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
 										</div>
 									</div>
 								</div>
@@ -278,7 +278,7 @@
 								<!--  -->
 								<div class="recent-post-box">
 									<div class="col-lg-12 col-xl-12">
-										<a href="blog-post-right-column.html">
+										<a href="blog-post-right-column.php">
 										<span class="figure">
 										<img src="images/custom/recent-posts-03.jpg" alt="">
 										<span class="figcaption label-top-left">
@@ -291,12 +291,12 @@
 										</a>
 									</div>
 									<div class="col-lg-12 col-xl-12">
-										<h4><a href="blog-post-right-column.html">dolore magna aliqua</a></h4>
+										<h4><a href="blog-post-right-column.php">dolore magna aliqua</a></h4>
 										<div class="author">by <b>Admin</b></div>
 										<p>
 											Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet.
 										</p>
-										<a class="link-commet" href="blog-post-right-column.html"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
+										<a class="link-commet" href="blog-post-right-column.php"><span class="icon icon-message "></span><span class="number">0</span> comment(s)</a>
 									</div>
 								</div>
 								<!-- / -->
@@ -317,90 +317,46 @@
 						<div class="divider divider--lg visible-sm visible-xs"></div>
 						<!-- Slider section --> 						
 						<section class="offset-top-0" id="slider">
-							<!--
-								#################################
-								- THEMEPUNCH BANNER -
-								#################################
-								--> 
-							<!-- START REVOLUTION SLIDER 3.1 rev5 fullwidth mode -->
-							<h2 class="hidden">Slider Section</h2>
-							<div class="tp-banner-container slider-layout-2">
-								<div class="tp-banner">
-									<ul>
-										<!-- SLIDE -1 -->
-										<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
-											<!-- MAIN IMAGE --> 
-											<img src="images/slides/02/slide-1.jpg"  alt="slide1"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" > 
-											<!-- LAYERS --> 
-											<!-- TEXT -->
-											<div class="tp-caption lfl stb" 
-												data-x="205"              
-												data-y="center"    
-												data-voffset="60" 
-												data-speed="600" 
-												data-start="900" 
-												data-easing="Power4.easeOut" 
-												data-endeasing="Power4.easeIn" 
-												style="z-index: 2;">
-												<div class="tp-caption1--wd-1">Spring -Summer 2016</div>
-												<div class="tp-caption1--wd-2">Save 20% on</div>
-												<div class="tp-caption1--wd-3">new arrivals </div>
-												<a href="listing.html" class="link-button button--border-thick" data-text="Shop now!">Shop now!</a>
-											</div>
-										</li>
-										<!-- /SLIDE -1 -->
-										<!-- SLIDE 2  -->            
-										<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
-											<!-- MAIN IMAGE --> 
-											<img src="images/slides/02/slide-2.jpg"  alt="slide2"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
-											<!-- LAYERS -->
-											<!-- TEXT -->
-											<div class="tp-caption lfr stb" 
-												data-x="right"              
-												data-y="center"    
-												data-voffset="-5"
-												data-hoffset="-205" 
-												data-speed="600" 
-												data-start="900" 
-												data-easing="Power4.easeOut" 
-												data-endeasing="Power4.easeIn" 
-												style="z-index: 2;">
-												<div class="tp-caption2--wd-1">A great selection of superb brands </div>
-												<div class="tp-caption2--wd-2">50% off</div>
-												<div class="tp-caption2--wd-3">on all clothes</div>
-												<a href="listing.html" class="link-button button--border-thick pull-right" data-text="Shop now!">Shop now!</a>
-											</div>							
-										</li>
-										<!-- /SLIDE 2  -->
-										<!-- SLIDE 3  -->
-										<li data-transition="fade" data-slotamount="1" data-masterspeed="1000" data-saveperformance="off"  data-title="Slide">
-											<!-- MAIN IMAGE --> 
-											<img src="images/slides/02/slide-3.jpg"  alt="slide3"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
-											<!-- LAYERS --> 
-											<!-- TEXT -->
-											<div class="tp-caption lfb stb" 
-												data-x="center"              
-												data-y="center"    
-												data-voffset="0"
-												data-hoffset="0" 
-												data-speed="600" 
-												data-start="900" 
-												data-easing="Power4.easeOut" 
-												data-endeasing="Power4.easeIn" 
-												style="z-index: 2;">
-												<div class="tp-caption3--wd-1">Spring -Summer 2016</div>
-												<div class="tp-caption3--wd-2">Season sale!</div>
-												<div class="tp-caption3--wd-3">Get huge</div>
-												<div class="tp-caption3--wd-3">savings!</div>
-												<div class="text-center"><a href="listing.html" class="link-button button--border-thick" data-text="Shop now!">Shop now!</a></div>
-											</div>	
-										</li>
-										<!-- /SLIDE 3  -->		  
-									</ul>
-								</div>
-							</div>
-						</section>
-						<!-- END REVOLUTION SLIDER --> 
+							<!-- carasoul start -->
+								<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="img_chania.jpg" alt="Chania">
+    </div>
+
+    <div class="item">
+      <img src="img_chania2.jpg" alt="Chania">
+    </div>
+
+    <div class="item">
+      <img src="img_flower.jpg" alt="Flower">
+    </div>
+
+    <div class="item">
+      <img src="img_flower2.jpg" alt="Flower">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+							<!-- carasoul end -->
 						<!-- Best Deals & offers start -->
 						<div class="content-sm">
 							<!-- title -->
@@ -513,7 +469,48 @@
 			</div>
 		</div>
 		<!-- End CONTENT section --> 
-		<?php include_once 'mega_backup/includes/footer.php'; ?>
+		<!-- / Modal (quickViewModal) -->
+		<!-- Modal (newsletter) -->		
+		<div class="modal  modal--bg fade"  id="newsletterModal" data-pause=2000>
+		  <div class="modal-dialog white-modal">
+		    <div class="modal-content modal-md">
+		      <div class="modal-bg-image bottom-right"> 
+			      <img  src="images/custom/newsletter-bg.png" alt="" class="img-responsive"> 
+			  </div>
+		      <div class="modal-block">
+			      <div class="modal-header">
+			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button>
+			      </div>
+			      <div class="modal-newsletter text-center">
+			      	    <img class="logo replace-2x img-responsive1" src="images/logo.png" alt=""/>
+			            <h2 class="text-uppercase modal-title">JOIN US NOW!</h2>
+			            <p class="color-dark">And get hot news about the theme</p>
+			            <p class="color font24 custom-font font-lighter">
+			            	YOURStore 
+			            </p>
+			            <form  method="post" name="mc-embedded-subscribe-form" target="_blank" class="subscribe-form">
+			           		<div class="row-subscibe">			           				            		 
+								<input  type="text" name="subscribe"   placeholder="Your E-mail">
+								<button type="submit" class="btn btn--ys btn--xl">SUBSCRIBE</button>
+			           		</div>
+							<div class="checkbox-group form-group-top clearfix">
+			                  <input type="checkbox" id="checkBox1">
+			                  <label for="checkBox1"> 
+			                  	<span class="check"></span>
+			                  	<span class="box"></span>
+			                  	&nbsp;&nbsp;DON&#39;T SHOW THIS POPUP AGAIN
+			                  </label>
+			                </div>			               			                
+			                
+			            </form>
+			      </div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+		<!-- / Modal (newsletter) -->
+		<!--================== /modal ==================-->
+		<?php include_once 'includes/footer.php'; ?>
 	</body>
 </html>
 	

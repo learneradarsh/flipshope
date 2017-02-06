@@ -8628,7 +8628,7 @@ header .search-dropdown {
 }
 /* toggle-menu
 ==================================== */
-/* =====================index-02.html===================== */
+/* =====================index-02.php===================== */
 @media (max-width: 1024px) {
   .mobile-menu-on {
     display: block !important;
@@ -8895,8 +8895,8 @@ header .search-dropdown {
     display: none;
   }
 }
-/* =====================/index-02.html===================== */
-/* =====================index-03.html===================== */
+/* =====================/index-02.php===================== */
+/* =====================index-03.php===================== */
 /* header-layout-03 */
 .pad-right-none {
   padding-right: none;
@@ -9173,8 +9173,8 @@ header .search-dropdown {
   }
 }
 /* /header-layout-03 */
-/* =====================/index-03.html===================== */
-/* =====================index-04.html(layout-04)===================== */
+/* =====================/index-03.php===================== */
+/* =====================index-04.php(layout-04)===================== */
 #header.header-layout-04 {
   position: absolute;
   top: 0;
@@ -9263,8 +9263,8 @@ header .search-dropdown {
     margin-top: 110px;
   }
 }
-/* =====================index-04.html(layout-04)===================== */
-/* =====================index-05.html(layout-05)===================== */
+/* =====================index-04.php(layout-04)===================== */
+/* =====================index-05.php(layout-05)===================== */
 #header.header-layout-05 {
   padding-top: 15px;
 }
@@ -9317,8 +9317,8 @@ header .search-dropdown {
     margin: 26px 10px 7px 10px;
   }
 }
-/* =====================index-05.html(layout-05)===================== */
-/* =====================index-06.html(layout-06)===================== */
+/* =====================index-05.php(layout-05)===================== */
+/* =====================index-06.php(layout-06)===================== */
 .toggle-menu {
   font-size: 29px;
   line-height: 1.2em;
@@ -9420,8 +9420,8 @@ header .search-dropdown {
     padding-right: 0;
   }
 }
-/* =====================index-06.html(layout-06)===================== */
-/* =====================index-07.html(layout-07)===================== */
+/* =====================index-06.php(layout-06)===================== */
+/* =====================index-07.php(layout-07)===================== */
 #header.header-layout-07 {
   /* menu */
 }
@@ -9521,8 +9521,8 @@ header .search-dropdown {
     position: relative;
   }
 }
-/* =====================index-07.html(layout-07)===================== */
-/* =====================index-08.html(layout-08)===================== */
+/* =====================index-07.php(layout-07)===================== */
+/* =====================index-08.php(layout-08)===================== */
 @media (min-width: 1025px) {
   #header.header-layout-08 {
     padding-top: 18px;
@@ -9555,8 +9555,8 @@ header .search-dropdown {
     padding-left: 20px;
   }
 }
-/* =====================index-08.html(layout-08)===================== */
-/* =====================index-09.html(layout-09)===================== */
+/* =====================index-08.php(layout-08)===================== */
+/* =====================index-09.php(layout-09)===================== */
 @media (min-width: 1025px) {
   #header.header-layout-09 {
     padding-bottom: 7px;
@@ -9638,8 +9638,8 @@ header .search-dropdown {
     float: inherit !important;
   }
 }
-/* =====================index-09.html(layout-09)===================== */
-/* =====================under-construction.html(layout-10)===================== */
+/* =====================index-09.php(layout-09)===================== */
+/* =====================under-construction.php(layout-10)===================== */
 #header.header-layout-10 {
   padding: 23px 0 40px;
 }
@@ -9656,7 +9656,7 @@ header .search-dropdown {
     margin: 5px 10px 15px 10px;
   }
 }
-/* =====================under-construction.html(layout-10)===================== */
+/* =====================under-construction.php(layout-10)===================== */
 /****************************************
 * end header
 *****************************************/
@@ -10020,14 +10020,14 @@ footer .box-address .icon {
     color: #f96332;
   }
 }
-/* =====================index-02.html===================== */
+/* =====================index-02.php===================== */
 @media (max-width: 768px) {
   footer.layout-0 .container:first-child {
     padding-bottom: 12px;
   }
 }
-/* =====================index-02.html===================== */
-/* =====================index-03.html===================== */
+/* =====================index-02.php===================== */
+/* =====================index-03.php===================== */
 footer.layout-1 address a {
   text-decoration: underline;
 }
@@ -10067,8 +10067,8 @@ footer.layout-1 .subscribe-box {
     margin-bottom: 0;
   }
 }
-/* =====================/index-03.html===================== */
-/* =====================index-04.html===================== */
+/* =====================/index-03.php===================== */
+/* =====================index-04.php===================== */
 footer.layout-2 {
   position: absolute;
   bottom: 0;
@@ -10091,8 +10091,8 @@ footer.layout-2 .footer-copyright .row {
 footer.layout-2 .footer-copyright a span {
   color: #fff;
 }
-/* =====================index-04.html===================== */
-/* =====================index-05.html===================== */
+/* =====================index-04.php===================== */
+/* =====================index-05.php===================== */
 footer.layout-3 {
   margin-bottom: 1px;
 }
@@ -10180,8 +10180,8 @@ footer.layout-3 .social-links {
   }
 }
 /* /subscribe-box-row */
-/* =====================index-05.html===================== */
-/* =====================index-06.html===================== */
+/* =====================index-05.php===================== */
+/* =====================index-06.php===================== */
 footer.layout-4 {
   /* subscribe-box-row */
   /* /subscribe-box-row */
@@ -10250,8 +10250,8 @@ footer.layout-4 .subscribe-box {
     padding-bottom: 60px !important;
   }
 }
-/* =====================index-06.html===================== */
-/* =====================index-08.html===================== */
+/* =====================index-06.php===================== */
+/* =====================index-08.php===================== */
 footer.layout-5 {
   margin: 50px 0 0 0;
   /* subscribe-box-row */
@@ -10353,8 +10353,8 @@ footer.layout-5 .footer-copyright .row {
   }
 }
 /* /subscribe-box-row */
-/* =====================index-08.html===================== */
-/* =====================index-09.html===================== */
+/* =====================index-08.php===================== */
+/* =====================index-09.php===================== */
 footer.layout-6 {
   margin-bottom: 0;
 }
@@ -10374,8 +10374,8 @@ footer.layout-6 .social-links li a:hover {
   color: #c4c4c4;
 }
 /* /subscribe-box-row */
-/* =====================index-09.html===================== */
-/* =====================under-construction.html===================== */
+/* =====================index-09.php===================== */
+/* =====================under-construction.php===================== */
 footer.layout-7 {
   padding: 0px !important;
   margin: 0 !important;
@@ -10396,7 +10396,7 @@ footer.layout-7 .footer-copyright .row {
   }
 }
 /* /subscribe-box-row */
-/* =====================/under-construction.html===================== */
+/* =====================/under-construction.php===================== */
 /****************************************
 * end Footer section
 *****************************************/
@@ -11898,7 +11898,7 @@ table .input-counter .plus-btn:before {
 }
 /* /countdown product(/product-small)
 ==================================== */
-/* slider-product(product-fields.html)
+/* slider-product(product-fields.php)
 ==================================== */
 .slider-product-large {
   padding: 0;
@@ -11927,7 +11927,7 @@ table .input-counter .plus-btn:before {
   width: 100%;
   height: auto;
 }
-/* end slider-product(product-fields.html)
+/* end slider-product(product-fields.php)
 ==================================== */
 /****************************************
 * end product
@@ -12723,7 +12723,7 @@ table .input-counter .plus-btn:before {
   }
 }
 .slider-fluid-bg1 {
-  background: url(../images/slider-fluid-bg1.html) center center fixed no-repeat #fafafa;
+  background: url(../images/slider-fluid-bg1.php) center center fixed no-repeat #fafafa;
   z-index: 1;
   position: relative;
   padding-bottom: 3.9em;
@@ -20658,11 +20658,11 @@ li.open .expander-list ul {
 *****************************************/
 /****************************************
 * gallery(
-	gallery-layout-1.html
-	gallery-layout-2.html
-	gallery-layout-3.html
-	gallery-layout-4.html
-	gallery-layout-5.html
+	gallery-layout-1.php
+	gallery-layout-2.php
+	gallery-layout-3.php
+	gallery-layout-4.php
+	gallery-layout-5.php
 )
 *****************************************/
 /* ---- isotope ---- */
@@ -21142,7 +21142,7 @@ li.open .expander-list ul {
 *****************************************/
 /****************************************
 * gallery(
-	blog-variants.html
+	blog-variants.php
 )
 *****************************************/
 .gallery-isotope .gallery__item {

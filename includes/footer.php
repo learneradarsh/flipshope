@@ -6,7 +6,7 @@
 					<div class="col-sm-12 col-md-5 col-lg-6 border-sep-right">
 						<div class="footer-logo hidden-xs">
 							<!--  Logo  --> 
-							<a class="logo" href="index.html"> <img class="replace-2x" src="images/logo.png" alt="YOURStore"> </a> 
+							<a class="logo" href="index.php"> <img class="replace-2x" src="images/logo.png" alt="YOURStore"> </a> 
 							<!-- /Logo --> 
 						</div>
 						<div class="box-about">
@@ -25,11 +25,11 @@
 									<!-- social-icon -->
 									<div class="social-links social-links--large social-links-layout-02">
 										<ul>
-											<li><a class="icon fa fa-facebook" href="http://www.facebook.com/"></a></li>
-											<li><a class="icon fa fa-twitter" href="http://www.twitter.com/"></a></li>
-											<li><a class="icon fa fa-google-plus" href="http://www.google.com/"></a></li>
+											<li><a class="icon fa fa-facebook" href="http://www.facebook.com/flipshope"></a></li>
+											<li><a class="icon fa fa-twitter" href="http://www.twitter.com/Flipshope"></a></li>
+											<li><a class="icon fa fa-google-plus" href="https://plus.google.com/u/0/104128889070116451983"></a></li>
 											<li><a class="icon fa fa-instagram" href="https://instagram.com/"></a></li>
-											<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/"></a></li>
+											<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/channel/UCLxG6EGklFZbhBP-6rdYSLA"></a></li>
 										</ul>
 									</div>
 									<!-- /social-icon --> 
@@ -57,42 +57,32 @@
 									<h4 class="text-left  title-under  mobile-collapse__title">INFORMATION</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="about.html">About Us</a></li>
-											<li><a href="support-24.html">Customer Service</a></li>
-											<li><a href="faq.html">Privacy Policy</a></li>
-											<li><a href="site-map.html">Site Map</a></li>
-											<li><a href="typography.html">Search Terms</a></li>
-											<li><a href="warranty.html">Advanced Search</a></li>
-											<li><a href="delivery-page.html">Orders and Returns</a></li>
-											<li><a href="contact.html">Contact Us</a></li>
+											<li><a href="about.php">About Us</a></li>
+											<li><a href="faq.php">Privacy Policy</a></li>
+											<li><a href="site-map.php">Site Map</a></li>
+											<li><a href="contact.php">Contact Us</a></li>
 										</ul>
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-4">
 								<div class="mobile-collapse">
-									<h4 class="text-left  title-under  mobile-collapse__title">WHY BUY FROM US</h4>
+									<h4 class="text-left  title-under  mobile-collapse__title">Important Links</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="warranty.html">Shipping &amp; Returns</a></li>
-											<li><a href="typography.html">Secure Shopping</a></li>
-											<li><a href="about.html">International Shipping</a></li>
-											<li><a href="delivery-page.html">Affiliates</a></li>
-											<li><a href="support-24.html">Group Sales</a></li>
+											<li><a href="http://couponzilla.com">CouponZilla</a></li>
+											<li><a href="http://Flashsaletricks">Flashsaletricks</a></li>
 										</ul>
 									</div>
 								</div>
 							</div>
 							<div class="col-sm-4">
 								<div class="mobile-collapse">
-									<h4 class="text-left  title-under  mobile-collapse__title">MY ACCOUNT</h4>
+									<h4 class="text-left  title-under  mobile-collapse__title">Extesnions</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="login_form.html">Sign In</a></li>
-											<li><a href="shopping_cart.html">View Cart</a></li>
-											<li><a href="wishlist.html">My Wishlist</a></li>
-											<li><a href="support-24.html">Track My Order</a></li>
-											<li><a href="faq.html">Help</a></li>
+											<li><a href="#">Download Extension</a></li>
+											<li><a href="#">About Extension</a></li>
 										</ul>
 									</div>
 								</div>
@@ -107,7 +97,7 @@
 			<!-- footer-copyright -->
 			<div class="container footer-copyright">
 				<div class="row">
-					<div class="col-lg-12"> <a href="index.html"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
+					<div class="col-lg-12"> <a href="index.php"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
 				</div>
 			</div>
 			<!-- /footer-copyright --> 
@@ -184,7 +174,7 @@
 		        </div>
 		      </div>
 		      <div class="modal-footer text-center">		       	
-		        <a href="shopping-cart-right-column.html" class="btn btn--ys btn--full btn--lg">go to cart</a>
+		        <a href="shopping-cart-right-column.php" class="btn btn--ys btn--full btn--lg">go to cart</a>
 		      </div>
 		    </div>
 		  </div>
@@ -313,47 +303,7 @@
 		    </div>
 		  </div>
 		</div>
-		<!-- / Modal (quickViewModal) -->
-		<!-- Modal (newsletter) -->		
-		<div class="modal  modal--bg fade"  id="newsletterModal" data-pause=2000>
-		  <div class="modal-dialog white-modal">
-		    <div class="modal-content modal-md">
-		      <div class="modal-bg-image bottom-right"> 
-			      <img  src="images/custom/newsletter-bg.png" alt="" class="img-responsive"> 
-			  </div>
-		      <div class="modal-block">
-			      <div class="modal-header">
-			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button>
-			      </div>
-			      <div class="modal-newsletter text-center">
-			      	    <img class="logo replace-2x img-responsive1" src="images/logo.png" alt=""/>
-			            <h2 class="text-uppercase modal-title">JOIN US NOW!</h2>
-			            <p class="color-dark">And get hot news about the theme</p>
-			            <p class="color font24 custom-font font-lighter">
-			            	YOURStore 
-			            </p>
-			            <form  method="post" name="mc-embedded-subscribe-form" target="_blank" class="subscribe-form">
-			           		<div class="row-subscibe">			           				            		 
-								<input  type="text" name="subscribe"   placeholder="Your E-mail">
-								<button type="submit" class="btn btn--ys btn--xl">SUBSCRIBE</button>
-			           		</div>
-							<div class="checkbox-group form-group-top clearfix">
-			                  <input type="checkbox" id="checkBox1">
-			                  <label for="checkBox1"> 
-			                  	<span class="check"></span>
-			                  	<span class="box"></span>
-			                  	&nbsp;&nbsp;DON&#39;T SHOW THIS POPUP AGAIN
-			                  </label>
-			                </div>			               			                
-			                
-			            </form>
-			      </div>
-		      </div>
-		    </div>
-		  </div>
-		</div>
-		<!-- / Modal (newsletter) -->
-		<!--================== /modal ==================-->
+		
 				<!-- External JS --> 
 		<!-- jQuery 1.10.1--> 
 		<script src="external/jquery/jquery-2.1.4.min.js"></script> 

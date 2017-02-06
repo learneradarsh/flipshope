@@ -1,4 +1,47 @@
-<!-- Back to top -->
+<!DOCTYPE html>
+<html>
+	
+<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/faq.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:08:57 GMT -->
+<head>
+		<!-- Basic -->
+		<meta charset="utf-8">
+		<title>Flipshope || FAQ</title>
+		<meta name="keywords" content="HTML5 Template" />
+		<meta name="description" content="YOURStore - Responsive HTML5 Template">
+		<meta name="author" content="etheme.com">
+		<link rel="shortcut icon" href="favicon.ico">
+		<!-- Mobile Specific Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- External Plugins CSS -->
+		<link rel="stylesheet" href="external/slick/slick.css">
+		<link rel="stylesheet" href="external/slick/slick-theme.css">
+		<link rel="stylesheet" href="external/magnific-popup/magnific-popup.css">
+		<link rel="stylesheet" href="external/nouislider/nouislider.css">
+		<link rel="stylesheet" href="external/bootstrap-select/bootstrap-select.css">
+		<!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
+		<link rel="stylesheet" type="text/css" href="external/rs-plugin/css/settings.css" media="screen" />
+		<!-- Custom CSS -->
+		<link rel="stylesheet" href="css/style.css">
+		<!-- Icon Fonts  -->
+		<link rel="stylesheet" href="font/style.css">
+		<!-- Head Libs -->	
+		<!-- Modernizr -->
+		<script src="external/modernizr/modernizr.js"></script>
+	</head>
+	<body>
+		<div id="loader-wrapper">
+			<div id="loader">
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+				<div class="dot"></div>
+			</div>
+		</div>
+		<!-- Back to top -->
 	    <div class="back-to-top"><span class="icon-keyboard_arrow_up"></span></div>
 	    <!-- /Back to top -->
 	    <!-- mobile menu -->
@@ -1153,3 +1196,329 @@
 			</header>
 		</div>
 		<!-- End HEADER section -->
+		<!-- breadcrumbs -->
+		<div class="breadcrumbs">
+			<div class="container">
+				<ol class="breadcrumb breadcrumb--ys pull-left">
+					<li class="home-link"><a href="index.php" class="icon icon-home"></a></li>					
+					<li class="active">FAQS</li>
+				</ol>
+			</div>
+		</div>
+		<!-- /breadcrumbs --> 
+		<!-- CONTENT section -->
+		<div id="pageContent">
+			<div class="container">				
+				<!-- two col -->
+				<div class="row">
+					<!-- left-col -->
+					<aside class="col-md-3">
+						<!-- title -->
+						<div class="title-box">
+							<h2 class="text-left text-uppercase title-under">MY ACCOUNT</h2>
+						</div>
+						<!-- /title -->
+						<ul class="simple-list">
+							<li><a href="#">Account Dashboard</a></li>
+							<li><a href="#">Account Information</a></li>
+							<li><a href="#">Address Book</a></li>
+							<li><a href="#">My Orders</a></li>
+							<li><a href="#">Billing Agreements</a></li>
+							<li><a href="#">Recurring Profiles</a></li>
+							<li><a href="#">My Product Reviews</a></li>
+							<li><a href="#">My Tags</a></li>
+							<li><a href="#">My Wishlist</a></li>
+							<li><a href="#">My Applications</a></li>
+							<li><a href="#">Newsletter Subscriptions</a></li>
+							<li><a href="#">My Downloadable Products</a></li>
+						</ul>
+					</aside>
+					<!-- /left-col -->
+					<div class="divider divider--lg  visible-sm visible-xs"></div>
+					<!-- center-col -->
+					<div class="col-md-9">
+						<!-- title -->
+						<div class="title-box">
+							<h1 class="text-left text-uppercase title-under">FAQS</h1>
+						</div>
+						<!-- /title -->
+						<h3 class="color font30">Delivery</h3>
+						<!--  -->
+						<div class="collapse-block open collapse-block--indent-lg">
+							<h4 class="collapse-block__title collapse-block__icon-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit?</h4>
+							<div class="collapse-block__content">
+								
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+															
+							</div>
+						</div>						
+						<!-- / -->
+						<!--  -->
+						<div class="collapse-block open collapse-block--indent-lg">
+							<h4 class="collapse-block__title collapse-block__icon-left">Consectetur adipiscing elit, sed do eiusmod tempor incididunt?</h4>
+							<div class="collapse-block__content">
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+								</p>
+								<ul class="simple-list color-dark list-indent-left">
+									<li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
+									<li><a href="#">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a></li>
+									<li><a href="#">Ut enim ad minim veniam, quis nostrud exercitation ullamco.</a></li>
+								</ul>								
+
+							</div>
+						</div>						
+						<!-- / -->
+						<!--  -->
+						<div class="collapse-block open collapse-block--indent-lg  border-none">
+							<h4 class="collapse-block__title collapse-block__icon-left">Labore et dolore magna aliqua?</h4>
+							<div class="collapse-block__content">
+								<div class="media media-content-img-left">
+								  <a class="pull-left" href="#">
+								    <img class="img-responsive" src="images/custom/faw_img-01.jpg" alt=""/>
+								  </a>
+								  <div class="media-body">
+								   <p>
+								   	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+								   </p>
+								  </div>
+								</div>		
+
+							</div>
+						</div>						
+						<!-- / -->
+						<div class="divider divider--md"></div>
+						<h3 class="color font30">Warranty</h3>
+						<!--  -->
+						<div class="collapse-block collapse-block--indent-lg">
+							<h4 class="collapse-block__title collapse-block__icon-left">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.?</h4>
+							<div class="collapse-block__content">
+								
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+															
+							</div>
+						</div>						
+						<!-- / -->
+						<!--  -->
+						<div class="collapse-block collapse-block--indent-lg">
+							<h4 class="collapse-block__title collapse-block__icon-left">Ut enim ad minim veniam?</h4>
+							<div class="collapse-block__content">
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+								</p>
+								<ul class="simple-list color-dark list-indent-left">
+									<li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
+									<li><a href="#">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a></li>
+									<li><a href="#">Ut enim ad minim veniam, quis nostrud exercitation ullamco.</a></li>
+								</ul>								
+
+							</div>
+						</div>						
+						<!-- / -->
+						<!--  -->
+						<div class="collapse-block border-none">
+							<h4 class="collapse-block__title collapse-block__icon-left">Quis nostrud exercitation ullamco laboris nisi ut aliquip?</h4>
+							<div class="collapse-block__content">
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+							</div>
+						</div>						
+						<!-- / -->
+
+						<div class="divider divider--md"></div>
+						<h3 class="color font30">Payment</h3>
+						<!--  -->
+						<div class="collapse-block collapse-block--indent-lg">
+							<h4 class="collapse-block__title collapse-block__icon-left">Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore?</h4>
+							<div class="collapse-block__content">
+								
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+															
+							</div>
+						</div>						
+						<!-- / -->
+						<!--  -->
+						<div class="collapse-block collapse-block--indent-lg">
+							<h4 class="collapse-block__title collapse-block__icon-left">Sit amet, consectetur adipiscing elit?</h4>
+							<div class="collapse-block__content">
+								<p>
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+								</p>
+								<ul class="simple-list color-dark list-indent-left">
+									<li><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></li>
+									<li><a href="#">Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a></li>
+									<li><a href="#">Ut enim ad minim veniam, quis nostrud exercitation ullamco.</a></li>
+								</ul>								
+
+							</div>
+						</div>						
+						<!-- / -->
+						<!--  -->
+						<div class="collapse-block collapse-block--indent-lg">
+							<h4 class="collapse-block__title collapse-block__icon-left">Ipsum dolor sit amet, consectetur adipiscing elit?</h4>
+							<div class="collapse-block__content">
+									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+							</div>
+						</div>						
+						<!-- / -->
+						
+					</div>
+					<!-- /center-col -->
+				</div>
+				<!-- /two col -->
+			</div>
+		</div>
+		<!-- End CONTENT section --> 
+		<!-- FOOTER section -->
+		<footer>
+			<!-- footer-data -->
+			<div class="container inset-bottom-60">
+				<div class="row" >
+					<div class="col-sm-12 col-md-5 col-lg-6 border-sep-right">
+						<div class="footer-logo hidden-xs">
+							<!--  Logo  --> 
+							<a class="logo" href="index.php"> <img class="replace-2x" src="images/logo.png"  alt="YOURStore"> </a> 
+							<!-- /Logo --> 
+						</div>
+						<div class="box-about">
+							<div class="mobile-collapse">
+								<h4 class="mobile-collapse__title visible-xs">ABOUT US</h4>
+								<div class="mobile-collapse__content">
+									<p> No more need to look for other ecommerce themes. We provide huge number of different layouts. Yourstore comes packed with free and useful features developed to make your website creation easier. Innovative clean design, advanced functionality, UI made for humans, extensive documenta- tion and support i continue this list infinitely... </p>
+								</div>
+							</div>
+						</div>
+						<!-- subscribe-box -->
+						<div class="subscribe-box offset-top-20">
+							<div class="mobile-collapse">
+								<h4 class="mobile-collapse__title">NEWSLETTER SIGNUP</h4>
+								<div class="mobile-collapse__content">
+									<form class="form-inline">
+										<input class="subscribe-form__input" type="text" name="subscribe">
+										<button type="submit" class="btn btn--ys btn--xl">SUBSCRIBE</button>
+									</form>
+								</div>
+							</div>
+						</div>
+						<!-- /subscribe-box --> 
+					</div>
+					<div class="col-sm-12 col-md-7 col-lg-6 border-sep-left">
+						<div class="row">
+							<div class="col-sm-4">
+								<div class="mobile-collapse">
+									<h4 class="text-left  title-under  mobile-collapse__title">INFORMATION</h4>
+									<div class="v-links-list mobile-collapse__content">
+										<ul>
+											<li><a href="about.php">About Us</a></li>
+											<li><a href="support-24.php">Customer Service</a></li>
+											<li><a href="faq.php">Privacy Policy</a></li>
+											<li><a href="site-map.php">Site Map</a></li>
+											<li><a href="typography.php">Search Terms</a></li>
+											<li><a href="warranty.php">Advanced Search</a></li>
+											<li><a href="delivery-page.php">Orders and Returns</a></li>
+											<li><a href="contact.php">Contact Us</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="mobile-collapse">
+									<h4 class="text-left  title-under  mobile-collapse__title">WHY BUY FROM US</h4>
+									<div class="v-links-list mobile-collapse__content">
+										<ul>
+											<li><a href="warranty.php">Shipping &amp; Returns</a></li>
+											<li><a href="typography.php">Secure Shopping</a></li>
+											<li><a href="about.php">International Shipping</a></li>
+											<li><a href="delivery-page.php">Affiliates</a></li>
+											<li><a href="support-24.php">Group Sales</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-4">
+								<div class="mobile-collapse">
+									<h4 class="text-left  title-under  mobile-collapse__title">MY ACCOUNT</h4>
+									<div class="v-links-list mobile-collapse__content">
+										<ul>
+											<li><a href="login_form.php">Sign In</a></li>
+											<li><a href="shopping_cart.php">View Cart</a></li>
+											<li><a href="wishlist.php">My Wishlist</a></li>
+											<li><a href="support-24.php">Track My Order</a></li>
+											<li><a href="faq.php">Help</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /footer-data --> 
+			<div class="divider divider-md visible-xs visible-sm visible-md"></div>
+			<!-- social-icon -->
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="social-links social-links--large">
+							<ul>
+								<li><a class="icon fa fa-facebook" href="http://www.facebook.com/"></a></li>
+								<li><a class="icon fa fa-twitter" href="http://www.twitter.com/"></a></li>
+								<li><a class="icon fa fa-google-plus" href="http://www.google.com/"></a></li>
+								<li><a class="icon fa fa-instagram" href="https://instagram.com/"></a></li>
+								<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/"></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /social-icon --> 
+			<!-- footer-copyright -->
+			<div class="container footer-copyright">
+				<div class="row">
+					<div class="col-lg-12"> <a href="index.php"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
+				</div>
+			</div>
+			<!-- /footer-copyright --> 
+			<a href="#" class="btn btn--ys btn--full visible-xs" id="backToTop">Back to top <span class="icon icon-expand_less"></span></a> 
+		</footer>
+		<!-- END FOOTER section -->
+		<!-- External JS --> 
+		<!-- jQuery 1.10.1--> 
+		<script src="external/jquery/jquery-2.1.4.min.js"></script> 
+		<!-- Bootstrap 3--> 
+		<script src="external/bootstrap/bootstrap.min.js"></script> 
+		<!-- Specific Page External Plugins --> 
+		<script src="external/slick/slick.min.js"></script>
+		<script src="external/bootstrap-select/bootstrap-select.min.js"></script>  
+		<script src="external/countdown/jquery.plugin.min.js"></script> 
+		<script src="external/countdown/jquery.countdown.min.js"></script> 		 
+		<script src="external/instafeed/instafeed.min.js"></script> 
+		<script src="external/magnific-popup/jquery.magnific-popup.min.js"></script> 
+		<script src="external/nouislider/nouislider.min.js"></script>
+		<script src="external/isotope/isotope.pkgd.min.js"></script> 
+		<script src="external/imagesloaded/imagesloaded.pkgd.min.js"></script>
+        <script src="external/colorbox/jquery.colorbox-min.js"></script>
+		<!-- Custom --> 
+		<script src="js/custom.js"></script> 
+		<script>
+			$j(document).ready(function() {
+			
+				// popup ini			
+				$j('.quick-view').magnificPopup({
+					type: 'ajax'
+				});
+				
+				listingModeToggle();
+			
+				// Init All Carousel			
+				productCarousel($j('#megaMenuCarousel1'),1,1,1,1,1);
+				verticalCarousel($j('.vertical-carousel-1'),2);
+				verticalCarousel($j('.vertical-carousel-2'),2);
+			
+			})
+		</script>
+	</body>
+
+<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/faq.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 11:09:00 GMT -->
+</html>
