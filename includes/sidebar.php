@@ -71,44 +71,39 @@
 										<ul class="dropdown-menu megamenu image-links" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="col-one-fourth">
-														<span class="image-link">
-														<a href="listing.php">
-														<span class="figure"><img class="img-responsive" src="" alt=""/></span>
-														<span class="figcaption text-uppercase">Mobiles</span>
-														</a>
-														</span>
+														<ul><h4>Mobiles</h4>
+														<li><a href="#">All</a></li>
+														<li><a href="#">Samsung Phones</a></li>
+														<li><a href="#">Nokia</a></li>
+														<li><a href="#">Micromax</a></li>
+														<li><a href="#">Xioami</a></li>
+														<li><a href="#">Micromax</a></li>
+														<li><a href="#">Apple</a></li>
+														</ul>			
 													</li>
 													<li class="col-one-fourth">
-														<span class="image-link">
-														<a href="listing.php">
-														<span class="figure"><img class="img-responsive" src="" alt=""/></span>
-														<span class="figcaption text-uppercase">Mobile Accessories</span>
-														</a>
-														</span>
+														<ul>
+															<h4>Mobile Accessories</h4>
+															<li><a href="#">Smart Watch</a></li>
+															<li><a href="#">Micro SD Cards</a></li>
+															<li><a href="#">Power Banks</a></li>
+														</ul>
 													</li>
 													<li class="col-one-fourth">
-														<span class="image-link">
-														<a href="listing.php">
-														<span class="figure"><img class="img-responsive" src="" alt=""/></span>
-														<span class="figcaption text-uppercase">HeadPhones And HeadSets</span>
-														</a>
-														</span>
+														<ul>
+															<h4>HeadPhone &amp; HeadSets</h4>
+															<li><a href="#">Bluetooth Headsets</a></li>
+															<li><a href="#">Wired Headsets</a></li>
+															<li><a href="#">HeadPhones</a></li>
+														</ul>
 													</li>
 													<li class="col-one-fourth">
-														<span class="image-link">
-														<a href="listing.php">
-														<span class="figure"><img class="img-responsive" src="" alt=""/></span>
-														<span class="figcaption text-uppercase">Car Mobile And Accessories</span>
-														</a>
-														</span>
-													</li>
-													<li class="col-one-fourth">
-														<span class="image-link">
-														<a href="listing.php">
-														<span class="figure"><img class="img-responsive" src="" alt=""/></span>
-														<span class="figcaption text-uppercase">Landline Phones</span>
-														</a>
-														</span>
+														<ul>
+															<h4>Car Mobile &amp; Accessories</h4>
+															<li><a href="#">Car Chargers</a></li>
+															<li><a href="#">Car Kits</a></li>
+															<li><a href="#">GPS Navigation Device</a></li>
+														</ul>
 													</li>
 												</ul>
 									</li>
@@ -119,64 +114,49 @@
 										</a>
 										<ul class="dropdown-menu megamenu image-links image-links-listing" role="menu">
 											<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-											<li class="col-one-third">
-												<span class="image-link">
-												<a href="product-small.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-1.png" alt=""/></span>
-												<span class="figcaption text-uppercase">image size  - small</span>
-												</a>
-												</span>
+											<li class="col-one-fourth">
+												<ul>
+													<h4>All Laptops</h4>
+													<li><a href="#">Dell</a></li>
+													<li><a href="#">HP</a></li>
+													<li><a href="#">Lenovo</a></li>	
+													<li><a href="#">Sony</a></li>
+												</ul>
 											</li>
-											<li class="col-one-third">
-												<span class="image-link">
-												<a href="product.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-2.png" alt=""/></span>
-												<span class="figcaption text-uppercase">image size  - medium</span>
-												</a>
-												</span>
+											<li class="col-one-fourth">
+												<h4>Accessories &amp; Peripherals</h4>
+												<ul>
+												<li><a href="#">Monitor</a></li>
+												<li><a href="#">Mouse</a></li>
+												<li><a href="#">KeyBoards</a></li>
+												<li><a href="#">HeadPhones</a></li>
+												<li><a href="#">Speakers</a></li>
+												</ul>
 											</li>
-											<li class="col-one-third">
-												<span class="image-link">
-												<a href="product-big.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/product-menu-img-3.png" alt=""/></span>
-												<span class="figcaption text-uppercase">image size  - big</span>
-												</a>
-												</span>											
+											<li class="col-one-fourth">
+												<h4>Storage &amp; Memory</h4>
+												<ul>
+												<li><a href="#">Pendrives</a></li>
+												<li><a href="#">HardDisks</a></li>
+												<li><a href="#">SD Memory Card</a></li>
+												<li><a href="#">Micro SD Card</a></li>
+												</ul>
+											</li>
+											<li class="col-one-fourth">
+											<ul>
+												<h4>Printers &amp; Inks</h4>
+												<li><a href="#">Single Function Printer</a></li>
+												<li><a href="#">Multi Function Printer</a></li>
+												<li><a href="#">Scanners</a></li>
+											</ul>
 											</li>
 										</ul>
 									</li>
 									<li class="dropdown dropdown-mega-menu">
-										<a href="blog-layout-1.php" class="dropdown-toggle" data-toggle="dropdown">
+										<a href="http://couponzilla.com/" class="dropdown-toggle" data-toggle="dropdown">
 											Coupon &amp; DISCOUNTS
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
-										<ul class="dropdown-menu megamenu image-links image-links-listing" role="menu">
-											<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-											<li class="col-one-third">
-												<span class="image-link">
-												<a href="blog-layout-1.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-1.png" alt=""/></span>
-												<span class="figcaption text-uppercase">blog - Layout 1</span>
-												</a>
-												</span>
-											</li>
-											<li class="col-one-third">
-												<span class="image-link">
-												<a href="blog-layout-2.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-2.png" alt=""/></span>
-												<span class="figcaption text-uppercase">blog - Layout 2</span>
-												</a>
-												</span>
-											</li>
-											<li class="col-one-third">
-												<span class="image-link">
-												<a href="blog-layout-3.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/blog-menu-img-3.png" alt=""/></span>
-												<span class="figcaption text-uppercase">blog - Layout 3</span>
-												</a>
-												</span>											
-											</li>
-										</ul>
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="gallery-layout-1.php" class="dropdown-toggle" data-toggle="dropdown">
@@ -186,44 +166,34 @@
 										<ul class="dropdown-menu megamenu image-links image-links-listing" role="menu">
 											<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 											<li class="col-one-fifth">
-												<span class="image-link">
-												<a href="gallery-layout-1.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-1.png" alt=""/></span>
-												<span class="figcaption text-uppercase">Gallery - Layout 1</span>
-												</a>
-												</span>
+												<h4>LCD &amp; LED TVs</h4>
+												<ul>
+													<li>All LCD &amp; LEDs</li>
+													<li>Samsung</li>
+													<li>Sony</li>
+													<li>LG</li>
+													<li>Toshiba</li>
+												</ul>
 											</li>
 											<li class="col-one-fifth">
-												<span class="image-link">
-												<a href="gallery-layout-2.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-2.png" alt=""/></span>
-												<span class="figcaption text-uppercase">Gallery - Layout 2</span>
-												</a>
-												</span>
+												<h4>Music &amp; HomeTheatre</h4>
+												<ul>
+													<li>Apple I POts</li>
+													<li>Mp3 Player</li>
+													<li>Home Theatre</li>
+													<li>Video &amp; DVD Player</li>
+													<li>Gaming Console</li>
+												</ul>
 											</li>
 											<li class="col-one-fifth">
-												<span class="image-link">
-												<a href="gallery-layout-3.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-3.png" alt=""/></span>
-												<span class="figcaption text-uppercase">Gallery - Layout 3</span>
-												</a>
-												</span>											
+												<h4>Head Phone &amp; Memory</h4>
+												<ul>
+												<li>HeadPhone</li>
+												<li>Bluetooth HeadSets</li>
+												</ul>
 											</li>
 											<li class="col-one-fifth">
-												<span class="image-link">
-												<a href="gallery-layout-4.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-4.png" alt=""/></span>
-												<span class="figcaption text-uppercase">Gallery - Layout 4</span>
-												</a>
-												</span>											
-											</li>
-											<li class="col-one-fifth">
-												<span class="image-link">
-												<a href="gallery-layout-5.php">
-												<span class="figure"><img class="img-responsive" src="img/custom/gallery-menu-img-5.png" alt=""/></span>
-												<span class="figcaption text-uppercase">Gallery - Layout 5</span>
-												</a>
-												</span>											
+												
 											</li>
 										</ul>
 									</li>
@@ -374,6 +344,91 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
+											Kid's Fashion										
+											<span class="icon icon-navigate_next pull-right"></span>
+											<span class="badge badge--menu badge--color  pull-right">SALE</span>
+										</a>
+										<ul class="dropdown-menu megamenu" role="menu">
+											<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
+											<li class="col-lg-3 col-md-4">												
+												<a href="listing.php" class="megamenu__subtitle">
+													<span>TOPS</span>
+													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-1.jpg" alt=""/></span>
+												</a>
+												<ul class="megamenu__submenu megamenu__submenu--marked">
+													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+													<li class="level2"><a href="listing.php">Jackets</a></li>
+													<li class="level2"><a href="listing.php">Shirts</a></li>
+													<li class="level2"><a href="listing.php">Sweaters &amp; Cardigans</a></li>
+													<li class="level2"><a href="listing.php">T-shirts</a></li>
+												</ul>
+											</li>
+											<li class="col-lg-3 col-md-4">
+												<a href="#" class="megamenu__subtitle">
+													<span>BOTTOMS</span>
+													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-2.jpg" alt=""/></span>
+												</a>
+												<ul class="megamenu__submenu megamenu__submenu--marked">
+													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+													<li class="level2"><a href="listing.php">Trousers</a></li>
+													<li class="level2"><a href="listing.php">Jeans</a></li>
+													<li class="level2"><a href="listing.php">Skirts</a></li>
+													<li class="level2"><a href="listing.php">Swimwear</a></li>
+												</ul>
+											</li>
+											<li class="col-lg-3 col-md-4">
+												<a href="listing.php" class="megamenu__subtitle">
+													<span>ACCESSORIES</span>
+													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-3.jpg" alt=""/></span>
+												</a>
+												<ul class="megamenu__submenu megamenu__submenu--marked">
+													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
+													<li class="level2"><a href="listing.php">Bags</a></li>
+													<li class="level2"><a href="listing.php">Shoes</a></li>
+													<li class="level2"><a href="listing.php">Sunglasses</a></li>
+												</ul>
+											</li>
+											<li class="col-lg-3 col-md-4 hidden-md">
+												<a href="listing.php" class="megamenu__subtitle"><span>Specials</span></a>
+												<div class="vertical-carousel vertical-carousel-1 special-carousel">
+													<div class="vertical-carousel__item">
+														<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="img/product/product-120x150-1.jpg" alt=""></a></div>
+														<div class="product__label product__label--sale"> <span>Sale</span></div>
+														<div class="vertical-carousel__item__title">
+															<h2><a href="product.php">Mauris lacinia lectus</a></h2>
+														</div>
+														<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
+													</div>
+													<div class="vertical-carousel__item">
+														<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="img/product/product-120x150-2.jpg" alt=""></a></div>
+														<div class="product__label product__label--sale"> <span>Sale</span></div>
+														<div class="vertical-carousel__item__title">
+															<h2><a href="product.php">Incididunt ut labore et dolore magna aliqua</a></h2>
+														</div>
+														<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
+													</div>
+												</div>
+											</li>
+											<li class="col-sm-12 hidden-xs">
+												<div class="hor-line"></div>
+												<ul class="list-inline brands-list">
+													<li><a href="#"><img src="img/custom/brand-01.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-03.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-02.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-05.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-04.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-06.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-07.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-08.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-09.png" alt=""></a></li>
+													<li><a href="#"><img src="img/custom/brand-10.png" alt=""></a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+									<!--Kids account -->
+										<li class="dropdown dropdown-mega-menu">
+										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
 											Men's Fashion										
 											<span class="icon icon-navigate_next pull-right"></span>
 											<span class="badge badge--menu badge--color  pull-right">SALE</span>
@@ -456,7 +511,8 @@
 											</li>
 										</ul>
 									</li>
-									<!-- home & kitchen appliances -->
+									<!-- kids account end -->
+									
 										<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
 										Health &amp; Beauty											
@@ -465,83 +521,33 @@
 										</a>
 										<ul class="dropdown-menu megamenu" role="menu">
 											<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-											<li class="col-lg-3 col-md-4">												
-												<a href="listing.php" class="megamenu__subtitle">
-													<span>TOPS</span>
-													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-1.jpg" alt=""/></span>
-												</a>
-												<ul class="megamenu__submenu megamenu__submenu--marked">
-													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
-													<li class="level2"><a href="listing.php">Jackets</a></li>
-													<li class="level2"><a href="listing.php">Shirts</a></li>
-													<li class="level2"><a href="listing.php">Sweaters &amp; Cardigans</a></li>
-													<li class="level2"><a href="listing.php">T-shirts</a></li>
-												</ul>
+											<li class="col-lg-3 col-md-4">								<h4>Diet &amp; Nutrition</h4>
+												<ul>	
+													<li></li>
+												</ul>				
 											</li>
 											<li class="col-lg-3 col-md-4">
-												<a href="#" class="megamenu__subtitle">
-													<span>BOTTOMS</span>
-													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-2.jpg" alt=""/></span>
-												</a>
-												<ul class="megamenu__submenu megamenu__submenu--marked">
-													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
-													<li class="level2"><a href="listing.php">Trousers</a></li>
-													<li class="level2"><a href="listing.php">Jeans</a></li>
-													<li class="level2"><a href="listing.php">Skirts</a></li>
-													<li class="level2"><a href="listing.php">Swimwear</a></li>
-												</ul>
+												<h4>Fragrance</h4>
+												<ul>	
+													<li>For Men</li>
+													<li>For Women</li>
+													<li>Gift Set</li>
+												</ul>					
+												
 											</li>
 											<li class="col-lg-3 col-md-4">
-												<a href="listing.php" class="megamenu__subtitle">
-													<span>ACCESSORIES</span>
-													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-3.jpg" alt=""/></span>
-												</a>
-												<ul class="megamenu__submenu megamenu__submenu--marked">
-													<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
-													<li class="level2"><a href="listing.php">Bags</a></li>
-													<li class="level2"><a href="listing.php">Shoes</a></li>
-													<li class="level2"><a href="listing.php">Sunglasses</a></li>
-												</ul>
-											</li>
-											<li class="col-lg-3 col-md-4 hidden-md">
-												<a href="listing.php" class="megamenu__subtitle"><span>Specials</span></a>
-												<div class="vertical-carousel vertical-carousel-1 special-carousel">
-													<div class="vertical-carousel__item">
-														<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="img/product/product-120x150-1.jpg" alt=""></a></div>
-														<div class="product__label product__label--sale"> <span>Sale</span></div>
-														<div class="vertical-carousel__item__title">
-															<h2><a href="product.php">Mauris lacinia lectus</a></h2>
-														</div>
-														<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
-													</div>
-													<div class="vertical-carousel__item">
-														<div class="vertical-carousel__item__image pull-left"><a href="product.php"><img src="img/product/product-120x150-2.jpg" alt=""></a></div>
-														<div class="product__label product__label--sale"> <span>Sale</span></div>
-														<div class="vertical-carousel__item__title">
-															<h2><a href="product.php">Incididunt ut labore et dolore magna aliqua</a></h2>
-														</div>
-														<div class="price-box">$26.00 <span class="price-box__old">$28.00</span></div>
-													</div>
-												</div>
-											</li>
-											<li class="col-sm-12 hidden-xs">
-												<div class="hor-line"></div>
-												<ul class="list-inline brands-list">
-													<li><a href="#"><img src="img/custom/brand-01.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-03.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-02.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-05.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-04.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-06.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-07.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-08.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-09.png" alt=""></a></li>
-													<li><a href="#"><img src="img/custom/brand-10.png" alt=""></a></li>
-												</ul>
+												<h4>Personal Care Applicances</h4>
+												<ul>	
+													<li>Trimmers</li>
+													<li>Shavers</li>
+													<li>MakeUp</li>
+													<li>HairCare</li>
+													<li>Skin Care</li>
+												</ul>				
 											</li>
 										</ul>
 									</li>
-									<!-- home & kitchen appleances end -->
+									
 								</ul>
 							</div>
 						</nav>

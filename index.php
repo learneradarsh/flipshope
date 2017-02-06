@@ -33,106 +33,47 @@
 		<!-- CONTENT section -->
 <div id="pageContent">
 							<div class="container">
-								<!-- two columns -->
-								
+								<div class="row">
+									<div class="col-md-3">
+										<?php include_once 'includes/sidebar.php'; ?>
+									</div>
+									<div class="col-md-9">
+										<!-- Best Deals -->
+											<div class="row">
+												<div class="col-md-4">
+												<h4>Best Deals &amp; Offers</h4>
+												<hr/>
+													<?php include_once 'includes/product_template.php'; ?>
+												</div>
+											</div>
+										<!-- Best Deals End -->
+										<!-- Top Stores -->
+											<div class="row">
+												<div class="col-md-4">
+												<h4>Best Deals &amp; Offers</h4>
+												<hr/>
+													<?php include_once 'includes/product_template.php'; ?>
+												</div>
+											</div>
+										<!-- Top Stores End -->
+										<!-- Best Deals -->
+											<div class="row">
+												<div class="col-md-4">
+												<h4>Best Deals &amp; Offers</h4>
+												<hr/>
+													<?php include_once 'includes/product_template.php'; ?>
+												</div>
+											</div>
+										<!-- Best Deals End -->
+									</div>
+								</div>
+							</div>
 
-									<div class="row">
-					
-								<aside class="col-xs-12 col-sm-12 col-md-4 col-lg-3 col-xl-2 ">						
-						<?php include_once 'includes/sidebar.php'; ?>
-						<!--======= banner-asid =======-->						
-						<div class="bannerAsid nav-dot hidden-sm  hidden-xs">
-							<!-- slide-->
-							<div class="text-center">
-								<a href="listing.php"><img class="img-responsive-inline" src="img/custom/banner-aside-01.jpg" alt=""></a>									
-							</div>
-							<!-- /slide-->
-							<!-- slide-->
-							<div class="text-center">
-								<a href="listing.php"><img class="img-responsive-inline" src="img/custom/banner-aside-02.jpg" alt=""></a>
-							</div>
-							<!-- /slide-->
-							<!-- slide-->
-							<div class="text-center">
-								<a href="listing.php"><img class="img-responsive-inline" src="img/custom/banner-aside-03.jpg" alt=""></a>
-							</div>
-							<!-- /slide-->
-						</div>						
-						<!--======= /banner-asid =======-->
-						<div class="divider divider--lg"></div>
-						<div class="divider divider--lg hidden-sm  hidden-xs"></div>
-						<!--======= testimonials =======-->
-						<div class="fill-bg-custom aside-inner color-white">
-							<h4 class="text-center text-uppercase color-white mega">testimonials</h4>							
-							<div class="testimonialsAsid nav-dot nav-dot-invert">
-								<!-- slide-->
-								<a href="blog-post-right-column.php" class="link-hover-block">
-									<div class="text-center">
-										<img class="img-responsive-inline" src="img/custom/slider-blog-img01.jpg" alt="">
-										<p>
-											<span class="icon"></span> Donec eros tellus, scelerisque nec, rhoncus eget, laoreet sit amet, nunc. Ut sit amet turpis.
-										</p>
-										<p>
-											<b>Eleanor</b><br>
-											<em>designer</em>
-										</p>									
-									</div>
-								</a>
-								<!-- /slide-->
-								<!-- slide-->
-								<a href="blog-post-right-column.php" class="link-hover-block">
-									<div class="text-center">
-										<img class="img-responsive-inline" src="img/custom/slider-blog-img02.jpg" alt="">
-										<p>
-											<span class="icon"></span> Tellus, scelerisque nec, rhoncus eget, laoreet sit amet, nunc. Ut sit amet turpis. Lorem set magna.
-										</p>
-										<p>
-											<b>Piper</b><br>
-											<em>designer</em>
-										</p>									
-									</div>
-								</a>
-								<!-- /slide-->
-								<!-- slide-->
-								<a href="blog-post-right-column.php" class="link-hover-block">
-									<div class="text-center">
-										<img class="img-responsive-inline" src="img/custom/slider-blog-img03.jpg" alt="">
-										<p>
-											<span class="icon"></span> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commod.
-										</p>
-										<p>
-											<b>Mark</b><br>
-											<em>designer</em>
-										</p>									
-									</div>
-								</a>
-								<!-- /slide-->
-							</div>							
-						</div>
-						<!--======= /testimonials =======-->
-						<div class="divider divider--lg"></div>						
-						<div class="divider divider--lg visible-xs"></div>
-						
-					</aside>
-					<div class="col-xs-12 col-sm-12 col-md-8 col-lg-9 col-xl-10" id="centerColumn">
-						<div class="divider divider--lg visible-sm visible-xs"></div>
-						<!-- Slider section --> 						
-						<section class="offset-top-0" id="slider">
-							<?php include_once 'includes/carasoul.php'; ?>
-						</section>
-						<!-- PART1 -->
-						<!-- pART ONE END -->
-					</div>
-					
-	</div>	
-		</div>	
-		</div>
 		<!-- End CONTENT section --> 
 		<?php include_once 'includes/footer.php'; ?>
-		</div>
+</div>
 
 	</body>
 
-<!-- Mirrored from ocean.tonytemplates.com/viktor/your_store_demo/html/index-02.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jan 2017 10:47:57 GMT -->
 </html>
 	

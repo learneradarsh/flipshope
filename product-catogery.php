@@ -13,34 +13,22 @@
 		<!-- Mobile Specific Metas -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- External Plugins CSS -->
-		<link rel="stylesheet" href="external/slick/slick.css">
-		<link rel="stylesheet" href="external/slick/slick-theme.css">
-		<link rel="stylesheet" href="external/magnific-popup/magnific-popup.css">
-		<link rel="stylesheet" href="external/nouislider/nouislider.css">
-		<link rel="stylesheet" href="external/bootstrap-select/bootstrap-select.css">
+		<link rel="stylesheet" href="includes/external/slick/slick.css">
+		<link rel="stylesheet" href="includes/external/slick/slick-theme.css">
+		<link rel="stylesheet" href="includes/external/magnific-popup/magnific-popup.css">
+		<link rel="stylesheet" href="includes/external/nouislider/nouislider.css">
+		<link rel="stylesheet" href="includes/external/bootstrap-select/bootstrap-select.css">
 		<!-- SLIDER REVOLUTION 4.x CSS SETTINGS -->
-		<link rel="stylesheet" type="text/css" href="external/rs-plugin/css/settings.css" media="screen" />
+		<link rel="stylesheet" type="text/css" href="includes/external/rs-plugin/css/settings.css" media="screen" />
 		<!-- Custom CSS -->
 		<link rel="stylesheet" href="css/style.css">
 		<!-- Icon Fonts  -->
 		<link rel="stylesheet" href="font/style.css">
 		<!-- Head Libs -->		
 		<!-- Modernizr -->
-		<script src="external/modernizr/modernizr.js"></script>
+		<script src="includes/external/modernizr/modernizr.js"></script>
 	</head>
 	<body>
-		<div id="loader-wrapper">
-			<div id="loader">
-				<div class="dot"></div>
-				<div class="dot"></div>
-				<div class="dot"></div>
-				<div class="dot"></div>
-				<div class="dot"></div>
-				<div class="dot"></div>
-				<div class="dot"></div>
-				<div class="dot"></div>
-			</div>
-		</div>
 		<!-- Back to top -->
 	    <div class="back-to-top"><span class="icon-keyboard_arrow_up"></span></div>
 	    <!-- /Back to top -->

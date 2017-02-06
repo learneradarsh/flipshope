@@ -332,7 +332,7 @@
 									</a>
 								</span>
 								<ul class="image-links-level-3 megamenu__submenu">									
-									<li class="level3"><a href="listing.php">Blouses & Shirts</a></li>									
+									<li class="level3"><a href="listing.php">Blouses &amp; Shirts</a></li>									
 									<li class="level3">										
 										<span class="name">
 											<span class="expander">-</span>
@@ -488,6 +488,11 @@
 									<span class="icon icon-person "></span>
 									</a>
 									<ul class="dropdown-menu dropdown-menu--xs-full">
+									<li>
+									<!-- logo start --> 
+							<a href="index.php"><img class="logo replace-2x img-responsive" src="img/logo.png" alt=""/></a> 
+							<!-- logo end --> 
+									</li>
 										<li><a href="https://chrome.google.com/webstore/detail/flipshope/adikhbfjdbjkhelbdnffogkobkekkkej"><span class="icon icon-person"></span>Chrome Extension</a></li>
 										<li><a href="http://flipshope.com/blog"><span class="icon icon-favorite_border"></span>Blog</a></li>
 										<li><a href="compare.php"><span class="icon icon-sort"></span>About Us</a></li>
@@ -514,14 +519,7 @@
 					<hr class="mobile-menu-off">
 				</div>
 				<div class="container offset-top-5">
-					<div class="row">
-						<!-- col-left -->
-						<div class="col-xs-12 col-md-3 col-lg-3 col-xl-3 col-sm-3">
-							<!-- logo start --> 
-							<a href="index.php"><img class="logo replace-2x img-responsive" src="img/logo.png" alt=""/></a> 
-							<!-- logo end --> 
-						</div>
-						<!-- /col-left -->						
+					<div class="row">						
 						<!-- col-right -->										
 						<div class="col-sm-6 col-md-8 col-lg-8 col-xl-8 pull-right text-right">
 							<div class="row-functional-link">								
