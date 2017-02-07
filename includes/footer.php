@@ -25,10 +25,10 @@
 									<!-- social-icon -->
 									<div class="social-links social-links--large social-links-layout-02">
 										<ul>
-											<li><a class="icon fa fa-facebook" href="http://www.facebook.com/flipshope"></a></li>
-											<li><a class="icon fa fa-twitter" href="http://www.twitter.com/Flipshope"></a></li>
-											<li><a class="icon fa fa-google-plus" href="https://plus.google.com/u/0/104128889070116451983"></a></li>
-											<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/channel/UCLxG6EGklFZbhBP-6rdYSLA"></a></li>
+											<li><a class="icon fa fa-facebook" href="http://www.facebook.com/flipshope" target="_blank"></a></li>
+											<li><a class="icon fa fa-twitter" href="http://www.twitter.com/Flipshope" target="_blank"></a></li>
+											<li><a class="icon fa fa-google-plus" href="https://plus.google.com/u/0/104128889070116451983" target="_blank"></a></li>
+											<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/channel/UCLxG6EGklFZbhBP-6rdYSLA" target="_blank"></a></li>
 										</ul>
 									</div>
 									<!-- /social-icon --> 
@@ -57,11 +57,10 @@
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
 											<li><a href="about.php" target="_blank">About Us</a></li>
-											<li><a href="faq.php" target="_blank">Privacy Policy</a></li>
-											<li><a href="includes/site-map.php" target="_blank">Site Map</a></li>
+											<li><a href="privacy.php" target="_blank">Privacy Policy</a></li>
 											<li><a href="contactus.php" target="_blank">Contact Us</a></li>
 											<li><a href="careers.php" target="_blank">Careers</a></li>
-											<li><a href="contactus.php" target="_blank">Terms of Use</a></li>
+											<li><a href="terms.php" target="_blank">Terms of Use</a></li>
 											<li><a href="faq.php" target="_blank">Help</a></li>
 										</ul>
 									</div>
@@ -84,7 +83,7 @@
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
 											<li><a href="https://chrome.google.com/webstore/detail/flipshope/adikhbfjdbjkhelbdnffogkobkekkkej" target="_blank">Download Extension</a></li>
-											<li><a href="#">About Extension</a></li>
+											<li><a href="http://flipshope.com/blog/welcome/" target="_blank">About Extension</a></li>
 										</ul>
 									</div>
 								</div>

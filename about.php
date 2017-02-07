@@ -183,7 +183,7 @@
 							<p>
 								<a class="hover-effect-01" href="#">
 									<span class="font22 text-uppercase color-custom">Ashutosh Goyal</span>
-									<span class="font18 color-dark">&nbsp; - &nbsp;<em class="main-font">CEO</em></span>
+									<span class="font18 color-dark">&nbsp; - &nbsp;<em class="main-font">Founder & Ceo</em></span>
 								</a>
 							</p>
 							<p>Content About CEO</p>
@@ -194,7 +194,7 @@
 							<p>
 								<a class="hover-effect-01" href="#">
 									<span class="font22 text-uppercase color-custom">Gaurav Kumar</span>
-									<span class="font18 color-dark">&nbsp; - &nbsp;<em class="main-font">CFO</em></span>
+									<span class="font18 color-dark">&nbsp; - &nbsp;<em class="main-font">Co-Founder</em></span>
 								</a>
 							</p>
 							<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
@@ -205,19 +205,8 @@
 							<div class="divider divider--md1"></div>
 							<p>
 								<a class="hover-effect-01" href="#">
-									<span class="font22 text-uppercase color-custom">Sharavn Pu</span>
-									<span class="font18 color-dark">&nbsp; - &nbsp;<em class="main-font">COO</em></span>
-								</a>
-							</p>
-							<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
-						</div>
-						<div class="col-md-3 col-sm-6 col-xs-6">
-							<a class="link-img-hover1" href="#"><img src="images/custom/team-img-04.jpg" class="img-responsive" alt=""></a>
-							<div class="divider divider--md1"></div>
-							<p>
-								<a class="hover-effect-01" href="#">
-									<span class="font22 text-uppercase color-custom">Arihant</span>
-									<span class="font18 color-dark">&nbsp; - &nbsp;<em class="main-font">Manager</em></span>
+									<span class="font22 text-uppercase color-custom">Sharavn Putta</span>
+									<span class="font18 color-dark">&nbsp; - &nbsp;<em class="main-font">Position</em></span>
 								</a>
 							</p>
 							<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.</p>

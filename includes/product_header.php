@@ -1,4 +1,3 @@
-  <link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
 <!-- Back to top -->
 	    <div class="back-to-top"><span class="icon-keyboard_arrow_up"></span></div>
 	    <!-- /Back to top -->
