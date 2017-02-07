@@ -332,19 +332,19 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="img_chania.jpg" alt="Chania">
+      <img src="images/custom/banner-aside-01.jpg" alt="Chania">
     </div>
 
     <div class="item">
-      <img src="img_chania2.jpg" alt="Chania">
+      <img src="images/custom/banner-aside-01.jpg" alt="Chania">
     </div>
 
     <div class="item">
-      <img src="img_flower.jpg" alt="Flower">
+      <img src="images/custom/banner-aside-01.jpg" alt="Flower">
     </div>
 
     <div class="item">
-      <img src="img_flower2.jpg" alt="Flower">
+      <img src="images/custom/banner-aside-01.jpg" alt="Flower">
     </div>
   </div>
 
@@ -370,34 +370,34 @@
 							<!-- carousel -->
 							<div class="carousel-products row" id="carouselFeatured">
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 							</div>
 							<!-- /carousel --> 
@@ -445,43 +445,19 @@
 								<div class="carousel-products__button pull-right"> <span class="btn-prev"></span> <span class="btn-next"></span> </div><h4 class="text-left text-uppercase title-default pull-left">Featured Deals</h4>
 							</div>
 							<!-- /title --> 
-							<!-- carousel -->
-							<div class="carousel-products row" id="carouselFeatured">
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
-								</div>
-								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+							<div class="row">
+								<div class="row">
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
 								</div>
 							</div>
-							<!-- /carousel --> 
-							</div>
-						<!-- / -->
-						<!-- Coupons End -->
 						<!-- Stats start -->
 							<div class="content-sm">
 							<!-- title -->
@@ -489,38 +465,22 @@
 								<div class="carousel-products__button pull-right"> <span class="btn-prev"></span> <span class="btn-next"></span> </div><h4 class="text-left text-uppercase title-default pull-left">Coupons</h4>
 							</div>
 							<!-- /title --> 
-							
+							<div class="row">
+								<div class="row">
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+								</div>
+							</div>
 							</div>
 						<!-- / -->
 						<!-- Stats End -->
-						<!-- brands-carousel -->
-						<div class="content section-indent-bottom">
-							<div class="row">
-								<div class="brands-carousel">
-									<div><a href="#"><img src="images/custom/brand-01.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-02.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-03.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-04.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-05.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-06.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-07.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-08.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-09.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-10.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-01.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-02.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-03.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-04.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-05.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-06.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-07.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-08.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-09.png" alt=""></a></div>
-									<div><a href="#"><img src="images/custom/brand-10.png" alt=""></a></div>
-								</div>
-							</div>
-						</div>
-						<!-- /brands-carousel -->
 					</div>
 					<!--====================================== /center column ======================================--> 
 				</div>
