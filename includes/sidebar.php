@@ -1,4 +1,4 @@
-<h4 class="title-aside-wrapper text-uppercase  mobile-menu-off">Categories</h4>
+<h5 class="title-aside-wrapper text-uppercase  mobile-menu-off">Categories</h5>
 						<!--======= navbar-vertical =======-->
 						<nav class="navbar navbar-vertical mobile-menu-off">
 							<div class="responsive-menu mainMenu">
@@ -16,7 +16,7 @@
 									<li class="dl-close"><a href="#"><span class="icon icon-close"></span>close</a></li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="index.php" class="dropdown-toggle" data-toggle="dropdown">
-											Deals &amp; Offers
+											<h5>Deals &amp; Offers</h5>
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links-layout" role="menu">												
@@ -65,7 +65,7 @@
 									
 									<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
-											Mobile , Tablets &amp; Accessories
+											<h5>Mobile , Tablets &amp; Accessories</h5>
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links" role="menu">
@@ -109,7 +109,7 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="product.php" class="dropdown-toggle" data-toggle="dropdown">
-											Laptops &amp; Accessories
+											<h5>Laptops &amp; Accessories</h5>
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links image-links-listing" role="menu">
@@ -154,13 +154,13 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="http://couponzilla.com/" class="dropdown-toggle" data-toggle="dropdown">
-											Coupon &amp; DISCOUNTS
+											<h5>Coupon &amp; DISCOUNTS</h5>
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="gallery-layout-1.php" class="dropdown-toggle" data-toggle="dropdown">
-											TV &amp; Entertainment
+											<h5>TV &amp; Entertainment</h5>
 											<span class="icon icon-navigate_next pull-right"></span>
 										</a>
 										<ul class="dropdown-menu megamenu image-links image-links-listing" role="menu">
@@ -199,7 +199,7 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
-											Women's Fashion
+											<h5>Women's Fashion</h5>
 											<span class="icon icon-navigate_next pull-right"></span>
 											
 										</a>
@@ -344,7 +344,7 @@
 									</li>
 									<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
-											Kid's Fashion										
+											<h5>Kid's Fashion</h5>										
 											<span class="icon icon-navigate_next pull-right"></span>
 											<span class="badge badge--menu badge--color  pull-right">SALE</span>
 										</a>
@@ -429,7 +429,7 @@
 									<!--Kids account -->
 										<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
-											Men's Fashion										
+											<h5>Men's Fashion</h5>
 											<span class="icon icon-navigate_next pull-right"></span>
 											<span class="badge badge--menu badge--color  pull-right">SALE</span>
 										</a>
@@ -515,7 +515,7 @@
 									
 										<li class="dropdown dropdown-mega-menu">
 										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
-										Health &amp; Beauty											
+										<h5>Health &amp; Beauty</h5>	
 											<span class="icon icon-navigate_next pull-right"></span>
 											<span class="badge badge--menu badge--color  pull-right">SALE</span>
 										</a>
