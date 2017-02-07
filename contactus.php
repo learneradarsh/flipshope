@@ -34,7 +34,8 @@
 		<div id="pageContent">
 			<!-- map -->
 			<div class="content-bottom">
-				<div id="map"></div>
+
+				<div id="map"><iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1944.2377322388486!2d77.60611365789181!3d12.94139879771893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15b4cf274fa3%3A0x7a614da922f6310c!2s105%2C+3rd+Cross+St%2C+Nanjappa+Layout%2C+Adugodi%2C+Bengaluru%2C+Karnataka+560030!5e0!3m2!1sen!2sin!4v1486411630437' width='100%' height='100%'></iframe></div>
 			</div>				
 			<!-- /map -->
 			<section class="container">				
@@ -44,15 +45,11 @@
 						<ul class="list-icon">
 							<li>
 								<span class="icon icon-home"></span>
-								<strong>Address :</strong> 7563 St. Vicent Place, Glasgow
+								<strong>Address :</strong> 108,2-A Main-Raod,Nanjappa Layout,Bengaluru
 							</li>
 							<li>
 								<span class="icon icon-call"></span>
-								<strong>Phone:</strong> +777 2345 7885
-							</li>
-							<li>
-								<span class="fa fa-fax"></span>
-								<strong>Fax:</strong> +777 2345 7886
+								<strong>Phone:</strong> +91 7501012322
 							</li>
 							<li>
 								<span class="icon icon-schedule"></span>
@@ -60,17 +57,16 @@
 							</li>
 							<li>
 								<span class="icon icon-mail"></span>
-								<strong>E-mail:</strong> <a class="color" href="mailto:info@mydomain.com">info@mydomain.com</a>
+								<strong>E-mail:</strong> <a class="color" href="mailto:cs@flipshope.com">cs@flipshope.com</a>
 							</li>
 						</ul>
 						<div class="divider divider--sm"></div>
 						<div class="social-links social-links--large">
 							<ul>
-								<li><a class="icon fa fa-facebook" href="http://www.facebook.com/"></a></li>
-								<li><a class="icon fa fa-twitter" href="http://www.twitter.com/"></a></li>
-								<li><a class="icon fa fa-google-plus" href="http://www.google.com/"></a></li>
-								<li><a class="icon fa fa-instagram" href="https://instagram.com/"></a></li>
-								<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/"></a></li>
+								<li><a class="icon fa fa-facebook" href="http://www.facebook.com/flipshope" target="_blank"></a></li>
+								<li><a class="icon fa fa-twitter" href="http://www.twitter.com/Flipshope" target="_blank"></a></li>
+								<li><a class="icon fa fa-google-plus" href="https://plus.google.com/u/0/104128889070116451983" target="_blank"></a></li>
+								<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/channel/UCLxG6EGklFZbhBP-6rdYSLA" target="_blank"></a></li>
 							</ul>
 						</div>
 					</div>

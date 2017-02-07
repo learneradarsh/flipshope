@@ -16,10 +16,10 @@
 									<p> No more need to look for other ecommerce themes. We provide huge number of different layouts. Yourstore comes packed with free and useful features developed to make your website creation easier. Innovative clean design, advanced functionality, UI made for humans, extensive documenta- tion and support i continue this list infinitely... </p>
 									<!-- address -->
 									<address class="box-address">
-										<span class="icon icon-home"></span> 7563 St. Vincent Place, Glasgow <br>
-										<span class="icon icon-call"></span> <b class="color-dark">+777 2345 7885 </b><br>
+										<span class="icon icon-home"></span> 108,2-A Main-Raod,Nanjappa Layout,Bengaluru <br>
+										<span class="icon icon-call"></span> <b class="color-dark">+91 7501012322 </b><br>
 										<span class="icon icon-access_time"></span> 7 Days a week from  10:00 am to 6:00 pm<br>
-										<span class="icon icon-markunread"></span> <a class="color" href="mailto:info@mydomain.com">info@mydomain.com</a>
+										<span class="icon icon-markunread"></span> <a class="color" href="mailto:cs@flipshope.com">cs@flipshope.com</a>
 									</address>
 									<!-- /address -->
 									<!-- social-icon -->
@@ -28,7 +28,6 @@
 											<li><a class="icon fa fa-facebook" href="http://www.facebook.com/flipshope"></a></li>
 											<li><a class="icon fa fa-twitter" href="http://www.twitter.com/Flipshope"></a></li>
 											<li><a class="icon fa fa-google-plus" href="https://plus.google.com/u/0/104128889070116451983"></a></li>
-											<li><a class="icon fa fa-instagram" href="https://instagram.com/"></a></li>
 											<li><a class="icon fa fa-youtube-square" href="https://www.youtube.com/channel/UCLxG6EGklFZbhBP-6rdYSLA"></a></li>
 										</ul>
 									</div>
@@ -57,10 +56,13 @@
 									<h4 class="text-left  title-under  mobile-collapse__title">INFORMATION</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="about.php">About Us</a></li>
-											<li><a href="faq.php">Privacy Policy</a></li>
-											<li><a href="site-map.php">Site Map</a></li>
-											<li><a href="contact.php">Contact Us</a></li>
+											<li><a href="about.php" target="_blank">About Us</a></li>
+											<li><a href="faq.php" target="_blank">Privacy Policy</a></li>
+											<li><a href="includes/site-map.php" target="_blank">Site Map</a></li>
+											<li><a href="contactus.php" target="_blank">Contact Us</a></li>
+											<li><a href="careers.php" target="_blank">Careers</a></li>
+											<li><a href="contactus.php" target="_blank">Terms of Use</a></li>
+											<li><a href="faq.php" target="_blank">Help</a></li>
 										</ul>
 									</div>
 								</div>
@@ -70,8 +72,8 @@
 									<h4 class="text-left  title-under  mobile-collapse__title">Important Links</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="http://couponzilla.com">CouponZilla</a></li>
-											<li><a href="http://Flashsaletricks">Flashsaletricks</a></li>
+											<li><a href="http://couponzila.com/" target="_blank">CouponZilla</a></li>
+											<li><a href="http://flipshope.com/blog/trick-to-buy-redmi-3s-prime-flash-sale/" target="_blank">Flashsaletricks</a></li>
 										</ul>
 									</div>
 								</div>
@@ -81,7 +83,7 @@
 									<h4 class="text-left  title-under  mobile-collapse__title">Extesnions</h4>
 									<div class="v-links-list mobile-collapse__content">
 										<ul>
-											<li><a href="#">Download Extension</a></li>
+											<li><a href="https://chrome.google.com/webstore/detail/flipshope/adikhbfjdbjkhelbdnffogkobkekkkej" target="_blank">Download Extension</a></li>
 											<li><a href="#">About Extension</a></li>
 										</ul>
 									</div>
@@ -230,80 +232,6 @@
 		</div>	
 		<!-- /modalLoginForm-->
 
-      <!-- Modal (quickViewModal) -->		
-		<div class="modal  modal--bg fade"  id="quickViewModal">
-		  <div class="modal-dialog white-modal">
-		    <div class="modal-content container">
-		    	<div class="modal-header">
-		       	 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button>
-		     	 </div>
-		    	<!--  -->
-		    	<div class="product-popup">
-					<div class="product-popup-content">
-					<div class="container-fluid">
-						<div class="row product-info-outer">
-							<div class="col-xs-12 col-sm-5 col-md-6 col-lg-6">
-								<div class="product-main-image">
-									<div class="product-main-image__item"><img src='images/product/product-big-1.jpg' alt="" /></div>
-								</div>
-							</div>
-							<div class="product-info col-xs-12 col-sm-7 col-md-6 col-lg-6">
-								<div class="wrapper">
-									<div class="product-info__sku pull-left">SKU: <strong>mtk012c</strong></div>
-									<div class="product-info__availabilitu pull-right">Availability:   <strong class="color">In Stock</strong></div>
-								</div>
-								<div class="product-info__title">
-									<h2>Lorem ipsum dolor sit ctetur</h2>
-								</div>
-								<div class="price-box product-info__price"><span class="price-box__new">$65.00</span> <span class="price-box__old">$84.00</span></div>
-								<div class="divider divider--xs product-info__divider"></div>
-								<div class="product-info__description">
-									<div class="product-info__description__brand"><img src="images/custom/brand.png" alt=""> </div>
-									<div class="product-info__description__text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-								</div>
-								<div class="divider divider--xs product-info__divider"></div>
-								<div class="wrapper">
-									<div class="pull-left"><span class="option-label">COLOR:</span>  Red + $10.00 *</div>
-									<div class="pull-right required">* Required Fields</div>
-								</div>
-								<ul class="options-swatch options-swatch--color options-swatch--lg">
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/oldlace.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/dark-grey.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/grey.png" alt=""/></span></a></li>
-									<li><a href="#"><span class="swatch-label"><img src="images/colors/light-grey.png" alt=""/></span></a></li>
-								</ul>						
-								<div class="wrapper">
-									<div class="pull-left"><span class="option-label">SIZE:</span></div>
-									<div class="pull-left required">*</div>
-								</div>
-								<ul class="options-swatch options-swatch--size options-swatch--lg">
-									<li><a href="#">S</a></li>
-									<li><a href="#">M</a></li>
-									<li><a href="#">L</a></li>
-									<li><a href="#">XL</a></li>
-									<li><a href="#">2XL</a></li>
-									<li><a href="#">3XL</a></li>
-								</ul>
-								<div class="divider divider--sm"></div>
-								<div class="wrapper">
-									<div class="pull-left"><span class="qty-label">QTY:</span></div>
-									<div class="pull-left"><input type="text" name="quantity" class="input--ys qty-input pull-left" value="1"></div>
-									<div class="pull-left"><button type="submit" class="btn btn--ys btn--xxl"><span class="icon icon-shopping_basket"></span> Add to cart</button></div>
-								</div>
-								<ul class="product-link">
-									<li class="text-right"><span class="icon icon-favorite_border  tooltip-link"></span><a href="#"><span class="text">Add to wishlist</span></a></li>
-									<li class="text-left"><span class="icon icon-sort  tooltip-link"></span><a href="#"><span class="text">Add to compare</span></a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					</div>
-				</div>
-		    	<!-- / -->
-		    </div>
-		  </div>
-		</div>
-		
 				<!-- External JS --> 
 		<!-- jQuery 1.10.1--> 
 		<script src="external/jquery/jquery-2.1.4.min.js"></script> 

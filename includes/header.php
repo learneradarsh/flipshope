@@ -1,5 +1,5 @@
 
-
+<link href="https://fonts.googleapis.com/css?family=PT+Serif" rel="stylesheet">
 <!-- Back to top -->
 	    <div class="back-to-top"><span class="icon-keyboard_arrow_up"></span></div>
 <!-- /Back to top -->
@@ -492,8 +492,8 @@
 							<a href="index.php"><img class="logo replace-2x img-responsive" src="img/logo.png" alt=""/></a> 
 							<!-- logo end --> 
 									</li>
-										<li><a href="https://chrome.google.com/webstore/detail/flipshope/adikhbfjdbjkhelbdnffogkobkekkkej"><span class="icon icon-person"></span>Chrome Extension</a></li>
-										<li><a href="http://flipshope.com/blog"><span class="icon icon-favorite_border"></span>Blog</a></li>
+										<li><a href="https://chrome.google.com/webstore/detail/flipshope/adikhbfjdbjkhelbdnffogkobkekkkej" target="_blank"><span class="icon icon-person"></span>Chrome Extension</a></li>
+										<li><a href="http://flipshope.com/blog" target="_blank"><span class="icon icon-favorite_border"></span>Blog</a></li>
 										<li><a href="compare.php"><span class="icon icon-sort"></span>About Us</a></li>
 										<li><a href="login_form.php"><span class="icon icon-lock"></span>Log In</a></li>
 										<li><a href="login_form.php"><span class="icon icon-person_add"></span>Create an account</a></li>

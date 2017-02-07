@@ -26,7 +26,7 @@
 		<!-- Modernizr -->
 		<script src="external/modernizr/modernizr.js"></script>
 	</head>
-	<body>
+	<body class="fs_font">
 		<?php include_once 'includes/header.php' ?>	
 		<!-- CONTENT section -->
 		<div id="pageContent">
@@ -45,7 +45,7 @@
 							<!-- /slide-->
 							<!-- slide-->
 							<div class="text-center">
-								<a href="listing.php"><img class="img-responsive-inline" src="images/custom/banner-aside-02.jpg" alt=""></a>
+								< a href="listing.php"><img class="img-responsive-inline" src="images/custom/banner-aside-02.jpg" alt=""></a>
 							</div>
 							<!-- /slide-->
 							<!-- slide-->
