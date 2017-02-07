@@ -25,8 +25,10 @@
 		<!-- Head Libs -->	
 		<!-- Modernizr -->
 		<script src="external/modernizr/modernizr.js"></script>
+
 	</head>
 	<body class="fs_font">
+
 		<?php include_once 'includes/header.php' ?>	
 		<!-- CONTENT section -->
 		<div id="pageContent">
