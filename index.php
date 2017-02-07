@@ -27,7 +27,7 @@
 		<script src="external/modernizr/modernizr.js"></script>
 
 	</head>
-	<body class="fs_font">
+	<body>
 
 		<?php include_once 'includes/header.php' ?>	
 		<!-- CONTENT section -->
@@ -61,7 +61,7 @@
 						
 						<!--======= facebook =======-->
 						<div class="text-center hidden-sm  hidden-xs">
-							<div class="display-inline-block"><iframe src="http://www.facebook.com/plugins/likebox.php?id=134612429900944&amp;width=270px&amp;connections=9&amp;stream=false&amp;header=false&amp;height=216"  style="border:none; overflow:hidden; width:270px; height:216px;"></iframe></div>
+							<div class="display-inline-block"><iframe src="http://www.facebook.com/plugins/likebox.php?id=flipshope&amp;width=270px&amp;connections=9&amp;stream=false&amp;header=false&amp;height=216"  style="border:none; overflow:hidden; width:270px; height:216px;"></iframe></div>
 						</div>
 						<!--======= /facebook =======-->
 						<div class="divider divider--lg hidden-sm  hidden-xs"></div>
@@ -332,19 +332,19 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="img_chania.jpg" alt="Chania">
+      <img src="images/custom/banner-aside-01.jpg" alt="Chania">
     </div>
 
     <div class="item">
-      <img src="img_chania2.jpg" alt="Chania">
+      <img src="images/custom/banner-aside-01.jpg" alt="Chania">
     </div>
 
     <div class="item">
-      <img src="img_flower.jpg" alt="Flower">
+      <img src="images/custom/banner-aside-01.jpg" alt="Flower">
     </div>
 
     <div class="item">
-      <img src="img_flower2.jpg" alt="Flower">
+      <img src="images/custom/banner-aside-01.jpg" alt="Flower">
     </div>
   </div>
 
@@ -364,40 +364,40 @@
 							<!-- title -->
 							<div class="title-with-button">
 								<div class="carousel-products__button pull-right"> <span class="btn-prev"></span> <span class="btn-next"></span> </div>
-								<h2 class="text-left text-uppercase title-default pull-left">Best Deals &amp; Offers</h2>
+								<h4 class="text-left text-uppercase title-default pull-left">Best Deals &amp; Offers</h4>
 							</div>
 							<!-- /title --> 
 							<!-- carousel -->
 							<div class="carousel-products row" id="carouselFeatured">
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 								<div class="col-lg-3">
-									<?php include_once 'includes/product_template.php'; ?>
+									<?php include 'includes/product_template.php'; ?>
 								</div>
 							</div>
 							<!-- /carousel --> 
@@ -408,36 +408,9 @@
 							<div class="content-sm">
 							<!-- title -->
 							<div class="title-with-button">
-								<h2 class="text-left text-uppercase title-default pull-left">Top Stores</h2>
+								<h4 class="text-left text-uppercase title-default pull-left">Top Stores</h4>
 							</div>
 							<!-- /title --> 
-							</div>
-						<!-- / -->
-						<!-- Featured Deals End -->
-						<!-- Coupons Start -->
-							<div class="content-sm">
-							<!-- title -->
-							<div class="title-with-button">
-								<h2 class="text-left text-uppercase title-default pull-left">Featured Deals</h2>
-							</div>
-							<!-- /title --> 
-							
-							</div>
-						<!-- / -->
-						<!-- Coupons End -->
-						<!-- Stats start -->
-							<div class="content-sm">
-							<!-- title -->
-							<div class="title-with-button">
-								<h2 class="text-left text-uppercase title-default pull-left">Coupons</h2>
-							</div>
-							<!-- /title --> 
-							
-							</div>
-						<!-- / -->
-						<!-- Stats End -->
-						<!-- brands-carousel -->
-						<div class="content section-indent-bottom">
 							<div class="row">
 								<div class="brands-carousel">
 									<div><a href="#"><img src="images/custom/brand-01.png" alt=""></a></div>
@@ -462,8 +435,52 @@
 									<div><a href="#"><img src="images/custom/brand-10.png" alt=""></a></div>
 								</div>
 							</div>
-						</div>
-						<!-- /brands-carousel -->
+							</div>
+						<!-- / -->
+						<!-- Featured Deals End -->
+						<!-- Coupons Start -->
+							<div class="content-sm">
+							<!-- title -->
+							<div class="title-with-button">
+								<div class="carousel-products__button pull-right"> <span class="btn-prev"></span> <span class="btn-next"></span> </div><h4 class="text-left text-uppercase title-default pull-left">Featured Deals</h4>
+							</div>
+							<!-- /title --> 
+							<div class="row">
+								<div class="row">
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+								</div>
+							</div>
+						<!-- Stats start -->
+							<div class="content-sm">
+							<!-- title -->
+							<div class="title-with-button">
+								<div class="carousel-products__button pull-right"> <span class="btn-prev"></span> <span class="btn-next"></span> </div><h4 class="text-left text-uppercase title-default pull-left">Coupons</h4>
+							</div>
+							<!-- /title --> 
+							<div class="row">
+								<div class="row">
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+									<div class="col-md-4">
+										<?php include 'includes/product_template.php'; ?>
+									</div>
+								</div>
+							</div>
+							</div>
+						<!-- / -->
+						<!-- Stats End -->
 					</div>
 					<!--====================================== /center column ======================================--> 
 				</div>
@@ -485,7 +502,7 @@
 			      </div>
 			      <div class="modal-newsletter text-center">
 			      	    <img class="logo replace-2x img-responsive1" src="images/logo.png" alt=""/>
-			            <h2 class="text-uppercase modal-title">JOIN US NOW!</h2>
+			            <h4 class="text-uppercase modal-title">JOIN US NOW!</h4>
 			            <p class="color-dark">And get hot news about the theme</p>
 			            <p class="color font24 custom-font font-lighter">
 			            	YOURStore 

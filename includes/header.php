@@ -494,9 +494,9 @@
 									</li>
 										<li><a href="https://chrome.google.com/webstore/detail/flipshope/adikhbfjdbjkhelbdnffogkobkekkkej" target="_blank"><span class="icon icon-person"></span>Chrome Extension</a></li>
 										<li><a href="http://flipshope.com/blog" target="_blank"><span class="icon icon-favorite_border"></span>Blog</a></li>
-										<li><a href="compare.php"><span class="icon icon-sort"></span>About Us</a></li>
+										<li><a href="about.php"><span class="icon icon-sort"></span>About Us</a></li>
 										<li><a href="login_form.php"><span class="icon icon-lock"></span>Log In</a></li>
-										<li><a href="login_form.php"><span class="icon icon-person_add"></span>Create an account</a></li>
+										<li><a href="signup.php"><span class="icon icon-person_add"></span>Create an account</a></li>
 										<li class="dropdown-menu__close"><a href="#"><span class="icon icon-close"></span>close</a></li>
 									</ul>
 								</div>
@@ -551,8 +551,23 @@
                                             <li class="dropdown dropdown-mega-menu">
                                                 <span class="dropdown-toggle extra-arrow"></span>
                                                 <a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">LOGO</span></a>
-                                            </li>				
-                                            						
+                                            </li>	
+                                            <div class="pull-right col-sm-12 col-md-12 col-lg-12 text-right">
+								<!-- search start -->
+								<div class="search link-inline">
+									<div class="search-dropdown">
+										<form class="search__form" action="#" method="get">
+											<div class="input-outer">
+												<input type="search" name="search" value="" maxlength="128" placeholder="SEARCH:">
+												<button type="submit" title="" class="icon icon-search"></button>
+											</div>
+											<a href="#" class="search__close"><span class="icon icon-close"></span></a>									
+										</form>
+									</div>
+								</div>
+								<!-- search end -->	
+								
+							</div>			
 										</ul>
 									</div>
 								</nav>
