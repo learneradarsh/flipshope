@@ -8,7 +8,7 @@
 					<li>
 						<span class="name">
 							<span class="expander">-</span>
-							<a href="index.php"><span class="act-underline">Deals &amp; Offers</span></a>
+							<a href="index.php"><span class="act-underline"><h6>Deals </h6></span></a>
 						</span>
 						<ul class="dropdown-menu megamenu image-links-layout" role="menu">												
 													<li class="col-one-fourth">
@@ -430,7 +430,7 @@
 										<ul class="nav navbar-nav">
 											<li class="dl-close"><a href="#"><span class="icon icon-close"></span>close</a></li>										
 											<li class="dropdown dropdown-mega-menu">											
-												<a href="index.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">DEALS &amp; OFFERS</span></a>
+												<a href="index.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"><h6>DEALS</h6></span></a>
 												<ul class="dropdown-menu megamenu image-links-layout" role="menu">												
 													<li class="col-one-fourth">
 														<span class="image-link">
@@ -476,7 +476,7 @@
 											</li>											
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">MOBILE , TABLETS &amp; ACCESSORIES</span></a>
+												<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"><h6>MOBILE</h6></span></a>
 												<ul class="dropdown-menu megamenu image-links" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 													<li class="col-one-fourth">
@@ -518,7 +518,7 @@
 											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="product.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">LAPTOPS &amp; ACCESSORIES</span></a>
+												<a href="product.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"><h6>LAPTOPS &amp; ACCESSORIES</h6></span></a>
 												<ul class="dropdown-menu megamenu image-links" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 											<li class="col-one-fourth">
@@ -561,14 +561,14 @@
 											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="blog-layout-1.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">COUPON &amp; DISCOUNTS</span></a>
+												<a href="blog-layout-1.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"><h6>COUPON</h6></span></a>
 												<ul class="dropdown-menu megamenu image-links" role="menu">
 													
 												</ul>
 											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="gallery-layout-1.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">TV &amp; Entertainment</span></a>
+												<a href="gallery-layout-1.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"><h6>TV</h6></span></a>
 												<ul class="dropdown-menu megamenu image-links" role="menu">
 													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
 											<li class="col-one-fifth">
@@ -598,79 +598,12 @@
 												<li>Bluetooth HeadSets</li>
 												</ul>
 											</li>
-											<li class="col-one-fifth">
-												
-											</li>
 												</ul>
 											</li>
 											<li class="dropdown dropdown-mega-menu dropdown-two-col">
 												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="about.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"> FASHION</span></a>
+												<a href="about.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"> <h6>FASHION</h6></span></a>
 												<ul class="dropdown-menu multicolumn two-col" role="menu">
-													<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-												<li class="col-sm-3">
-													<a href="listing.php" class="megamenu__subtitle"><span>TOPS</span></a>
-													<ul class="megamenu__submenu">
-														<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-														<li class="level2"><a href="listing.php">Blouses &amp; Shirts</a></li>
-														<li class="level2">
-															<a href="#">Dresses</a>
-															<ul class="megamenu__submenu">
-																<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
-																<li class="level3"><a href="listing.php">Bodycon Dresses</a></li>
-																<li class="level3">
-																	<a href="#">Midi Dresses</a>
-																	<ul class="megamenu__submenu">
-																		<li class="dl-back"><a href="listing.php"><span class="icon icon-chevron_left"></span>back</a></li>
-																		<li class="level4"><a href="listing.php">Occasion & Cocktail</a></li>
-																		<li class="level4"><a href="listing.php">Casual Everyday</a></li>
-																		<li class="level4"><a href="listing.php">Going Out & Party Dresses</a></li>
-																	</ul>
-																</li>
-																<li class="level3"><a href="listing.php">Fit & Flare</a></li>
-																<li class="level3"><a href="listing.php">Shift Dresses</a></li>
-																<li class="level3"><a href="listing.php">Shirt Dresses</a></li>
-																<li class="level3"><a href="listing.php">Slip Dresses</a></li>
-																<li class="level3"><a href="listing.php">Tunic Dresses</a></li>
-															</ul>
-														</li>
-														<li class="level2"><a href="listing.php">Tops & T-shirts</a></li>
-														<li class="level2"><a href="listing.php">Sleeveless Tops</a></li>
-														<li class="level2"><a href="listing.php">Sweaters & Cardigans</a></li>
-														<li class="level2"><a href="listing.php">Jackets</a></li>
-														<li class="level2"><a href="listing.php">Outerwear</a></li>
-												</ul>
-											</li>
-											<li class="dropdown dropdown-mega-menu">
-												<span class="dropdown-toggle extra-arrow"></span>
-												<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">HEALTH &amp; BEAUTY<span class="badge badge--menu">NEW</span></span></a>
-												<ul class="dropdown-menu megamenu" role="menu">
-													<li class="col-lg-3 col-md-4">								<h4>Diet &amp; Nutrition</h4>
-												<ul>	
-													<li></li>
-												</ul>				
-											</li>
-											<li class="col-lg-3 col-md-4">
-												<h4>Fragrance</h4>
-												<ul>	
-													<li>For Men</li>
-													<li>For Women</li>
-													<li>Gift Set</li>
-												</ul>					
-												
-											</li>
-											<li class="col-lg-3 col-md-4">
-												<h4>Personal Care Applicances</h4>
-												<ul>	
-													<li>Trimmers</li>
-													<li>Shavers</li>
-													<li>MakeUp</li>
-													<li>HairCare</li>
-													<li>Skin Care</li>
-												</ul>				
-											</li>
-												</ul>
-											</li>
 											<li class="dropdown dropdown-mega-menu">
 												<span class="dropdown-toggle extra-arrow"></span>
 												<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">MEN’s<span class="badge badge--menu badge--color">SALE</span></span></a>
@@ -752,7 +685,40 @@
 													</li>
 												</ul>
 											</li>
+
+												</ul>
+									<li class="dropdown dropdown-mega-menu">
+										<a href="listing.php" class="dropdown-toggle" data-toggle="dropdown">
+										<h6>Health &amp; Beauty</h6>	
+										</a>
+										<ul class="dropdown-menu megamenu" role="menu">
+											<li class="dl-back"><a href="#"><span class="icon icon-chevron_left"></span>back</a></li>
+											<li class="col-lg-3 col-md-4">								<h4>Diet &amp; Nutrition</h4>
+												<ul>	
+													<li></li>
+												</ul>				
+											</li>
+											<li class="col-lg-3 col-md-4">
+												<h4>Fragrance</h4>
+												<ul>	
+													<li>For Men</li>
+													<li>For Women</li>
+													<li>Gift Set</li>
+												</ul>					
+												
+											</li>
+											<li class="col-lg-3 col-md-4">
+												<h4>Personal Care Applicances</h4>
+												<ul>	
+													<li>Trimmers</li>
+													<li>Shavers</li>
+													<li>MakeUp</li>
+													<li>HairCare</li>
+													<li>Skin Care</li>
+												</ul>				
+											</li>
 										</ul>
+									</li>
 									</div>
 								</nav>
 							</div>
@@ -791,69 +757,6 @@
 										</div>
 									</div>
 									<!-- account menu end -->
-									<!-- shopping cart start -->
-									<div class="cart link-inline">
-										<div class="dropdown text-right">
-											<a class="dropdown-toggle">
-											<span class="icon icon-shopping_basket"></span>
-											<span class="badge badge--cart">2</span>
-											</a>
-											<div class="dropdown-menu dropdown-menu--xs-full slide-from-top" role="menu">
-												<div class="container">
-													<div class="cart__top">Recently added item(s)</div>
-													<a href="#" class="icon icon-close cart__close"><span>CLOSE</span></a>
-													<ul>
-														<li class="cart__item">
-															<div class="cart__item__image pull-left"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
-															<div class="cart__item__control">
-																<div class="cart__item__delete"><a href="#" class="icon icon-delete"><span>Delete</span></a></div>
-																<div class="cart__item__edit"><a href="#" class="icon icon-edit"><span>Edit</span></a></div>
-															</div>
-															<div class="cart__item__info">
-																<div class="cart__item__info__title">
-																	<h2><a href="#">Quis nostrud exercit ation ullamco</a></h2>
-																</div>
-																<div class="cart__item__info__price"><span class="info-label">Price:</span><span>$84.00</span></div>
-																<div class="cart__item__info__qty"><span class="info-label">Qty:</span><input type="text" class="input--ys" value='1' /></div>
-																<div class="cart__item__info__details">
-																	<div class='multitooltip'>
-																		<a href="#">Details</a>
-																		<div class="tip on-bottom">
-																			<span><strong>Color:</strong> Purple</span>
-																			<span><strong>Quantity:</strong> 200</span>
-																			<span><strong>Image:</strong> No</span>
-																			<span><strong>Paper:</strong> Type Linen</span>
-																			<span><strong>Size:</strong> 4"x3.5"</span>
-																		</div>
-																	</div>
-																</div>
-															</div>
-														</li>
-														<li class="cart__item">
-															<div class="cart__item__image pull-left"><a href="#"><img src="images/product/product-2.jpg" alt=""/></a></div>
-															<div class="cart__item__control">
-																<div class="cart__item__delete"><a href="#" class="icon icon-delete"><span>Delete</span></a></div>
-																<div class="cart__item__edit"><a href="#" class="icon icon-edit"><span>Edit</span></a></div>
-															</div>
-															<div class="cart__item__info">
-																<div class="cart__item__info__title">
-																	<h2 class="title-center"><a href="#">Quis nostrud exercit ation ullamco</a></h2>
-																</div>
-																<div class="cart__item__info__price"><span class="info-label">Price:</span><span>$84.00</span></div>
-																<div class="cart__item__info__qty"><span class="info-label">Qty:</span><input type="text" class="input--ys" value='1' /></div>															
-															</div>
-														</li>
-													</ul>
-													<div class="cart__bottom">
-														<div class="cart__total">Cart subtotal: <span> $65.00</span></div>
-														<button class="btn btn--ys btn-checkout">Checkout <span class="icon icon--flippedX icon-reply"></span></button>
-														<a href="#" class="btn btn--ys"><span class="icon icon-shopping_basket"></span> View Cart</a>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-									<!-- shopping cart end -->			
 								</div>
 							</div>
 						</div>

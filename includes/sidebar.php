@@ -192,9 +192,6 @@
 												<li>Bluetooth HeadSets</li>
 												</ul>
 											</li>
-											<li class="col-one-fifth">
-												
-											</li>
 										</ul>
 									</li>
 									<li class="dropdown dropdown-mega-menu">
