@@ -459,11 +459,11 @@
 													<li class="level2"><a href="listing.php">Jeans</a></li>
 													<li class="level2"><a href="listing.php">Skirts</a></li>
 													<li class="level2"><a href="listing.php">Swimwear</a></li>
+													<span>ACCESSORIES</span>
 												</ul>
 											</li>
 											<li class="col-lg-3 col-md-4">
 												<a href="listing.php" class="megamenu__subtitle">
-													<span>ACCESSORIES</span>
 													<span class="megamenu__category-image hidden-xs"><img class="img-responsive" src="img/custom/mens-category-3.jpg" alt=""/></span>
 												</a>
 												<ul class="megamenu__submenu megamenu__submenu--marked">
