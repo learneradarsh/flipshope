@@ -159,28 +159,7 @@
 			</div>
 		</div>
 		<!-- Button trigger modal -->
-	  
-
-		<!--================== modal ==================-->
-		<!-- modalAddToCart -->
-		<div class="modal  fade"  id="modalAddToCart" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
-		  <div class="modal-dialog white-modal modal-sm">
-		    <div class="modal-content ">
-		      <div class="modal-header">
-		        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button>
-		      </div>
-		      <div class="modal-body">
-		        <div class="text-center">
-		        	"Mauris lacinia lectus" added to cart successfully! 
-		        </div>
-		      </div>
-		      <div class="modal-footer text-center">		       	
-		        <a href="shopping-cart-right-column.php" class="btn btn--ys btn--full btn--lg">go to cart</a>
-		      </div>
-		    </div>
-		  </div>
-		</div>
-		<!-- /modalAddToCart -->
+	 
 		<!-- modalLoginForm-->
 		<div class="modal  fade"  id="modalLoginForm" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
 		  <div class="modal-dialog white-modal modal-sm">
