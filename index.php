@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+	<head>
 		<!-- Basic -->
 		<meta charset="utf-8">
 		<title>Flipshope || Home</title>
@@ -25,11 +25,9 @@
 		<!-- Head Libs -->	
 		<!-- Modernizr -->
 		<script src="external/modernizr/modernizr.js"></script>
-
 	</head>
 	<body>
-
-		<?php include_once 'includes/header.php' ?>	
+		<?php include_once 'includes/product_header.php' ?>	
 		<!-- CONTENT section -->
 		<div id="pageContent">
 			<div class="container">
@@ -442,7 +440,7 @@
 							<div class="content-sm">
 							<!-- title -->
 							<div class="title-with-button">
-								<div class="carousel-products__button pull-right"> <span class="btn-prev"></span> <span class="btn-next"></span> </div><h4 class="text-left text-uppercase title-default pull-left">Featured Deals</h4>
+							<h4 class="text-left text-uppercase title-default pull-left">Featured Deals</h4>
 							</div>
 							<!-- /title --> 
 							<div class="row">
@@ -462,7 +460,7 @@
 							<div class="content-sm">
 							<!-- title -->
 							<div class="title-with-button">
-								<div class="carousel-products__button pull-right"> <span class="btn-prev"></span> <span class="btn-next"></span> </div><h4 class="text-left text-uppercase title-default pull-left">Coupons</h4>
+								<h4 class="text-left text-uppercase title-default pull-left">Coupons</h4>
 							</div>
 							<!-- /title --> 
 							<div class="row">

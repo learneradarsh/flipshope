@@ -553,19 +553,19 @@
                                                 <a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">LOGO</span></a>
                                             </li>	
                                             <div class="pull-right col-sm-12 col-md-12 col-lg-12 text-right">
-								<!-- search start -->
-								<div class="search link-inline">
-									<div class="search-dropdown">
-										<form class="search__form" action="#" method="get">
-											<div class="input-outer">
-												<input type="search" name="search" value="" maxlength="128" placeholder="SEARCH:">
-												<button type="submit" title="" class="icon icon-search"></button>
-											</div>
-											<a href="#" class="search__close"><span class="icon icon-close"></span></a>									
-										</form>
-									</div>
+							<!-- search start -->
+							<div class="search link-inline">
+								<div class="search-dropdown">
+									<form class="search__form" action="#" method="get">
+										<div class="input-outer">
+											<input type="search" name="search" value="" maxlength="128" placeholder="SEARCH:">
+											<button type="submit" title="" class="icon icon-search"></button>
+										</div>
+										<a href="#" class="search__close"><span class="icon icon-close"></span></a>									
+									</form>
 								</div>
-								<!-- search end -->	
+							</div>
+							<!-- search end -->	
 								
 							</div>			
 										</ul>
