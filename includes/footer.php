@@ -98,7 +98,7 @@
 			<!-- footer-copyright -->
 			<div class="container footer-copyright">
 				<div class="row">
-					<div class="col-lg-12"> <a href="index.php"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
+					<div class="col-lg-12"> <a href="index.php"><span>FLIP</span>Shope</a> &copy; 2017 . All Rights Reserved. </div>
 				</div>
 			</div>
 			<!-- /footer-copyright --> 
@@ -106,7 +106,7 @@
 		</footer>
 		<!-- END FOOTER section -->
 
-		<div id="productQuickView" class="white-popup mfp-hide">
+	<!-- 	<div id="productQuickView" class="white-popup mfp-hide">
 			<h1>Modal dialog</h1>
 			<p>You won't be able to dismiss this by usual means (escape or
 				click button), but you can close it programatically based on
@@ -157,13 +157,13 @@
 					<a href="#" class="btn btn--ys btn-compare"><span class="icon icon-shopping_basket"></span> Compare</a>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<!-- Button trigger modal -->
 	  
 
 		<!--================== modal ==================-->
 		<!-- modalAddToCart -->
-		<div class="modal  fade"  id="modalAddToCart" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
+	<!-- 	<div class="modal  fade"  id="modalAddToCart" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
 		  <div class="modal-dialog white-modal modal-sm">
 		    <div class="modal-content ">
 		      <div class="modal-header">
@@ -179,7 +179,7 @@
 		      </div>
 		    </div>
 		  </div>
-		</div>
+		</div> -->
 		<!-- /modalAddToCart -->
 		<!-- modalLoginForm-->
 		<div class="modal  fade"  id="modalLoginForm" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
