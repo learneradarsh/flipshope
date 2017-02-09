@@ -13,7 +13,7 @@
 							<div class="mobile-collapse">
 								<h4 class="mobile-collapse__title visible-xs">ABOUT US</h4>
 								<div class="mobile-collapse__content">
-									<p> No more need to look for other ecommerce themes. We provide huge number of different layouts. Yourstore comes packed with free and useful features developed to make your website creation easier. Innovative clean design, advanced functionality, UI made for humans, extensive documenta- tion and support i continue this list infinitely... </p>
+									<p> Flipshope is a popular and must have extension for Chrome that saves the money of online shoppers. At Flipshope, we guide you to buy your favorite product at the perfect time. Flipshope is the right place to find coupons, discounted e-Gift vouchers, deals and cashback offers. Also, we help you to find the least price of a product with price graphs and price comparison from 50+ e-commerce sites. Flipshope’s AutoBuy feature that pre-registers for flash sale of mobiles and the Auto Apply coupon feature that automatically adds all the coupon codes for which you qualify are the biggest highlights. Flipshope blog updates all tech news like the release of new mobiles, review of each gadget and tricks for flash sale. </p>
 									<!-- address -->
 									<address class="box-address">
 										<span class="icon icon-home"></span> 108,2-A Main-Raod,Nanjappa Layout,Bengaluru <br>
@@ -73,6 +73,7 @@
 										<ul>
 											<li><a href="http://couponzila.com/" target="_blank">CouponZilla</a></li>
 											<li><a href="http://flipshope.com/blog/trick-to-buy-redmi-3s-prime-flash-sale/" target="_blank">Flashsaletricks</a></li>
+											<li><a href="http://flipshope.com/blog" target="_blank">Blog</a></li>
 										</ul>
 									</div>
 								</div>
