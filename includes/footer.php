@@ -98,7 +98,7 @@
 			<!-- footer-copyright -->
 			<div class="container footer-copyright">
 				<div class="row">
-					<div class="col-lg-12"> <a href="index.php"><span>Your</span>Store</a> &copy; 2016 . All Rights Reserved. </div>
+					<div class="col-lg-12"> <a href="index.php"><span>FLIP</span>Shope</a> &copy; 2017 . All Rights Reserved. </div>
 				</div>
 			</div>
 			<!-- /footer-copyright --> 
@@ -106,60 +106,6 @@
 		</footer>
 		<!-- END FOOTER section -->
 
-		<div id="productQuickView" class="white-popup mfp-hide">
-			<h1>Modal dialog</h1>
-			<p>You won't be able to dismiss this by usual means (escape or
-				click button), but you can close it programatically based on
-				user choices or actions.
-			</p>
-		</div>
-		<div id="compareSlide" class="hidden-xs">
-			<div class="container">
-				<div class="compareSlide__top">
-					Compare
-				</div>
-				<a class="compareSlide__close icon icon-close">
-				</a>
-				<div class="compared-product-row">
-					<div class="compared-product">
-						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
-						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
-					</div>
-					<div class="compared-product">
-						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
-						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
-					</div>
-					<div class="compared-product">
-						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
-						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
-					</div>
-					<div class="compared-product">
-						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
-						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
-					</div>
-					<div class="compared-product">
-						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
-						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
-					</div>
-					<div class="compared-product">
-						<a href="#" class="compared-product__delete icon icon-delete"></a>
-						<div class="compared-product__image"><a href="#"><img src="images/product/product-1.jpg" alt=""/></a></div>
-						<a href="#" class="compared-product__name">Quis nostrud exercitation ullamco labori.</a>
-					</div>
-				</div>
-				<div class="compareSlide__bot">
-					<a href="#" class="clear-all icon icon-delete"><span>Clear All</span></a>
-					<a href="#" class="btn btn--ys btn-compare"><span class="icon icon-shopping_basket"></span> Compare</a>
-				</div>
-			</div>
-		</div>
-		<!-- Button trigger modal -->
-	 
 		<!-- modalLoginForm-->
 		<div class="modal  fade"  id="modalLoginForm" tabindex="-1" role="dialog" aria-label="myModalLabel" aria-hidden="true">
 		  <div class="modal-dialog white-modal modal-sm">
