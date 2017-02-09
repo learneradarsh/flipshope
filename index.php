@@ -523,7 +523,6 @@
 			</div>
 		</div>
 		<!-- End CONTENT section --> 
-		<!-- / Modal (quickViewModal) -->
 		<!-- Modal (newsletter) -->		
 		<div class="modal  modal--bg fade"  id="newsletterModal" data-pause=2000>
 		  <div class="modal-dialog white-modal">
@@ -536,7 +535,13 @@
 			        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><span class="icon icon-clear"></span></button>
 			      </div>
 			      <div class="modal-newsletter text-center">
-			      	<!-- carasoul start -->
+			      	    <img class="logo replace-2x img-responsive1" src="images/logo.png" alt=""/>
+			           
+			            <p class="color-dark">And get hot news about the theme</p>
+			            <p class="color font24 custom-font font-lighter">
+			            	Flipshope
+			            </p>
+			            <!-- carasoul start -->
 			      		<div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -577,24 +582,18 @@
 </div>
 <br/><br/>
 			      	<!-- carasoul end -->
-			            <form  method="post" name="mc-embedded-subscribe-form" target="_blank" class="subscribe-form">
-			            	<a class="btn btn-success" href="">Download Extension</a><br/><br/>
-							<div class="checkbox-group form-group-top clearfix">
-			                  <input type="checkbox" id="checkBox1">
-			                  <label for="checkBox1"> 
-			                  	<span class="check"></span>
-			                  	<span class="box"></span>
-			                  	&nbsp;&nbsp;DON&#39;T SHOW THIS POPUP AGAIN
-			                  </label>
-			                </div>			               			                
-			                
-			            </form>
+			      	<div>
+			      		<a href="#" class="btn btn-success">DOWNLOAD EXTENSION</a>
+			      	</div>
+
 			      </div>
 		      </div>
 		    </div>
 		  </div>
 		</div>
 		<!-- / Modal (newsletter) -->
+		<!--================== /modal ==================-->
+		
 		<!--================== /modal ==================-->
 		<?php include_once 'includes/footer.php'; ?>
 	</body>

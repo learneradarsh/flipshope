@@ -356,7 +356,7 @@
 								<ul class="image-links-level-3 megamenu__submenu">									
 									<li class="level3"><a href="listing.php">Jackets</a></li>									
 									<li class="level3"><a href="listing.php">Shirts</a></li>
-									<li class="level3"><a href="listing.php">Sweaters & Cardigans</a></li>
+									<li class="level3"><a href="listing.php">Sweaters &amp; Cardigans</a></li>
 									<li class="level3"><a href="listing.php">T-shirts</a></li>									
 								</ul>
 							</li>
@@ -429,22 +429,10 @@
 										<!-- //end Mobile menu Button -->
 										<ul class="nav navbar-nav">
 											<li class="dl-close"><a href="#"><span class="icon icon-close"></span>close</a></li>										
-											<li class="dropdown">											
+											<li class="dropdown">								
 												<a href="index.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"><h6>ALL CATEGORIES</h6></span></a>
-												<ul class="dropdown-menu" role="menu">				
-													<li class="col-one-fourth">
-														<span class="image-link">
-														<a href="index.php">
-														<span class="figure"><img class="img-responsive img-border" src="img/custom/layout-img-1.jpg" alt=""/><span class="btn btn--ys btn--lg">LAUNCH</span></span>
-														<span class="figcaption">Top Deals</span>
-														</a>
-														</span>
-													</li>
-												</ul>
-											</li>											
-											
-											
-											
+											</li>
+
 										</ul>
 									</li>
 									</div>
@@ -452,7 +440,8 @@
 							</div>
 							<!-- navigation end -->
 							<div class="pull-right col-sm-3 col-md-3 col-lg-2">
-								<div class="text-right">	
+								<div class="text-right">
+									
 									<!-- search start -->
 									<div class="search link-inline">
 										<a href="#" class="search__open"><span class="icon icon-search"></span></a>
