@@ -397,15 +397,6 @@
 		<!-- HEADER section -->
 		<div class="header-wrapper">
 			<header id="header">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-4 col-md-4 col-lg-6 col-xl-7">
-							<!-- logo start --> 
-							<a href="index.php"><img class="logo replace-2x img-responsive" src="images/logo.png" alt=""/> </a> 
-							<!-- logo end --> 
-						</div>
-					</div>
-				</div>
 				<div class="stuck-nav">
 					<div class="container offset-top-5">
 						<div class="row">
@@ -428,9 +419,15 @@
 										</div>
 										<!-- //end Mobile menu Button -->
 										<ul class="nav navbar-nav">
-											<li class="dl-close"><a href="#"><span class="icon icon-close"></span>close</a></li>										
+											<li class="dl-close"><a href="#"><span class="icon icon-close"></span>close</a></li>									
+											<li class="dropdown">								
+												<a href="index.php" class="dropdown-toggle" data-toggle="dropdown"><img class="logo replace-2x img-responsive" src="images/logo.png" alt=""/> </a>
+											</li>
 											<li class="dropdown">								
 												<a href="index.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline"><h6>ALL CATEGORIES</h6></span></a>
+												<ul class="dropdown-menu">
+												<?php include_once 'includes/sidebar1.php'; ?>
+												</ul>
 											</li>
 
 										</ul>
@@ -439,43 +436,6 @@
 								</nav>
 							</div>
 							<!-- navigation end -->
-							<div class="pull-right col-sm-3 col-md-3 col-lg-2">
-								<div class="text-right">
-									
-									<!-- search start -->
-									<div class="search link-inline">
-										<a href="#" class="search__open"><span class="icon icon-search"></span></a>
-										<div class="search-dropdown">
-											<form action="#" method="get">
-												<div class="input-outer">
-													<input type="search" name="search" value="" maxlength="128" placeholder="SEARCH:">
-													<button type="submit" title="" class="icon icon-search"></button>
-												</div>
-												<a href="#" class="search__close"><span class="icon icon-close"></span></a>	
-											</form>
-										</div>
-									</div>
-									<!-- search end -->										
-									<!-- account menu start -->
-									<div class="account link-inline">
-										<div class="dropdown text-right">
-											<a class="dropdown-toggle" data-toggle="dropdown">
-											<span class="icon icon-person "></span>
-											</a>
-											<ul class="dropdown-menu dropdown-menu--xs-full">
-												<li><a href="login_form.php"><span class="icon icon-person"></span>My Account</a></li>
-												<li><a href="wishlist.php"><span class="icon icon-favorite_border"></span>My Wishlist</a></li>
-												<li><a href="compare.php"><span class="icon icon-sort"></span>Compare</a></li>
-												<li><a href="checkout-step.php"><span class="icon icon-done_all"></span>Checkout</a></li>
-												<li><a href="#"  data-toggle="modal" data-target="#modalLoginForm"><span class="icon icon-lock"></span>Log In</a></li>
-												<li><a href="login_form.php"><span class="icon icon-person_add"></span>Create an account</a></li>
-												<li class="dropdown-menu__close"><a href="#"><span class="icon icon-close"></span>close</a></li>
-											</ul>
-										</div>
-									</div>
-									<!-- account menu end -->
-								</div>
-							</div>
 						</div>
 					</div>
 				</div>

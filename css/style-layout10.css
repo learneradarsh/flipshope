@@ -2759,7 +2759,7 @@ tbody.collapse.in {
   margin-left: 2px;
   vertical-align: middle;
   border-top: 4px dashed;
-  border-top: 4px solid \9;
+  border-top: 4px solid ;
   border-right: 4px solid transparent;
   border-left: 4px solid transparent;
 }
@@ -2775,7 +2775,7 @@ tbody.collapse.in {
   top: 100%;
   left: 0;
   z-index: 1px;
-  display: inline-block;
+  display: none;
   float: right;
   min-width: 10px;
   padding: 2px 0;
@@ -2803,7 +2803,7 @@ tbody.collapse.in {
 }
 .dropdown-menu > li > a {
   display: inline-block;
-  padding: 3px 2px;
+  padding: 1px 1px;
   clear: both;
   font-weight: normal;
   line-height: 1.6875;
@@ -2838,7 +2838,7 @@ tbody.collapse.in {
   cursor: not-allowed;
 }
 .open > .dropdown-menu {
-  display: inline-block;
+  display: block;
 }
 .open > a {
   outline: 0;
@@ -13604,7 +13604,7 @@ aside .recent-post-box {
     border: 0;
   }
   .dropdown.dropdown-mega-menu {
-    position: static;
+    position: relative;
   }
   .dropdown.dropdown-mega-menu .dropdown-menu {
     display: block;
