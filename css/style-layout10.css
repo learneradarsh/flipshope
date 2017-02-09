@@ -13608,7 +13608,7 @@ aside .recent-post-box {
   }
   .dropdown.dropdown-mega-menu .dropdown-menu {
     display: block;
-    top: -10000px;
+    top: -10px;
     overflow: hidden;
   }
   .dropdown.dropdown-mega-menu:hover .dropdown-menu {
@@ -13619,7 +13619,7 @@ aside .recent-post-box {
     position: relative;
   }
   .dropdown.dropdown-one-col .dropdown-menu.multicolumn {
-    min-width: 300px;
+    min-width: 150px;
   }
   .dropdown.dropdown-one-col .dropdown-menu.multicolumn a {
     -webkit-transition:  all 300ms linear 0s;
@@ -13629,7 +13629,7 @@ aside .recent-post-box {
     transition:  all 300ms linear 0s;
   }
   .dropdown.dropdown-two-col {
-    position: static;
+    position: relative;
   }
   .dropdown.dropdown-two-col .dropdown-menu {
     display: block;
@@ -13648,10 +13648,10 @@ aside .recent-post-box {
     border-left: 5px solid transparent;
   }
   .dropdown.text-right {
-    padding: 0 14px 10px 16px;
+    padding: 0 10px 10px 10px;
   }
   .settings .dropdown.text-right {
-    padding: 0 0 10px 28px;
+    padding: 0 0 10px 20px;
   }
   .dropdown > a {
     text-decoration: none;
@@ -13672,7 +13672,7 @@ aside .recent-post-box {
   }
   .settings .dropdown-menu,
   .account .dropdown-menu {
-    min-width: 209px;
+    min-width: 100px;
   }
   .settings .dropdown-menu > li > a,
   .account .dropdown-menu > li > a {
@@ -13695,7 +13695,7 @@ aside .recent-post-box {
 /* nav */
 @media (min-width: 1025px) {
   .nav .dropdown .dropdown-menu .col-md-3 {
-    width: 24.5%;
+    width: 10.5%;
   }
   .nav .dropdown.dropdown-one-col {
     position: relative;
@@ -13730,12 +13730,12 @@ aside .recent-post-box {
 }
 @media (min-width: 1025px) and (min-width: 992px) {
   .nav .dropdown .dropdown-menu {
-    width: 992px;
+    width: 500px;
   }
 }
 @media (min-width: 1025px) and (min-width: 1200px) {
   .nav .dropdown .dropdown-menu {
-    width: 1200px;
+    width: 600px;
   }
 }
 @media (min-width: 1025px) and (min-width: 1770px) {
