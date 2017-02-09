@@ -32,10 +32,6 @@
 			<section class="content offset-top-0">
 				<div class="container">
 					<div class="row product-info-outer">
-						<div id="productPrevNext" class="hidden-xs hidden-sm">
-							<a href="#" class="product-prev"><img src="images/product/product-2.jpg" alt="" /></a>
-							<a href="#" class="product-next"><img src="images/product/product-3.jpg" alt="" /></a>
-						</div>
 						<div class="col-sm-12 col-md-12 col-lg-12 col-xl-8">
 							<div class="row">
 								<div class="col-sm-4 col-md-4 col-lg-4 col-xl-4 hidden-xs">
@@ -53,9 +49,9 @@
 										</ul>
 									</div>
 								</div>
-								<div class="product-info col-sm-4 col-md-4 col-lg-4 col-xl-4 hidden-xs">
+								<div class="product-info col-sm-8 col-md-8 col-lg-8 col-xl-8 hidden-xs">
 								<div class="row">
-								<div class="col-md-6">
+								<div class="col-md-4">
 										<!-- thumbnail one -->
 											<div class = "thumbnail">
          											<img src = "/bootstrap/images/kittens.jpg" alt = "Generic placeholder thumbnail">
@@ -78,7 +74,7 @@
      										 </div>
 										<!-- thumbnail end -->
 								</div>
-								<div class="col-md-6">
+								<div class="col-md-4">
 									<!--thumbnail two -->
 										<div class = "thumbnail">
          											<img src = "/bootstrap/images/kittens.jpg" alt = "Generic placeholder thumbnail">
@@ -101,22 +97,71 @@
      										 </div>
 									<!-- thumbnail two end -->
 								</div>
-								
+								<div class="col-md-4">
+									<!--thumbnail three -->
+										<div class = "thumbnail">
+         											<img src = "/bootstrap/images/kittens.jpg" alt = "Generic placeholder thumbnail">
+     										 </div>
+      
+     										 <div class = "caption">
+											         <h3>Thumbnail label</h3>
+											         <p>Some sample text. Some sample text.</p>
+											         
+											         <p>
+											            <a href = "#" class = "btn btn-primary" role = "button">
+											               Button
+											            </a> 
+											            
+											            <a href = "#" class = "btn btn-default" role = "button">
+											               Button
+											            </a>
+											         </p>
+         
+     										 </div>
+									<!-- thumbnail three -->
+								</div>
+								<div>
+								<a href="#viewmore">ViewMore</a>
+								</div>
+								</div>
+								<div class="panel" style="margin-top: 35px;">
+								<h4>Description</h4>
 								</div>
 								</div>
 								</div>		
 							</div>
+							<div class="content" id="viewmore">
+							<div class = "thumbnail">
+         											<img src = "/bootstrap/images/kittens.jpg" alt = "Generic placeholder thumbnail">
+     										 </div>
+      
+     										 <div class = "caption">
+											         <h3>Thumbnail label</h3>
+											         <p>Some sample text. Some sample text.</p>
+											         
+											         <p>
+											            <a href = "#" class = "btn btn-primary" role = "button">
+											               Button
+											            </a> 
+											            
+											            <a href = "#" class = "btn btn-default" role = "button">
+											               Button
+											            </a>
+											         </p>
+         
+     										 </div>
+							</div>
 							<div class="content">
 								<!-- Nav tabs -->
 								<ul class="nav nav-tabs nav-tabs--ys1" role="tablist">
-									<li class="active"><a href="#Tab1"  role="tab" data-toggle="tab" class="text-uppercase">DESCRIPTION</a></li>
+									<li><a href="#Tab1"  role="tab" data-toggle="tab" class="text-uppercase">DESCRIPTION</a></li>
 									<li><a href="#Tab2" role="tab" data-toggle="tab" class="text-uppercase">Reviews</a></li>
 									<li><a href="#Tab3" role="tab" data-toggle="tab" class="text-uppercase">Tags</a></li>
-									<li><a href="#Tab4" role="tab" data-toggle="tab" class="text-uppercase">Price Graph</a></li>
+									<li class="active"><a href="#Tab4" role="tab" data-toggle="tab" class="text-uppercase">Price Graph</a></li>
 								</ul>
 								<!-- Tab panes -->
 								<div class="tab-content tab-content--ys nav-stacked">
-									<div role="tabpanel" class="tab-pane active" id="Tab1">
+									<div role="tabpanel" class="tab-pane" id="Tab1">
 										<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 										<div class="divider divider--md"></div>
 										<table class="table table-params">
@@ -253,7 +298,7 @@
 											<button type="submit" class="btn btn--ys">Add Tags</button>
 										</form>
 									</div>
-									<div role="tabpanel" class="tab-pane" id="Tab4">
+									<div role="tabpanel" class="tab-pane active" id="Tab4">
 										<h5><strong class="color text-uppercase">Lorem ipsum dolor sit amet conse ctetur adipisicing elit</strong></h5>
 										<div class="divider divider--xs"></div>
 										<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  orem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>

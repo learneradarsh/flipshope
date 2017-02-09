@@ -3,7 +3,7 @@
 										<div class="product__inside">
 											<!-- product image -->
 											<div class="product__inside__image">
-												<a href="product.php"> <img src="images/product/product-10.jpg" alt=""> </a> 
+												<a href="product.php"> <img src="images/product/coupon.jpg" alt=""> </a> 
 											</div>
 											<!-- /product image --> 											
 											<!-- product name -->

@@ -296,7 +296,7 @@
 	                $jexpander = $jthis.find("> .name .expander");
 	            $jul.show();
 	         
-	            $jexpander.php("&minus;")
+	            $jexpander.html("&minus;")
 	        })
 	    }).end().find(" .expander").each(function() {
 	        var $jthis = $j(this),
@@ -307,7 +307,7 @@
 	            if ($jul.css("display") ==
 	                "block") $jul.slideUp("slow");
 	            else $jul.slideDown("slow");
-	            $j(this).php(hide ? "&minus;" : "+");	            
+	            $j(this).html(hide ? "&minus;" : "+");	            
 	            hide = !hide
 	        })
 	    })
@@ -1691,7 +1691,7 @@ if($j('.coll-products-js').length) {
 
 //=========== Gallery
 
-//=========== Gallery Popup (gallery-layout.php)
+//=========== Gallery Popup (gallery-layout.html)
 
 jQuery(function($j) {	
     "use strict";
@@ -1734,7 +1734,7 @@ jQuery(function($j) {
 });
 
 
-//=========== Gallery (blog-variants.php)
+//=========== Gallery (blog-variants.html)
 	jQuery(function($j) {	
     "use strict";
 	if ($j('.gallery-isotope').length) {
