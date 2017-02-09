@@ -36,11 +36,10 @@
 						<div class="parallax-text">
 							<div class="block-table">
 								<div class="block-table-cell text-center">
-									<h6 class="font50 color-white">About us</h6>
-									<div class="divider divider--xs"></div>
-									<p class="font30 color-white">Lorem ipsum dolor sit amet conse ctetur adipisicing elit.</p>
+									<h6 class="font50 ">About us</h6>
 									<div class="divider divider--xs"></div>
 									<span class="bull-line"></span>
+									<p class="font18 color-dark main-font ">Flipshope is a popular and must have extension for Chrome that saves the money of online shoppers. At Flipshope, we guide you to buy your favorite product at the perfect time. Flipshope is the right place to find coupons, discounted e-Gift vouchers, deals and cashback offers. Also, we help you to find the least price of a product with price graphs and price comparison from 50+ e-commerce sites. Flipshope’s AutoBuy feature that pre-registers for flash sale of mobiles and the Auto Apply coupon feature that automatically adds all the coupon codes for which you qualify are the biggest highlights. Flipshope blog updates all tech news like the release of new mobiles, review of each gadget and tricks for flash sale.</p>
 								</div>
 							</div>							
 						</div>
@@ -53,18 +52,17 @@
 				<div class="container">
 					<h2 class="text-center title-under">Interesting Facts</h2>
 					<p class="text-center color-dark main-font">
-						<em class="font18">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>
-	Ut enim ad minim veniam, quis nostrud exercitation ullamco.</em>
+						<em class="font18">Flipshope.com is about a year old but has witnessed 150,000 extension downloads till date. Adding to that, Flipshope has earned positive reviews and an affirmative rating of 4.5 out of 5 from its users.The blog has received 15 million page views with 7K daily visitors approximately. Also, Flipshope.com has around 20K social media followers.</em>
 					</p>
 					<div class="divider divider--md1"></div>		
 					<div class="row">
 						<div class="col-md-12 col-lg-4 text-center separator-border-right separator-border-right-hidden-md">
 							<a class="link-banner1" href="#">
 								<div>
-									<span class="font96 font-middle color-custom">5000</span>
+									<span class="font96 font-middle color-custom">1,50,000</span>
 								</div>
 								<p>
-									<span class="font26 font-middle color-custom">Items in Store</span>
+									<span class="font26 font-middle color-custom">Extension Downloads</span>
 								</p>																				
 								<p class="side-offset-9">
 									Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
@@ -91,10 +89,10 @@
 						<div class="col-md-12 col-lg-4 text-center">
 							<a class="link-banner1" href="#">
 								<div>
-									<span class="font96 font-middle color-custom">1 million</span>
+									<span class="font96 font-middle color-custom">20000</span>
 								</div>
 								<p>
-									<span class="font26 font-middle color-custom">Users of the Site</span>
+									<span class="font26 font-middle color-custom">Social Media Follower</span>
 								</p>																				
 								<p class="side-offset-9">
 									Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
