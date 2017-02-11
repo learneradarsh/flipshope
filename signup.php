@@ -40,9 +40,23 @@
 					<section class="col-sm-12 col-md-6 col-lg-6 col-xl-4 col-xl-offset-2">
 						 <div class="login-form-box">
 						 	 <h3 class="color small">NEW CUSTOMER</h3>
-				             <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
+				            <form method="post" id="signup" name="signup" action="includes/usercreate.php" enctype="multipart-formdata">
+				            <div class="form-group">
+				            	<label>Email Address</label>
+				            	<input type="email" class="form-control" id="email" name="email" required="required" />
+				            </div>
+				            <div class="form-group">
+				            	<label>Name</label>
+				            	<input type="text" class="form-control" id="name" name="name" required="required" />
+				            </div>
+				            <div class="form-group">
+				            	<label>Password</label>
+				            	<input type="password" class="form-control" id="password" name="password" required="required"/>
+				            </div>
+				            
 				            <br>
-				            <button class="btn btn--ys btn--xl" onclick="location.href='#';"><span class="icon icon-person_add"></span>CREATE AN ACCOUNT</button>
+				            <button class="btn btn--ys btn--xl" type="submit"><span class="icon icon-person_add"></span>CREATE AN ACCOUNT</button>
+				            </form>
 						 </div>
 					</section>
 					<div class="divider divider--md visible-sm visible-xs"></div>
@@ -52,18 +66,18 @@
 							<p>
 								If you have an account with us, please log in.
 							</p>
-				              <form action="#" id="form-returning">
+				              <form action="" id="form-returning" name="login" method="POST">
 				                <div class="form-group">
 				                  <label for="email">Email Address <sup>*</sup></label>
-				                  <input type="email" class="form-control" id="email">
+				                  <input type="email" class="form-control" id="email" name="email" required="required"/>
 				                </div>
 				                <div class="form-group">
 				                  <label for="password">Password <sup>*</sup></label>
-				                  <input type="password" class="form-control" id="password">
+				                  <input type="password" class="form-control" id="password" name="password" required="required"/>
 				                </div>
 				                <div class="row">
 				                	<div class="col-xs-12 col-sm-6 col-md-6">
-				                		<button type="submit" class="btn btn--ys btn-top btn--xl" onclick="document.getElementById('form-returning').submit();"><span class="icon icon-vpn_key"></span>Login</button>			               			
+				                		<button type="submit" class="btn btn--ys btn-top btn--xl"><span class="icon icon-vpn_key"></span>Login</button>			               			
 				                	</div>
 				                	<div class="divider divider--md visible-xs"></div>
 				                	<div class="col-xs-12 col-sm-6 col-md-6">

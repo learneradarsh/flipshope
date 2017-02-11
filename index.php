@@ -1,3 +1,9 @@
+<?php
+if($_GET['q']!=NULL)
+{
+	echo '<script type="text/javascript">alert("Thanks for choosing Flipshope.");</script>';
+}
+?>
 <!DOCTYPE html>
 <html>
 	<head>
