@@ -141,14 +141,13 @@
 	                </div>
 	                <button type="button" class="btn btn--ys btn--full btn--lg">Login</button>
 			        <div class="divider divider--xs"></div>
-			        <button type="button" class="btn btn--ys btn--full btn--lg btn-blue"><span class="fa fa-facebook"></span> Login with Facebook</button>
+			        <div class="fb-login-button" data-max-rows="2" data-size="large" data-show-faces="true" data-auto-logout-link="true"></div>
 			        <div class="divider divider--xs"></div>
 			        <button type="button" class="btn btn--ys btn--full btn--lg btn-red"><span class="fa fa-google-plus"></span> Login with Google</button>
 			        <div class="divider divider--xs"></div>
 			        <ul class="list-arrow-right">
-			        	<li><a href="#">Forgot your username?</a></li>
-			        	<li><a href="#">Forgot your password?</a></li>
-			        	<li><a href="#">Create an account</a></li>
+			        	<li><a href="forgot_password.php">Forgot your password?</a></li>
+			        	<li><a href="signup.php">Create an account</a></li>
 			        </ul>
 			      </div>			      
 			  </form>

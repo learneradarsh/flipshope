@@ -33,6 +33,16 @@ if($_GET['q']!=NULL)
 		<script src="external/modernizr/modernizr.js"></script>
 	</head>
 	<body>
+		<!-- facebook sdk files -->
+			<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<!-- facebook sdk files end -->
 		<?php include_once 'includes/product_header.php' ?>	
 		<!-- CONTENT section -->
 		<div id="pageContent">
