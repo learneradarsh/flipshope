@@ -459,9 +459,7 @@
 					<div class="row">					
 						<!-- col-left -->
 						<div class="col-sm-3 col-md-3 col-lg-3 col-xl-3">						
-							<div class="settings">
-								
-							</div>
+							
 						</div>
 						<!-- /col-left -->
 						<!-- col-right -->
@@ -481,7 +479,7 @@
 							</div>
 							<!-- search end -->
 							<!-- account menu start -->
-							<div class="account link-inline hidden mobile-menu-on">
+							<div class="account link-inline hidden mobile-menu-off">
 								<div class="dropdown text-right">
 									<a class="dropdown-toggle" data-toggle="dropdown">
 									<span class="icon icon-person "></span>
@@ -489,7 +487,7 @@
 									<ul class="dropdown-menu dropdown-menu--xs-full">
 										<li><a href="https://chrome.google.com/webstore/detail/flipshope/adikhbfjdbjkhelbdnffogkobkekkkej"><span class="icon icon-person"></span>Chrome Extension</a></li>
 										<li><a href="http://flipshope.com/blog"><span class="icon icon-favorite_border"></span>Blog</a></li>
-										<li><a href="compare.php"><span class="icon icon-sort"></span>About Us</a></li>
+										
 										<li><a href="login_form.php"><span class="icon icon-lock"></span>Log In</a></li>
 										<li><a href="login_form.php"><span class="icon icon-person_add"></span>Create an account</a></li>
 										<li class="dropdown-menu__close"><a href="#"><span class="icon icon-close"></span>close</a></li>
@@ -515,20 +513,16 @@
 				<div class="container offset-top-5">
 					<div class="row">
 						<!-- col-left -->
-						<div class="col-xs-12 col-md-3 col-lg-3 col-xl-3 col-sm-3">
+						<div class="col-md-3 col-lg-3 col-xl-3 col-sm-3 visible-mobile-menu-off">
 							<!-- logo start --> 
 							<a href="index.php"><img class="logo replace-2x img-responsive" src="img/logo.png" alt=""/></a> 
 							<!-- logo end --> 
 						</div>
 						<!-- /col-left -->						
 						<!-- col-right -->										
-						<div class="col-sm-6 col-md-8 col-lg-8 col-xl-8 pull-right text-right">
-							<div class="row-functional-link">								
-								
-					</div>
-				</div>
-				<div class="stuck-nav ">
-					<div class="container">
+						
+				<div class="stuck-nav">
+					<div class="container  navbar-fixed-top" style="overflow:hidden;position:fixed;">
 						<div class="row">
 							<div class="pull-left col-sm-9 col-md-9 col-lg-10">
 								<nav class="navbar">
@@ -536,16 +530,49 @@
 										<!-- Mobile menu Button-->
 										<div class="col-xs-2 visible-mobile-menu-on">
 											<div class="expand-nav compact-hidden">
-												<a href="#off-canvas-menu" class="off-canvas-menu-toggle">
-													<div class="navbar-toggle"> 
+<div class="navbar-header">												
+													<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex-collapse">
+                                                                                                                <span class="sr-only">Toggle</span>
 														<span class="icon-bar"></span> 
 														<span class="icon-bar"></span> 
 														<span class="icon-bar"></span> 
 														<span class="menu-text">MENU</span> 
-													</div>
-												</a>
-											</div>
-										</div>
+													</button>
+
+</div>												
+                                                                 
+											
+
+                                                                           <div class="collapse navbar-collapse navbar-ex1-collapse">
+		
+		<ul>
+                
+			<li class="active"><a href="index.html">Home</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="Contact.html">Contact</a></li>
+			<li><a href="#">FAQ</a></li>
+             
+             
+            
+		</ul>
+		</div>
+		<div class="navbar-right">
+       
+		 <form class="navbar-form" role="search">
+		   <div class="input-group">
+			<input class="form-control" placeholder="Search" name="srch-term" id="srch-term" type="text">
+			<div class="input-group-btn"><a href="search.html">
+				<button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button></a>
+			</div><!-- closed-->
+      		   </div>
+		 </form>
+		</div>
+		</div>								 </div>
+                             <!--data target .navbar-collapse-->
+                        
+                                              
+
+
 										<!-- //end Mobile menu Button -->
 										<ul class="nav navbar-nav">
 											
@@ -553,10 +580,23 @@
                                             <li class="dropdown dropdown-mega-menu">
                                                 <span class="dropdown-toggle extra-arrow"></span>
                                                 <a href="listing.php" class="dropdown-toggle" data-toggle="dropdown"><span class="act-underline">LOGO</span></a>
-                                            </li>				
-                                            						
-										</ul>
+                                            </li>
+   
+  <!--search bar-->
+                                                             <li style="float:left;margin-top:11px;margin-left:5px;"">
+                                                             <form class="input-group" style="width:400px;">
+                                                             
+    
+<input id="search" type="text" class="form-control" name="search" placeholder="Search">
+
+                                                          </form>				
+                                            			</li>
+<li style="margin-left:0px;margin-top:11px;">
+<button type="button" class="btn btn-default" style="height:40px;">
+<span class="icon icon-search"></span></button>			
+</li>										</ul>
 									</div>
+
 								</nav>
 							</div>
 							<div class="pull-right col-sm-3 col-md-3 col-lg-2 text-right">
